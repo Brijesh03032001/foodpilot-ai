@@ -1,0 +1,4633 @@
+[
+  {
+    "name": "Spark Social SF",
+    "url": "https://www.yelp.com/biz/spark-social-sf-san-francisco",
+    "rating": 4.5,
+    "reviewCount": 638,
+    "price": "$$",
+    "categories": [],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": null,
+    "page": 1,
+    "latitude": 37.770778602609305,
+    "longitude": -122.39143875380388,
+    "mapUrl": "https://www.yelp.com/map/spark-social-sf-san-francisco",
+    "id": "spark-social-sf-san-francisco",
+    "cuisines": [],
+    "description": "SPARK SOCIAL SF - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-15:00",
+      "Monday 17:00-21:00",
+      "Tuesday 11:00-15:00",
+      "Tuesday 17:00-21:00",
+      "Wednesday 11:00-15:00",
+      "Wednesday 17:00-21:00",
+      "Thursday 11:00-15:00",
+      "Thursday 17:00-21:00",
+      "Friday 11:00-15:00",
+      "Friday 16:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/sr5islTCnA7bOhcXHZWkPg/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.770778602609305,
+      "lng": -122.39143875380388
+    }
+  },
+  {
+    "name": "Poke Delish",
+    "url": "https://www.yelp.com/biz/poke-delish-san-francisco-5",
+    "rating": 4.5,
+    "reviewCount": 638,
+    "price": "$$",
+    "categories": [
+      "Poke",
+      "Hawaiian"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 988-2631",
+    "page": 1,
+    "latitude": 37.77078160245556,
+    "longitude": -122.39167220238846,
+    "mapUrl": "https://www.yelp.com/map/poke-delish-san-francisco-5",
+    "id": "poke-delish-san-francisco-5",
+    "cuisines": [
+      "poke",
+      "hawaiian"
+    ],
+    "description": "POKE DELISH - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/fzo6FPFTd6npI8IJyoWZ5Q/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77078160245556,
+      "lng": -122.39167220238846
+    }
+  },
+  {
+    "name": "KoJa Kitchen SF Spark",
+    "url": "https://www.yelp.com/biz/koja-kitchen-sf-spark-san-francisco",
+    "rating": 4.5,
+    "reviewCount": 638,
+    "price": "$$",
+    "categories": [
+      "Korean",
+      "Asian Fusion",
+      "Japanese"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 830-3944",
+    "page": 1,
+    "latitude": 37.77076,
+    "longitude": -122.391709,
+    "mapUrl": "https://www.yelp.com/map/koja-kitchen-sf-spark-san-francisco",
+    "id": "koja-kitchen-sf-spark-san-francisco",
+    "cuisines": [
+      "korean",
+      "asian_fusion",
+      "japanese"
+    ],
+    "description": "KOJA KITCHEN SF SPARK - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/v7ZuQ7FfiA1CJxztIxsWVA/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77076,
+      "lng": -122.391709
+    }
+  },
+  {
+    "name": "Golden Prime Et Döner",
+    "url": "https://www.yelp.com/biz/golden-prime-et-d%C3%B6ner-san-francisco",
+    "rating": 5,
+    "reviewCount": 14,
+    "price": null,
+    "categories": [
+      "Turkish",
+      "Kebab"
+    ],
+    "address": "151 Vermont St, San Francisco, CA, 94103",
+    "phone": "(929) 641-6977",
+    "page": 1,
+    "latitude": 37.76770319019772,
+    "longitude": -122.4047152026844,
+    "mapUrl": "https://www.yelp.com/map/golden-prime-et-d%C3%B6ner-san-francisco",
+    "id": "golden-prime-et-döner-san-francisco",
+    "cuisines": [
+      "turkish",
+      "kebab"
+    ],
+    "description": "GOLDEN PRIME ET DÖNER - - 151 Vermont St, San Francisco, CA 94103",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:00-22:00",
+      "Wednesday 11:00-22:00",
+      "Thursday 11:00-22:00",
+      "Friday 11:00-22:00",
+      "Saturday 11:00-23:00",
+      "Sunday 11:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/oBVHjKtMaF-sYNlNF_laTg/l.jpg",
+    "streetAddress": "151 Vermont St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76770319019772,
+      "lng": -122.4047152026844
+    }
+  },
+  {
+    "name": "Rasa Rasa",
+    "url": "https://www.yelp.com/biz/rasa-rasa-san-francisco-3",
+    "rating": 4.5,
+    "reviewCount": 140,
+    "price": "$$",
+    "categories": [
+      "Indonesian",
+      "Asian Fusion"
+    ],
+    "address": "1379 4th St, San Francisco, CA, 94158",
+    "phone": "(415) 769-6389",
+    "page": 1,
+    "latitude": 37.77089520000001,
+    "longitude": -122.3903003,
+    "mapUrl": "https://www.yelp.com/map/rasa-rasa-san-francisco-3",
+    "id": "rasa-rasa-san-francisco-3",
+    "cuisines": [
+      "indonesian",
+      "asian_fusion"
+    ],
+    "description": "RASA RASA - - 1379 4th St, San Francisco, CA 94158",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 11:00-15:00",
+      "Tuesday 16:30-20:00",
+      "Wednesday 11:00-15:00",
+      "Wednesday 16:30-20:00",
+      "Thursday 11:00-15:00",
+      "Thursday 16:30-20:00",
+      "Friday 11:00-15:00",
+      "Friday 16:30-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lK6U9_xM2w-xuO9JfSrvzg/l.jpg",
+    "streetAddress": "1379 4th St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77089520000001,
+      "lng": -122.3903003
+    }
+  },
+  {
+    "name": "Aunty Vickys",
+    "url": "https://www.yelp.com/biz/aunty-vickys-san-francisco",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "price": "$$",
+    "categories": [],
+    "address": "991 Tennessee St, San Francisco, CA, 94107",
+    "phone": "(415) 350-8875",
+    "page": 1,
+    "latitude": 37.7597910889649,
+    "longitude": -122.389293044509,
+    "mapUrl": "https://www.yelp.com/map/aunty-vickys-san-francisco",
+    "id": "aunty-vickys-san-francisco",
+    "cuisines": [],
+    "description": "17 reviews and 14 photos of AUNTY VICKYS \"I came to Aunty vickys on opening day. I was invited by my girlfriend and her parents who's family friends invited us. There was a lot of people and a long wait and it was WELL worth it!!! I Had \"just da chicken & all da fixins\" it was lightly battered fried",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pKd2ImSNc0F6_e53k8NLsA/l.jpg",
+    "streetAddress": "991 Tennessee St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94107",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7597910889649,
+      "lng": -122.389293044509
+    }
+  },
+  {
+    "name": "Roli Roti Gourmet Rotisserie",
+    "url": "https://www.yelp.com/biz/roli-roti-gourmet-rotisserie-san-francisco",
+    "rating": 4.3,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Sandwiches",
+      "Specialty Food"
+    ],
+    "address": "1 Ferry Bldg, San Francisco, CA, 94105",
+    "phone": "(510) 780-0300",
+    "page": 1,
+    "latitude": 37.79490240049029,
+    "longitude": -122.392590507461,
+    "mapUrl": "https://www.yelp.com/map/roli-roti-gourmet-rotisserie-san-francisco",
+    "id": "roli-roti-gourmet-rotisserie-san-francisco",
+    "cuisines": [
+      "sandwiches",
+      "specialty_food"
+    ],
+    "description": "ROLI ROTI GOURMET ROTISSERIE - - 1 Ferry Bldg, San Francisco, CA 94105",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 11:00-14:00",
+      "Thursday 11:00-14:00",
+      "Saturday 10:00-14:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mQAhfRYx-HNR2ubx_4h_mA/l.jpg",
+    "streetAddress": "1 Ferry Bldg",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79490240049029,
+      "lng": -122.392590507461
+    }
+  },
+  {
+    "name": "Off the Grid Fort Mason Center",
+    "url": "https://www.yelp.com/biz/off-the-grid-fort-mason-center-san-francisco-3",
+    "rating": 4.2,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Food Court"
+    ],
+    "address": null,
+    "phone": null,
+    "page": 1,
+    "latitude": 37.806232987070516,
+    "longitude": -122.4313023607662,
+    "mapUrl": "https://www.yelp.com/map/off-the-grid-fort-mason-center-san-francisco-3",
+    "id": "off-the-grid-fort-mason-center-san-francisco-3",
+    "cuisines": [
+      "food_court"
+    ],
+    "description": "OFF THE GRID FORT MASON CENTER - - 2 Marina Blvd, Fort Mason Ctr, Bldg C362, San Francisco, CA 94123",
+    "status": "offline",
+    "openingHours": null,
+    "image": null,
+    "streetAddress": null,
+    "city": null,
+    "region": null,
+    "postalCode": null,
+    "country": null,
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.806232987070516,
+      "lng": -122.4313023607662
+    }
+  },
+  {
+    "name": "Leo's Tacos",
+    "url": "https://www.yelp.com/biz/leos-tacos-san-francisco",
+    "rating": 4,
+    "reviewCount": 122,
+    "price": null,
+    "categories": [
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "1234 Great Hwy, San Francisco, CA, 94122",
+    "phone": "(323) 346-2001",
+    "page": 1,
+    "latitude": 37.76309223220253,
+    "longitude": -122.5095382,
+    "mapUrl": "https://www.yelp.com/map/leos-tacos-san-francisco",
+    "id": "leos-tacos-san-francisco",
+    "cuisines": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "LEO'S TACOS - - 1234 Great Hwy, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 12:00-23:00",
+      "Wednesday 12:00-23:00",
+      "Thursday 12:00-23:00",
+      "Friday 12:00-00:00",
+      "Saturday 12:00-00:00",
+      "Sunday 12:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/OEdy9lLUsOsfytGvszrPnw/l.jpg",
+    "streetAddress": "1234 Great Hwy",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76309223220253,
+      "lng": -122.5095382
+    }
+  },
+  {
+    "name": "Dominic’s Food Truck",
+    "url": "https://www.yelp.com/biz/dominic-s-food-truck-south-san-francisco",
+    "rating": 4.1,
+    "reviewCount": 58,
+    "price": null,
+    "categories": [],
+    "address": "South San Francisco, CA, 94080",
+    "phone": "(650) 240-9050",
+    "page": 1,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/dominic-s-food-truck-south-san-francisco",
+    "id": "dominic-s-food-truck-south-san-francisco",
+    "cuisines": [],
+    "description": "DOMINIC’S FOOD TRUCK - - South San Francisco, CA 94080",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 10:00-18:00",
+      "Wednesday 10:00-18:00",
+      "Thursday 10:00-18:00",
+      "Friday 10:00-18:00",
+      "Saturday 10:00-18:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mE4kD9g_OwM9UMFV7LKkkA/l.jpg",
+    "streetAddress": null,
+    "city": "South San Francisco",
+    "region": "CA",
+    "postalCode": "94080",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "El Fuego",
+    "url": "https://www.yelp.com/biz/el-fuego-san-francisco-61",
+    "rating": 4.7,
+    "reviewCount": 239,
+    "price": "$$",
+    "categories": [
+      "Mexican",
+      "Sandwiches"
+    ],
+    "address": "101 Montgomery St, San Francisco, CA, 94129",
+    "phone": "(415) 465-9395",
+    "page": 1,
+    "latitude": 37.800006430166725,
+    "longitude": -122.45971802626916,
+    "mapUrl": "https://www.yelp.com/map/el-fuego-san-francisco-61",
+    "id": "el-fuego-san-francisco-61",
+    "cuisines": [
+      "mexican",
+      "sandwiches"
+    ],
+    "description": "EL FUEGO - - 101 Montgomery St, San Francisco, CA 94129",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-14:00",
+      "Wednesday 11:00-14:00",
+      "Thursday 11:00-14:00",
+      "Friday 15:00-21:00",
+      "Saturday 11:00-15:00",
+      "Sunday 12:00-17:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ERya9v6nUfVWMY81J_X_PA/l.jpg",
+    "streetAddress": "101 Montgomery St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94129",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.800006430166725,
+      "lng": -122.45971802626916
+    }
+  },
+  {
+    "name": "Smashin' Good Burgers",
+    "url": "https://www.yelp.com/biz/smashin-good-burgers-san-francisco",
+    "rating": 5,
+    "reviewCount": 11,
+    "price": null,
+    "categories": [
+      "Burgers"
+    ],
+    "address": "77 Hagiwara Tea Garden Dr, San Francisco, CA, 94118",
+    "phone": "(415) 326-3175",
+    "page": 1,
+    "latitude": 37.7702031,
+    "longitude": -122.4692499,
+    "mapUrl": "https://www.yelp.com/map/smashin-good-burgers-san-francisco",
+    "id": "smashin-good-burgers-san-francisco",
+    "cuisines": [
+      "burgers"
+    ],
+    "description": "SMASHIN' GOOD BURGERS - - 77 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
+    "status": "offline",
+    "openingHours": [
+      "Saturday 11:00-15:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/LhsjkQPlb6OdwmwoyVBO3w/l.jpg",
+    "streetAddress": "77 Hagiwara Tea Garden Dr",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94118",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7702031,
+      "lng": -122.4692499
+    }
+  },
+  {
+    "name": "Señor Sisig - Food Trucks",
+    "url": "https://www.yelp.com/biz/se%C3%B1or-sisig-food-trucks-san-francisco-3",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Filipino",
+      "Mexican",
+      "Tacos"
+    ],
+    "address": null,
+    "phone": null,
+    "page": 1,
+    "latitude": 37.25093208894291,
+    "longitude": -122.71374420378743,
+    "mapUrl": "https://www.yelp.com/map/se%C3%B1or-sisig-food-trucks-san-francisco-3",
+    "id": "señor-sisig-food-trucks-san-francisco-3",
+    "cuisines": [
+      "filipino",
+      "mexican",
+      "tacos"
+    ],
+    "description": "SEÑOR SISIG - - San Francisco, CA 94104",
+    "status": "offline",
+    "openingHours": null,
+    "image": null,
+    "streetAddress": null,
+    "city": null,
+    "region": null,
+    "postalCode": null,
+    "country": null,
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.25093208894291,
+      "lng": -122.71374420378743
+    }
+  },
+  {
+    "name": "The Chairman",
+    "url": "https://www.yelp.com/biz/the-chairman-san-francisco-4",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Asian Fusion"
+    ],
+    "address": null,
+    "phone": null,
+    "page": 1,
+    "latitude": 37.7419264,
+    "longitude": -122.403654,
+    "mapUrl": "https://www.yelp.com/map/the-chairman-san-francisco-4",
+    "id": "the-chairman-san-francisco-4",
+    "cuisines": [
+      "asian_fusion"
+    ],
+    "description": "THE CHAIRMAN - CLOSED - - 2723 Oakdale Ave, San Francisco, CA 94124",
+    "status": "open",
+    "openingHours": null,
+    "image": null,
+    "streetAddress": null,
+    "city": null,
+    "region": null,
+    "postalCode": null,
+    "country": null,
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7419264,
+      "lng": -122.403654
+    }
+  },
+  {
+    "name": "SPRO",
+    "url": "https://www.yelp.com/biz/spro-san-francisco-9",
+    "rating": null,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Coffee & Tea",
+      "Waffles"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 971-7908",
+    "page": 1,
+    "latitude": 37.77089814034783,
+    "longitude": -122.39136027268194,
+    "mapUrl": "https://www.yelp.com/map/spro-san-francisco-9",
+    "id": "spro-san-francisco-9",
+    "cuisines": [
+      "coffee_and_tea",
+      "waffles"
+    ],
+    "description": "SPRO - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 07:00-15:00",
+      "Tuesday 07:00-15:00",
+      "Wednesday 07:00-15:00",
+      "Thursday 07:00-15:00",
+      "Friday 07:00-16:00",
+      "Saturday 07:00-16:00",
+      "Sunday 07:00-16:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/AZfou__1I0Xacq59fmadoA/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77089814034783,
+      "lng": -122.39136027268194
+    }
+  },
+  {
+    "name": "Cookies N Cream SJ",
+    "url": "https://www.yelp.com/biz/cookies-n-cream-sj-san-jose",
+    "rating": null,
+    "reviewCount": null,
+    "price": "$",
+    "categories": [
+      "Ice Cream & Frozen Yogurt"
+    ],
+    "address": "San Jose, CA, 95112",
+    "phone": "(669) 444-0553",
+    "page": 1,
+    "latitude": 37.3688111,
+    "longitude": -121.8967257,
+    "mapUrl": "https://www.yelp.com/map/cookies-n-cream-sj-san-jose",
+    "id": "cookies-n-cream-sj-san-jose",
+    "cuisines": [
+      "ice_cream_and_frozen_yogurt"
+    ],
+    "description": "COOKIES N CREAM SJ - - San Jose, CA 95112",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-23:00",
+      "Tuesday 11:00-23:00",
+      "Wednesday 11:00-23:00",
+      "Thursday 11:00-23:00",
+      "Friday 11:00-23:00",
+      "Saturday 11:00-23:00",
+      "Sunday 11:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/dUEk42my4Dm-2Bz_5KZjZQ/l.jpg",
+    "streetAddress": null,
+    "city": "San Jose",
+    "region": "CA",
+    "postalCode": "95112",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.3688111,
+      "lng": -121.8967257
+    }
+  },
+  {
+    "name": "Waffle Mania Truck",
+    "url": "https://www.yelp.com/biz/waffle-mania-truck-san-francisco",
+    "rating": null,
+    "reviewCount": null,
+    "price": "$",
+    "categories": [
+      "Desserts",
+      "Waffles"
+    ],
+    "address": "1182 Market St\nCivic Center Farmer&apos;s Market, San Francisco, CA, 94102",
+    "phone": null,
+    "page": 1,
+    "latitude": 37.7795342481134,
+    "longitude": -122.414517402649,
+    "mapUrl": "https://www.yelp.com/map/waffle-mania-truck-san-francisco",
+    "id": "waffle-mania-truck-san-francisco",
+    "cuisines": [
+      "desserts",
+      "waffles"
+    ],
+    "description": "WAFFLE MANIA TRUCK - - 1182 Market St, Civic Center Farmer's Market, San Francisco, CA 94102",
+    "status": "offline",
+    "openingHours": [
+      "Wednesday 08:00-14:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/m1EngTPbNiEdkL1qXPnszg/l.jpg",
+    "streetAddress": "1182 Market St\nCivic Center Farmer&apos;s Market",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7795342481134,
+      "lng": -122.414517402649
+    }
+  },
+  {
+    "name": "Shake Shack Cow Hollow",
+    "url": "https://www.yelp.com/biz/shake-shack-cow-hollow-san-francisco",
+    "rating": null,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Ice Cream & Frozen Yogurt"
+    ],
+    "address": "3060 Fillmore Street, San Francisco, CA, 94123",
+    "phone": "(415) 405-4618",
+    "page": 1,
+    "latitude": 37.7979025,
+    "longitude": -122.43536,
+    "mapUrl": "https://www.yelp.com/map/shake-shack-cow-hollow-san-francisco",
+    "id": "shake-shack-cow-hollow-san-francisco",
+    "cuisines": [
+      "fast_food",
+      "burgers",
+      "ice_cream_and_frozen_yogurt"
+    ],
+    "description": "SHAKE SHACK COW HOLLOW - - 3060 Fillmore Street, San Francisco, CA 94123",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-00:00",
+      "Tuesday 10:00-00:00",
+      "Wednesday 10:00-00:00",
+      "Thursday 10:00-02:00",
+      "Friday 10:00-02:00",
+      "Saturday 10:00-02:00",
+      "Sunday 10:00-00:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/D2cM6KoTjnfgDZq06sP78w/l.jpg",
+    "streetAddress": "3060 Fillmore Street",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94123",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7979025,
+      "lng": -122.43536
+    }
+  },
+  {
+    "name": "California Kahve",
+    "url": "https://www.yelp.com/biz/california-kahve-san-francisco-2",
+    "rating": 4.4,
+    "reviewCount": 58,
+    "price": null,
+    "categories": [
+      "Coffee & Tea",
+      "Donuts"
+    ],
+    "address": "300 Bowling Green Dr, San Francisco, CA, 94122",
+    "phone": "(415) 254-5388",
+    "page": 2,
+    "latitude": 37.7682923,
+    "longitude": -122.4582182,
+    "mapUrl": "https://www.yelp.com/map/california-kahve-san-francisco-2",
+    "id": "california-kahve-san-francisco-2",
+    "cuisines": [
+      "coffee_and_tea",
+      "donuts"
+    ],
+    "description": "CALIFORNIA KAHVE - - 300 Bowling Green Dr, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 09:00-17:00",
+      "Wednesday 09:00-17:00",
+      "Thursday 09:00-17:00",
+      "Friday 09:00-17:00",
+      "Saturday 08:00-18:00",
+      "Sunday 08:00-18:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/K4pjUMNzTbw7H_zLx-xNgw/l.jpg",
+    "streetAddress": "300 Bowling Green Dr",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7682923,
+      "lng": -122.4582182
+    }
+  },
+  {
+    "name": "Love Magical Donuts",
+    "url": "https://www.yelp.com/biz/love-magical-donuts-san-francisco-2",
+    "rating": 5,
+    "reviewCount": 40,
+    "price": null,
+    "categories": [
+      "Donuts"
+    ],
+    "address": "San Francisco, CA, 94102",
+    "phone": "(415) 890-5423",
+    "page": 2,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/love-magical-donuts-san-francisco-2",
+    "id": "love-magical-donuts-san-francisco-2",
+    "cuisines": [
+      "donuts"
+    ],
+    "description": "LOVE MAGICAL DONUTS - - San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 08:30-17:00",
+      "Wednesday 08:30-17:00",
+      "Thursday 08:30-17:00",
+      "Friday 08:30-17:00",
+      "Saturday 08:30-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/vMEzgLw6FPXeeyd8yOgDtA/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "El Gallo Giro Taco Truck",
+    "url": "https://www.yelp.com/biz/el-gallo-giro-taco-truck-san-francisco-4",
+    "rating": 4.7,
+    "reviewCount": 288,
+    "price": "$",
+    "categories": [
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "23rd St &amp; Treat Ave, San Francisco, CA, 94110",
+    "phone": "(415) 240-1224",
+    "page": 2,
+    "latitude": 37.754186143481824,
+    "longitude": -122.4131678,
+    "mapUrl": "https://www.yelp.com/map/el-gallo-giro-taco-truck-san-francisco-4",
+    "id": "el-gallo-giro-taco-truck-san-francisco-4",
+    "cuisines": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "EL GALLO GIRO TACO TRUCK - - 23rd St & Treat Ave, San Francisco, CA 94110",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-17:00",
+      "Tuesday 10:00-17:00",
+      "Wednesday 10:00-17:00",
+      "Thursday 10:00-17:00",
+      "Friday 10:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/1BU7DOixNRHWfpxgRv_Eww/l.jpg",
+    "streetAddress": "23rd St &amp; Treat Ave",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.754186143481824,
+      "lng": -122.4131678
+    }
+  },
+  {
+    "name": "Mexi-Cali",
+    "url": "https://www.yelp.com/biz/mexi-cali-san-francisco",
+    "rating": 4.6,
+    "reviewCount": 14,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "1288 19th Ave, San Francisco, CA, 94122",
+    "phone": "(415) 660-0469",
+    "page": 2,
+    "latitude": 37.76387520000001,
+    "longitude": -122.4766751,
+    "mapUrl": "https://www.yelp.com/map/mexi-cali-san-francisco",
+    "id": "mexi-cali-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "MEXI-CALI - - 1288 19th Ave, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-17:00",
+      "Tuesday 11:00-17:00",
+      "Wednesday 11:00-17:00",
+      "Thursday 11:00-17:00",
+      "Friday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/GbZauOoXNXM8IGCyBhHdpA/l.jpg",
+    "streetAddress": "1288 19th Ave",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76387520000001,
+      "lng": -122.4766751
+    }
+  },
+  {
+    "name": "Momo Noodle - Mission Bay",
+    "url": "https://www.yelp.com/biz/momo-noodle-mission-bay-san-francisco",
+    "rating": 4.2,
+    "reviewCount": 45,
+    "price": "$$",
+    "categories": [
+      "Noodles",
+      "Szechuan",
+      "Chinese"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(408) 800-6819",
+    "page": 2,
+    "latitude": 37.7707779,
+    "longitude": -122.3914399,
+    "mapUrl": "https://www.yelp.com/map/momo-noodle-mission-bay-san-francisco",
+    "id": "momo-noodle-mission-bay-san-francisco",
+    "cuisines": [
+      "noodles",
+      "szechuan",
+      "chinese"
+    ],
+    "description": "MOMO NOODLE - MISSION BAY - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:00-19:30",
+      "Wednesday 11:00-19:30",
+      "Thursday 11:00-19:30",
+      "Friday 11:00-19:30",
+      "Saturday 11:00-19:30",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HauyHyo0XMkhjAmBec7z2A/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7707779,
+      "lng": -122.3914399
+    }
+  },
+  {
+    "name": "Brothers SF",
+    "url": "https://www.yelp.com/biz/brothers-sf-san-francisco-2",
+    "rating": 3.5,
+    "reviewCount": 30,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "3650 Geary Blvd, San Francisco, CA, 94118",
+    "phone": "(415) 629-5955",
+    "page": 2,
+    "latitude": 37.78160321932997,
+    "longitude": -122.45862188550069,
+    "mapUrl": "https://www.yelp.com/map/brothers-sf-san-francisco-2",
+    "id": "brothers-sf-san-francisco-2",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "BROTHERS SF - - 3650 Geary Blvd, San Francisco, CA 94118",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-20:00",
+      "Tuesday 10:00-20:00",
+      "Wednesday 10:00-20:00",
+      "Thursday 10:00-20:00",
+      "Friday 10:00-20:00",
+      "Saturday 10:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Jamz-v4xk9HZ2IhAkdJsCQ/l.jpg",
+    "streetAddress": "3650 Geary Blvd",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94118",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.78160321932997,
+      "lng": -122.45862188550069
+    }
+  },
+  {
+    "name": "Tijuanita",
+    "url": "https://www.yelp.com/biz/tijuanita-san-francisco",
+    "rating": 3.4,
+    "reviewCount": 7,
+    "price": null,
+    "categories": [
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "850 La Playa St, San Francisco, CA, 94121",
+    "phone": "(628) 269-9340",
+    "page": 2,
+    "latitude": 37.77194800904545,
+    "longitude": -122.5098800356418,
+    "mapUrl": "https://www.yelp.com/map/tijuanita-san-francisco",
+    "id": "tijuanita-san-francisco",
+    "cuisines": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "TIJUANITA - - 850 La Playa St, San Francisco, CA 94121",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:30-22:30",
+      "Tuesday 09:00-09:30",
+      "Tuesday 10:30-22:30",
+      "Wednesday 10:30-22:30",
+      "Thursday 10:30-22:30",
+      "Friday 10:30-22:30",
+      "Saturday 11:00-22:00",
+      "Sunday 11:00-22:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ZdA8Wp2EqUJmDr6UYKMSNg/l.jpg",
+    "streetAddress": "850 La Playa St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94121",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77194800904545,
+      "lng": -122.5098800356418
+    }
+  },
+  {
+    "name": "The Geez Freeze",
+    "url": "https://www.yelp.com/biz/the-geez-freeze-san-francisco",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "price": null,
+    "categories": [
+      "Ice Cream & Frozen Yogurt",
+      "Shaved Snow"
+    ],
+    "address": "336 John F Kennedy Prom, San Francisco, CA, 94118",
+    "phone": "(415) 975-1125",
+    "page": 2,
+    "latitude": 37.77260269287442,
+    "longitude": -122.4661677,
+    "mapUrl": "https://www.yelp.com/map/the-geez-freeze-san-francisco",
+    "id": "the-geez-freeze-san-francisco",
+    "cuisines": [
+      "ice_cream_and_frozen_yogurt",
+      "shaved_snow"
+    ],
+    "description": "THE GEEZ FREEZE - - 336 John F Kennedy Prom, San Francisco, CA 94118",
+    "status": "open",
+    "openingHours": [
+      "Thursday 12:00-17:00",
+      "Friday 12:00-17:00",
+      "Saturday 12:00-17:00",
+      "Sunday 12:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/n0AFcSlmWT6e6oXoFCqhMQ/l.jpg",
+    "streetAddress": "336 John F Kennedy Prom",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94118",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77260269287442,
+      "lng": -122.4661677
+    }
+  },
+  {
+    "name": "Tanguito Argentinean Grill",
+    "url": "https://www.yelp.com/biz/tanguito-argentinean-grill-san-francisco",
+    "rating": 4.3,
+    "reviewCount": 709,
+    "price": "$$",
+    "categories": [
+      "Argentine",
+      "Burgers",
+      "Empanadas"
+    ],
+    "address": "2850 Jones St, San Francisco, CA, 94133",
+    "phone": "(415) 577-4223",
+    "page": 2,
+    "latitude": 37.80738779518489,
+    "longitude": -122.41718629489196,
+    "mapUrl": "https://www.yelp.com/map/tanguito-argentinean-grill-san-francisco",
+    "id": "tanguito-argentinean-grill-san-francisco",
+    "cuisines": [
+      "argentine",
+      "burgers",
+      "empanadas"
+    ],
+    "description": "TANGUITO ARGENTINEAN GRILL - - 2850 Jones St, San Francisco, CA 94133",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:30-18:30",
+      "Wednesday 11:30-18:30",
+      "Thursday 11:30-18:30",
+      "Friday 11:30-18:30",
+      "Saturday 12:00-19:30",
+      "Sunday 12:00-18:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/B4x77jID0hZyxbW6rumczA/l.jpg",
+    "streetAddress": "2850 Jones St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94133",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.80738779518489,
+      "lng": -122.41718629489196
+    }
+  },
+  {
+    "name": "Halal Cart SF",
+    "url": "https://www.yelp.com/biz/halal-cart-sf-san-francisco-2",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "price": null,
+    "categories": [
+      "Halal"
+    ],
+    "address": "400 Montgomery St, San Francisco, CA, 94104",
+    "phone": "(925) 567-6712",
+    "page": 2,
+    "latitude": 37.7930853,
+    "longitude": -122.4026188,
+    "mapUrl": "https://www.yelp.com/map/halal-cart-sf-san-francisco-2",
+    "id": "halal-cart-sf-san-francisco-2",
+    "cuisines": [
+      "halal"
+    ],
+    "description": "HALAL CART SF - - 400 Montgomery St, San Francisco, CA 94104",
+    "status": "offline",
+    "openingHours": [
+      "Monday 09:00-17:00",
+      "Tuesday 10:30-14:30",
+      "Wednesday 10:00-14:30",
+      "Thursday 10:00-14:30",
+      "Friday 10:00-14:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/O7AS8epYrA9YkTwG-loSZA/l.jpg",
+    "streetAddress": "400 Montgomery St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94104",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7930853,
+      "lng": -122.4026188
+    }
+  },
+  {
+    "name": "The Hungry Leprechaun",
+    "url": "https://www.yelp.com/biz/the-hungry-leprechaun-san-francisco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "price": null,
+    "categories": [],
+    "address": "San Francisco, CA, 94116",
+    "phone": null,
+    "page": 3,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/the-hungry-leprechaun-san-francisco",
+    "id": "the-hungry-leprechaun-san-francisco",
+    "cuisines": [],
+    "description": "21 reviews and 19 photos of THE HUNGRY LEPRECHAUN \"Great Irish food truck. Got a curry cheesy chip with chicken goujons and they were amazing the batter on the goujons was crispy and tasty. Service was great would highly recommend this food truck for party's or find out on instagram @thehungryleprec",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/niyAWKXghb2cmlsZa6X-FA/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94116",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "El Farolito",
+    "url": "https://www.yelp.com/biz/el-farolito-san-francisco-2",
+    "rating": 4.2,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Mexican",
+      "Seafood",
+      "Steakhouses"
+    ],
+    "address": "2779 Mission St, San Francisco, CA, 94110",
+    "phone": "(415) 824-7877",
+    "page": 3,
+    "latitude": 37.752654,
+    "longitude": -122.4182227,
+    "mapUrl": "https://www.yelp.com/map/el-farolito-san-francisco-2",
+    "id": "el-farolito-san-francisco-2",
+    "cuisines": [
+      "mexican",
+      "seafood",
+      "steakhouses"
+    ],
+    "description": "EL FAROLITO - - 2779 Mission St, San Francisco, CA 94110",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-02:45",
+      "Tuesday 10:00-02:45",
+      "Wednesday 10:00-02:45",
+      "Thursday 10:00-02:45",
+      "Friday 10:00-03:45",
+      "Saturday 10:00-03:45",
+      "Sunday 10:00-02:45"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/G0F5q5UCPzePqK0Tv1q86g/l.jpg",
+    "streetAddress": "2779 Mission St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.752654,
+      "lng": -122.4182227
+    }
+  },
+  {
+    "name": "WH42",
+    "url": "https://www.yelp.com/biz/wh42-san-francisco-4",
+    "rating": 4.5,
+    "reviewCount": 46,
+    "price": null,
+    "categories": [],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": null,
+    "page": 3,
+    "latitude": 37.771292902955665,
+    "longitude": -122.39225974457754,
+    "mapUrl": "https://www.yelp.com/map/wh42-san-francisco-4",
+    "id": "wh42-san-francisco-4",
+    "cuisines": [],
+    "description": "WH42 - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Ghwr11S2gC6OM_KEgfRxGQ/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.771292902955665,
+      "lng": -122.39225974457754
+    }
+  },
+  {
+    "name": "Box Kitchen",
+    "url": "https://www.yelp.com/biz/box-kitchen-san-francisco",
+    "rating": 4.3,
+    "reviewCount": 856,
+    "price": "$$",
+    "categories": [
+      "Food Stands",
+      "Burgers",
+      "Waffles",
+      "American",
+      "Dive Bars",
+      "Sports Bars"
+    ],
+    "address": "431 Natoma St, San Francisco, CA, 94103",
+    "phone": "(415) 580-7170",
+    "page": 3,
+    "latitude": 37.7811828,
+    "longitude": -122.4062434,
+    "mapUrl": "https://www.yelp.com/map/box-kitchen-san-francisco",
+    "id": "box-kitchen-san-francisco",
+    "cuisines": [
+      "food_stands",
+      "burgers",
+      "waffles",
+      "american",
+      "dive_bars",
+      "sports_bars"
+    ],
+    "description": "BOX KITCHEN - - 431 Natoma St, San Francisco, CA 94103",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:30-02:00",
+      "Tuesday 11:30-02:00",
+      "Wednesday 11:30-02:00",
+      "Thursday 11:30-02:00",
+      "Friday 11:30-02:00",
+      "Saturday 11:30-02:00",
+      "Sunday 11:30-02:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/T2HsTp66ASwk91zyZcze2Q/l.jpg",
+    "streetAddress": "431 Natoma St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7811828,
+      "lng": -122.4062434
+    }
+  },
+  {
+    "name": "Atlas Bites",
+    "url": "https://www.yelp.com/biz/atlas-bites-san-francisco",
+    "rating": 4.5,
+    "reviewCount": 61,
+    "price": null,
+    "categories": [
+      "Mediterranean",
+      "Halal"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(408) 561-7948",
+    "page": 3,
+    "latitude": 37.770788472980826,
+    "longitude": -122.39143453920639,
+    "mapUrl": "https://www.yelp.com/map/atlas-bites-san-francisco",
+    "id": "atlas-bites-san-francisco",
+    "cuisines": [
+      "mediterranean",
+      "halal"
+    ],
+    "description": "ATLAS BITES - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/AIgHBL3AdYRNVOVhtph15g/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.770788472980826,
+      "lng": -122.39143453920639
+    }
+  },
+  {
+    "name": "Chef's Truck",
+    "url": "https://www.yelp.com/biz/chefs-truck-san-francisco",
+    "rating": 3.8,
+    "reviewCount": 30,
+    "price": "$$",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Burgers"
+    ],
+    "address": "1379 4th St, San Francisco, CA, 94158",
+    "phone": "(408) 728-1547",
+    "page": 3,
+    "latitude": 37.77089520000001,
+    "longitude": -122.3903003,
+    "mapUrl": "https://www.yelp.com/map/chefs-truck-san-francisco",
+    "id": "chefs-truck-san-francisco",
+    "cuisines": [
+      "mexican",
+      "tacos",
+      "burgers"
+    ],
+    "description": "CHEF'S TRUCK - - 1379 4th St, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-20:00",
+      "Tuesday 10:00-20:00",
+      "Wednesday 10:00-20:00",
+      "Thursday 10:00-20:00",
+      "Friday 10:00-20:00",
+      "Saturday 10:00-20:00",
+      "Sunday 10:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/RA6-IEvnPUQycXrrCgTqTQ/l.jpg",
+    "streetAddress": "1379 4th St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77089520000001,
+      "lng": -122.3903003
+    }
+  },
+  {
+    "name": "Meat Me",
+    "url": "https://www.yelp.com/biz/meat-me-san-francisco-2",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Turkish"
+    ],
+    "address": "151 Vermont St, San Francisco, CA, 94103",
+    "phone": "(415) 425-3960",
+    "page": 3,
+    "latitude": 37.767923,
+    "longitude": -122.4044284,
+    "mapUrl": "https://www.yelp.com/map/meat-me-san-francisco-2",
+    "id": "meat-me-san-francisco-2",
+    "cuisines": [
+      "turkish"
+    ],
+    "description": "MEAT ME in San Francisco, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in San Francisco and beyond.",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 13:00-23:00",
+      "Wednesday 13:00-23:00",
+      "Thursday 13:00-23:00",
+      "Friday 13:00-23:00",
+      "Saturday 13:00-23:00",
+      "Sunday 13:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/cIcf58BuJ7XzGgy1qYIEyw/l.jpg",
+    "streetAddress": "151 Vermont St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.767923,
+      "lng": -122.4044284
+    }
+  },
+  {
+    "name": "Corazon Mexicano",
+    "url": "https://www.yelp.com/biz/corazon-mexicano-san-francisco-3",
+    "rating": 5,
+    "reviewCount": 3,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "1298 Valencia St, San Francisco, CA, 94110",
+    "phone": "(415) 374-1033",
+    "page": 3,
+    "latitude": 37.752331464357496,
+    "longitude": -122.42102420562112,
+    "mapUrl": "https://www.yelp.com/map/corazon-mexicano-san-francisco-3",
+    "id": "corazon-mexicano-san-francisco-3",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "CORAZON MEXICANO - - 1298 Valencia St, San Francisco, CA 94110",
+    "status": "open",
+    "openingHours": [
+      "Wednesday 16:00-20:00",
+      "Thursday 16:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 16:00-20:00",
+      "Sunday 11:00-15:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/piEZovFb2vhe3r1CkFy8Fg/l.jpg",
+    "streetAddress": "1298 Valencia St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.752331464357496,
+      "lng": -122.42102420562112
+    }
+  },
+  {
+    "name": "Taco N'Madre",
+    "url": "https://www.yelp.com/biz/taco-nmadre-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "2900 Alemany Blvd, San Francisco, CA, 94112",
+    "phone": null,
+    "page": 3,
+    "latitude": 37.71203296355417,
+    "longitude": -122.4528486,
+    "mapUrl": "https://www.yelp.com/map/taco-nmadre-san-francisco",
+    "id": "taco-nmadre-san-francisco",
+    "cuisines": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "TACO N'MADRE - - 2900 Alemany Blvd, San Francisco, CA 94112",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 17:00-23:00",
+      "Wednesday 17:00-23:00",
+      "Thursday 17:00-23:00",
+      "Friday 17:00-23:00",
+      "Saturday 17:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/74EyTfPQMeNlIO2z012AzA/l.jpg",
+    "streetAddress": "2900 Alemany Blvd",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94112",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.71203296355417,
+      "lng": -122.4528486
+    }
+  },
+  {
+    "name": "SipNSlurp Food Truck",
+    "url": "https://www.yelp.com/biz/sipnslurp-food-truck-san-francisco-2",
+    "rating": 4.4,
+    "reviewCount": 49,
+    "price": "$$",
+    "categories": [
+      "Noodles",
+      "Asian Fusion"
+    ],
+    "address": "428 11th St, San Francisco, CA, 94103",
+    "phone": "(415) 610-8808",
+    "page": 3,
+    "latitude": 37.7697799,
+    "longitude": -122.4120171,
+    "mapUrl": "https://www.yelp.com/map/sipnslurp-food-truck-san-francisco-2",
+    "id": "sipnslurp-food-truck-san-francisco-2",
+    "cuisines": [
+      "noodles",
+      "asian_fusion"
+    ],
+    "description": "SIPNSLURP FOOD TRUCK - - 428 11th St, San Francisco, CA 94103",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-16:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/93KvdgMyP-nZpr6GZ-BlAQ/l.jpg",
+    "streetAddress": "428 11th St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7697799,
+      "lng": -122.4120171
+    }
+  },
+  {
+    "name": "Made In Italy",
+    "url": "https://www.yelp.com/biz/made-in-italy-san-francisco",
+    "rating": 3.5,
+    "reviewCount": 2,
+    "price": null,
+    "categories": [
+      "Italian"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 666-5826",
+    "page": 4,
+    "latitude": 37.77076552145941,
+    "longitude": -122.3920931375199,
+    "mapUrl": "https://www.yelp.com/map/made-in-italy-san-francisco",
+    "id": "made-in-italy-san-francisco",
+    "cuisines": [
+      "italian"
+    ],
+    "description": "MADE IN ITALY - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:30-20:00",
+      "Tuesday 10:30-20:00",
+      "Wednesday 10:00-20:00",
+      "Thursday 10:30-20:00",
+      "Friday 10:30-20:00",
+      "Saturday 10:30-20:00",
+      "Sunday 10:30-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/m2WQy-ZRcTBQMRgg7ogVHA/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77076552145941,
+      "lng": -122.3920931375199
+    }
+  },
+  {
+    "name": "SPARK Gardens",
+    "url": "https://www.yelp.com/biz/spark-gardens-san-francisco",
+    "rating": 4.4,
+    "reviewCount": 34,
+    "price": "$$",
+    "categories": [
+      "Recreation Centers",
+      "Active Life"
+    ],
+    "address": "1379 4th St, San Francisco, CA, 94158",
+    "phone": null,
+    "page": 4,
+    "latitude": 37.7708125526022,
+    "longitude": -122.390683462494,
+    "mapUrl": "https://www.yelp.com/map/spark-gardens-san-francisco",
+    "id": "spark-gardens-san-francisco",
+    "cuisines": [
+      "recreation_centers",
+      "active_life"
+    ],
+    "description": "SPARK GARDENS - - 1379 4th St, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/735G4EMObuMUcNoV1pqMQQ/l.jpg",
+    "streetAddress": "1379 4th St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7708125526022,
+      "lng": -122.390683462494
+    }
+  },
+  {
+    "name": "Cochinita",
+    "url": "https://www.yelp.com/biz/cochinita-san-francisco-24",
+    "rating": 4.4,
+    "reviewCount": 174,
+    "price": "$$",
+    "categories": [
+      "Mexican"
+    ],
+    "address": "500 Marina Blvd, San Francisco, CA, 94103",
+    "phone": "(415) 988-3663",
+    "page": 4,
+    "latitude": 37.80588328701567,
+    "longitude": -122.44242535795262,
+    "mapUrl": "https://www.yelp.com/map/cochinita-san-francisco-24",
+    "id": "cochinita-san-francisco-24",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "COCHINITA - - 500 Marina Blvd, San Francisco, CA 94103",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 11:00-15:00",
+      "Wednesday 11:00-15:00",
+      "Thursday 11:00-15:00",
+      "Friday 11:00-15:00",
+      "Saturday 11:00-15:00",
+      "Sunday 11:00-15:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/NL0Ck1b15WutV9Qe-tR_rg/l.jpg",
+    "streetAddress": "500 Marina Blvd",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.80588328701567,
+      "lng": -122.44242535795262
+    }
+  },
+  {
+    "name": "Al Pastor Papi",
+    "url": "https://www.yelp.com/biz/al-pastor-papi-san-francisco-2",
+    "rating": 3.8,
+    "reviewCount": 230,
+    "price": "$$",
+    "categories": [
+      "Tacos",
+      "Mexican"
+    ],
+    "address": "232 O&apos;Farrell St, San Francisco, CA, 94102",
+    "phone": null,
+    "page": 4,
+    "latitude": 37.7864848,
+    "longitude": -122.4086079,
+    "mapUrl": "https://www.yelp.com/map/al-pastor-papi-san-francisco-2",
+    "id": "al-pastor-papi-san-francisco-2",
+    "cuisines": [
+      "tacos",
+      "mexican"
+    ],
+    "description": "AL PASTOR PAPI - - 232 O'Farrell St, San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/L-GlxlHVVsZtlnBB3RBlgw/l.jpg",
+    "streetAddress": "232 O&apos;Farrell St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7864848,
+      "lng": -122.4086079
+    }
+  },
+  {
+    "name": "Cousins Maine Lobster - San Francisco Bay Area",
+    "url": "https://www.yelp.com/biz/cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
+    "rating": 3.6,
+    "reviewCount": 602,
+    "price": "$$",
+    "categories": [
+      "Seafood",
+      "Sandwiches"
+    ],
+    "address": "San Francisco, CA, 94104",
+    "phone": "(415) 592-5933",
+    "page": 4,
+    "latitude": 37.819028,
+    "longitude": -123.024066,
+    "mapUrl": "https://www.yelp.com/map/cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
+    "id": "cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
+    "cuisines": [
+      "seafood",
+      "sandwiches"
+    ],
+    "description": "COUSINS MAINE LOBSTER - SAN FRANCISCO BAY AREA - - San Francisco, CA 94104",
+    "status": "open",
+    "openingHours": [
+      "Monday 00:00-24:00",
+      "Tuesday 00:00-24:00",
+      "Wednesday 00:00-24:00",
+      "Thursday 00:00-24:00",
+      "Friday 00:00-24:00",
+      "Saturday 00:00-24:00",
+      "Sunday 00:00-24:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/GrB2Bm3vt9aYoIXmbz_14g/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94104",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.819028,
+      "lng": -123.024066
+    }
+  },
+  {
+    "name": "Taqueria Cazadores",
+    "url": "https://www.yelp.com/biz/taqueria-cazadores-san-francisco-2",
+    "rating": 4,
+    "reviewCount": 311,
+    "price": "$$",
+    "categories": [
+      "Mexican"
+    ],
+    "address": "1600 Mission St, San Francisco, CA, 94103",
+    "phone": "(415) 503-0340",
+    "page": 4,
+    "latitude": 37.7723788563514,
+    "longitude": -122.419041535,
+    "mapUrl": "https://www.yelp.com/map/taqueria-cazadores-san-francisco-2",
+    "id": "taqueria-cazadores-san-francisco-2",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "TAQUERIA CAZADORES - - 1600 Mission St, San Francisco, CA 94103",
+    "status": "open",
+    "openingHours": [
+      "Monday 08:00-23:00",
+      "Tuesday 08:00-23:00",
+      "Wednesday 08:00-23:00",
+      "Thursday 08:00-23:00",
+      "Friday 08:00-23:00",
+      "Saturday 08:00-23:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/sNk5oXm5agOatSW3k0-neg/l.jpg",
+    "streetAddress": "1600 Mission St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7723788563514,
+      "lng": -122.419041535
+    }
+  },
+  {
+    "name": "Lahore di khushboo",
+    "url": "https://www.yelp.com/biz/lahore-di-khushboo-san-francisco",
+    "rating": 4.7,
+    "reviewCount": 57,
+    "price": null,
+    "categories": [
+      "Halal",
+      "Pakistani"
+    ],
+    "address": "601 Mission Bay, San Francisco, CA, 94158",
+    "phone": "(415) 734-1340",
+    "page": 4,
+    "latitude": 37.77078644611859,
+    "longitude": -122.39144242970507,
+    "mapUrl": "https://www.yelp.com/map/lahore-di-khushboo-san-francisco",
+    "id": "lahore-di-khushboo-san-francisco",
+    "cuisines": [
+      "halal",
+      "pakistani"
+    ],
+    "description": "LAHORE DI KHUSHBOO - - 601 Mission Bay, San Francisco, CA 94158",
+    "status": "offline",
+    "openingHours": [
+      "Friday 11:00-15:00",
+      "Saturday 11:00-16:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pAu_CQOUOR9YCLJNzpKt-w/l.jpg",
+    "streetAddress": "601 Mission Bay",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77078644611859,
+      "lng": -122.39144242970507
+    }
+  },
+  {
+    "name": "Minnie Bells",
+    "url": "https://www.yelp.com/biz/minnie-bells-san-francisco-2",
+    "rating": 4.3,
+    "reviewCount": 30,
+    "price": null,
+    "categories": [
+      "Soul Food",
+      "Comfort Food"
+    ],
+    "address": "San Francisco, CA, 94103",
+    "phone": "(415) 273-9340",
+    "page": 4,
+    "latitude": 37.773231,
+    "longitude": -122.411144,
+    "mapUrl": "https://www.yelp.com/map/minnie-bells-san-francisco-2",
+    "id": "minnie-bells-san-francisco-2",
+    "cuisines": [
+      "soul_food",
+      "comfort_food"
+    ],
+    "description": "MINNIE BELLS - - San Francisco, CA 94103",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 16:00-21:00",
+      "Wednesday 16:00-21:00",
+      "Thursday 16:00-21:00",
+      "Friday 16:00-22:00",
+      "Saturday 16:00-22:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/80f9-UUeLsC9x8aunyfa9Q/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.773231,
+      "lng": -122.411144
+    }
+  },
+  {
+    "name": "Pita Gyros",
+    "url": "https://www.yelp.com/biz/pita-gyros-san-francisco-2",
+    "rating": 4.4,
+    "reviewCount": 62,
+    "price": null,
+    "categories": [
+      "Greek",
+      "Mediterranean"
+    ],
+    "address": "250 Main St, San Francisco, CA, 94105",
+    "phone": null,
+    "page": 4,
+    "latitude": 37.789924987394926,
+    "longitude": -122.39364643791848,
+    "mapUrl": "https://www.yelp.com/map/pita-gyros-san-francisco-2",
+    "id": "pita-gyros-san-francisco-2",
+    "cuisines": [
+      "greek",
+      "mediterranean"
+    ],
+    "description": "PITA GYROS - - 250 Main St, San Francisco, CA 94105",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7q4VXOZ63SQUm2sV51L8Xw/l.jpg",
+    "streetAddress": "250 Main St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.789924987394926,
+      "lng": -122.39364643791848
+    }
+  },
+  {
+    "name": "Pocky Truck",
+    "url": "https://www.yelp.com/biz/pocky-truck-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [],
+    "address": "450 Market St, San Francisco, CA, 94111",
+    "phone": null,
+    "page": 4,
+    "latitude": 37.7914182,
+    "longitude": -122.3989619,
+    "mapUrl": "https://www.yelp.com/map/pocky-truck-san-francisco",
+    "id": "pocky-truck-san-francisco",
+    "cuisines": [],
+    "description": "1 review of POCKY TRUCK \"Who could not like the Pocky truck especially when all they do is hand out free Pocky. If you haven't had them before they are chocolate covered biscuit sticks. You can definitely pick them up in many stores around the San Francisco area.\"",
+    "status": "open",
+    "openingHours": null,
+    "image": null,
+    "streetAddress": "450 Market St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94111",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7914182,
+      "lng": -122.3989619
+    }
+  },
+  {
+    "name": "Tokachi Musubi",
+    "url": "https://www.yelp.com/biz/tokachi-musubi-san-francisco",
+    "rating": 4.1,
+    "reviewCount": 32,
+    "price": "$$",
+    "categories": [
+      "Japanese"
+    ],
+    "address": "1525 Cortland Ave, San Francisco, CA, 94110",
+    "phone": "(415) 505-7997",
+    "page": 5,
+    "latitude": 37.7401182,
+    "longitude": -122.4091021,
+    "mapUrl": "https://www.yelp.com/map/tokachi-musubi-san-francisco",
+    "id": "tokachi-musubi-san-francisco",
+    "cuisines": [
+      "japanese"
+    ],
+    "description": "TOKACHI MUSUBI - - 1525 Cortland Ave, San Francisco, CA 94110",
+    "status": "open",
+    "openingHours": [
+      "Monday 12:00-22:00",
+      "Tuesday 12:00-22:00",
+      "Wednesday 12:00-22:00",
+      "Thursday 12:00-22:00",
+      "Friday 12:00-23:00",
+      "Saturday 12:00-23:00",
+      "Sunday 12:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9iee7QgrjIbfJwHkHhZBsw/l.jpg",
+    "streetAddress": "1525 Cortland Ave",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7401182,
+      "lng": -122.4091021
+    }
+  },
+  {
+    "name": "Limón Rotisserie Food Truck",
+    "url": "https://www.yelp.com/biz/lim%C3%B3n-rotisserie-food-truck-san-francisco-4",
+    "rating": 4.1,
+    "reviewCount": 17,
+    "price": "$$",
+    "categories": [
+      "Peruvian"
+    ],
+    "address": "San Francisco, CA, 94102",
+    "phone": "(415) 926-5665",
+    "page": 5,
+    "latitude": 37.7786871,
+    "longitude": -122.4212424,
+    "mapUrl": "https://www.yelp.com/map/lim%C3%B3n-rotisserie-food-truck-san-francisco-4",
+    "id": "limón-rotisserie-food-truck-san-francisco-4",
+    "cuisines": [
+      "peruvian"
+    ],
+    "description": "LIMÓN ROTISSERIE FOOD TRUCK - - San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Monday 12:00-21:00",
+      "Tuesday 12:00-21:00",
+      "Wednesday 12:00-21:00",
+      "Thursday 12:00-21:00",
+      "Friday 12:00-22:00",
+      "Saturday 12:00-22:00",
+      "Sunday 12:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mONsZZa3U1cFX6fv5VAHqQ/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7786871,
+      "lng": -122.4212424
+    }
+  },
+  {
+    "name": "Benedict Arnolds",
+    "url": "https://www.yelp.com/biz/benedict-arnolds-san-francisco",
+    "rating": 4,
+    "reviewCount": 6,
+    "price": "$$$",
+    "categories": [],
+    "address": "428 11th St, San Francisco, CA, 94103",
+    "phone": null,
+    "page": 5,
+    "latitude": 37.7697394396591,
+    "longitude": -122.411752715707,
+    "mapUrl": "https://www.yelp.com/map/benedict-arnolds-san-francisco",
+    "id": "benedict-arnolds-san-francisco",
+    "cuisines": [],
+    "description": "6 reviews and 5 photos of BENEDICT ARNOLDS \"I don't understand the other reviews, this was the best food truck I encountered so far in SF, the food was delicious, well priced and the guys very kind. Especially recommending it with a glass of white wine when they park in front of the Bluxome Winery -",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/vIRxxlYRZGPWNwpCrA1nCA/l.jpg",
+    "streetAddress": "428 11th St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7697394396591,
+      "lng": -122.411752715707
+    }
+  },
+  {
+    "name": "Southern Comfort Kitchen Food Truck",
+    "url": "https://www.yelp.com/biz/southern-comfort-kitchen-food-truck-san-francisco",
+    "rating": 3.3,
+    "reviewCount": 11,
+    "price": null,
+    "categories": [],
+    "address": "5th St &amp; Minna St, San Francisco, CA, 94103",
+    "phone": null,
+    "page": 5,
+    "latitude": 37.7774284,
+    "longitude": -122.4121277,
+    "mapUrl": "https://www.yelp.com/map/southern-comfort-kitchen-food-truck-san-francisco",
+    "id": "southern-comfort-kitchen-food-truck-san-francisco",
+    "cuisines": [],
+    "description": "11 reviews and 64 photos of SOUTHERN COMFORT KITCHEN FOOD TRUCK \"This place is GREAT! Especially so considering the general dearth of Southern/Soul Food in SF. On my 1st visit i had the shrimp etoufee and it was delicious, and came with rice and a chunk of baguette. So why only 3 stars you ask? Simp",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2ASWQkPcFs6K97iRr6b_Xw/l.jpg",
+    "streetAddress": "5th St &amp; Minna St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7774284,
+      "lng": -122.4121277
+    }
+  },
+  {
+    "name": "Banana Bread and Bjs",
+    "url": "https://www.yelp.com/biz/banana-bread-and-bjs-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [],
+    "address": "Delores Park, San Francisco, CA, 94114",
+    "phone": null,
+    "page": 5,
+    "latitude": 37.7597376438947,
+    "longitude": -122.427123785019,
+    "mapUrl": "https://www.yelp.com/map/banana-bread-and-bjs-san-francisco",
+    "id": "banana-bread-and-bjs-san-francisco",
+    "cuisines": [],
+    "description": "1 review and 2 photos of BANANA BREAD AND BJS \"These girls make some ridiculous banana bread... Spool good. Just the right amount of chips and so moist.\"",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/o7G4nJ0I4skyNZ_bmSy0pg/l.jpg",
+    "streetAddress": "Delores Park",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94114",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7597376438947,
+      "lng": -122.427123785019
+    }
+  },
+  {
+    "name": "Treats By The Bay",
+    "url": "https://www.yelp.com/biz/treats-by-the-bay-san-francisco-2",
+    "rating": 4.8,
+    "reviewCount": 171,
+    "price": null,
+    "categories": [
+      "Ice Cream & Frozen Yogurt",
+      "Coffee & Tea"
+    ],
+    "address": "San Francisco, CA, 94114",
+    "phone": "(415) 326-3175",
+    "page": 5,
+    "latitude": 37.78076824668253,
+    "longitude": -122.41837392669743,
+    "mapUrl": "https://www.yelp.com/map/treats-by-the-bay-san-francisco-2",
+    "id": "treats-by-the-bay-san-francisco-2",
+    "cuisines": [
+      "ice_cream_and_frozen_yogurt",
+      "coffee_and_tea"
+    ],
+    "description": "TREATS BY THE BAY - - San Francisco, CA 94114",
+    "status": "open",
+    "openingHours": [
+      "Friday 11:00-16:00",
+      "Saturday 11:00-18:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/3i-qjckw0ZvWWqHFPJtlVw/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94114",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.78076824668253,
+      "lng": -122.41837392669743
+    }
+  },
+  {
+    "name": "Bao n Boba",
+    "url": "https://www.yelp.com/biz/bao-n-boba-san-francisco",
+    "rating": 3.6,
+    "reviewCount": 13,
+    "price": null,
+    "categories": [
+      "Dim Sum",
+      "Bubble Tea",
+      "Chinese"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 800-3489",
+    "page": 5,
+    "latitude": 37.7707779,
+    "longitude": -122.3914399,
+    "mapUrl": "https://www.yelp.com/map/bao-n-boba-san-francisco",
+    "id": "bao-n-boba-san-francisco",
+    "cuisines": [
+      "dim_sum",
+      "bubble_tea",
+      "chinese"
+    ],
+    "description": "BAO N BOBA - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/rbrJT0XoKAV0wQ1zZXcaQA/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7707779,
+      "lng": -122.3914399
+    }
+  },
+  {
+    "name": "Korean Papi's Kitchen",
+    "url": "https://www.yelp.com/biz/korean-papis-kitchen-san-francisco",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "price": null,
+    "categories": [
+      "Korean"
+    ],
+    "address": "San Francisco, CA, 94158",
+    "phone": "(628) 284-7343",
+    "page": 5,
+    "latitude": 37.7708886,
+    "longitude": -122.3902954,
+    "mapUrl": "https://www.yelp.com/map/korean-papis-kitchen-san-francisco",
+    "id": "korean-papis-kitchen-san-francisco",
+    "cuisines": [
+      "korean"
+    ],
+    "description": "KOREAN PAPI'S KITCHEN - - 1379 4th St, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 14:00-21:00",
+      "Wednesday 14:00-21:00",
+      "Thursday 14:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/L-6sUrkt6bsFpPT5L5RXWQ/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7708886,
+      "lng": -122.3902954
+    }
+  },
+  {
+    "name": "Gyros on Wheels",
+    "url": "https://www.yelp.com/biz/gyros-on-wheels-san-francisco-2",
+    "rating": 4.1,
+    "reviewCount": 33,
+    "price": null,
+    "categories": [
+      "Greek"
+    ],
+    "address": "San Francisco, CA, 94158",
+    "phone": "(628) 222-0933",
+    "page": 5,
+    "latitude": 37.706368356809776,
+    "longitude": -122.51781463623047,
+    "mapUrl": "https://www.yelp.com/map/gyros-on-wheels-san-francisco-2",
+    "id": "gyros-on-wheels-san-francisco-2",
+    "cuisines": [
+      "greek"
+    ],
+    "description": "GYROS ON WHEELS - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/D67cR7v1twWt-LVDafN2Xg/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.706368356809776,
+      "lng": -122.51781463623047
+    }
+  },
+  {
+    "name": "Shamal Burgers & More",
+    "url": "https://www.yelp.com/biz/shamal-burgers-and-more-san-francisco",
+    "rating": 2,
+    "reviewCount": 2,
+    "price": null,
+    "categories": [
+      "Wraps",
+      "Burgers"
+    ],
+    "address": "1155 Battery St, San Francisco, CA, 94111",
+    "phone": "(925) 207-8009",
+    "page": 5,
+    "latitude": 37.801836768521014,
+    "longitude": -122.4023928,
+    "mapUrl": "https://www.yelp.com/map/shamal-burgers-and-more-san-francisco",
+    "id": "shamal-burgers-and-more-san-francisco",
+    "cuisines": [
+      "wraps",
+      "burgers"
+    ],
+    "description": "2 reviews and 8 photos of SHAMAL BURGERS & MORE \"A food truck in the Off The Grid rotation. Pretty random menus from hot dogs to \"shawarma\" wraps. Food is kinda middling. Bacon Cheeseburger: It wasn't pork bacon, it was some sort of beef bacon I think. Didn't quite have the same thickness or crunch,",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/A88M-ocoeQJNJCRDEzQJ5w/l.jpg",
+    "streetAddress": "1155 Battery St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94111",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.801836768521014,
+      "lng": -122.4023928
+    }
+  },
+  {
+    "name": "Me So Hungry Too Food Truck",
+    "url": "https://www.yelp.com/biz/me-so-hungry-too-food-truck-san-francisco",
+    "rating": 4.2,
+    "reviewCount": 73,
+    "price": "$$",
+    "categories": [
+      "Burgers"
+    ],
+    "address": "521A 3rd St, San Francisco, CA, 94107",
+    "phone": "(650) 392-0126",
+    "page": 6,
+    "latitude": 37.781099,
+    "longitude": -122.395352,
+    "mapUrl": "https://www.yelp.com/map/me-so-hungry-too-food-truck-san-francisco",
+    "id": "me-so-hungry-too-food-truck-san-francisco",
+    "cuisines": [
+      "burgers"
+    ],
+    "description": "ME SO HUNGRY TOO FOOD TRUCK - - 521A 3rd St, San Francisco, CA 94107",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:30-19:00",
+      "Tuesday 11:30-19:00",
+      "Wednesday 11:30-19:00",
+      "Thursday 11:30-19:00",
+      "Friday 11:30-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HL9acWXfKnHIYgZW2m0YqQ/l.jpg",
+    "streetAddress": "521A 3rd St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94107",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.781099,
+      "lng": -122.395352
+    }
+  },
+  {
+    "name": "Al Pastor Papi Mexican Grill",
+    "url": "https://www.yelp.com/biz/al-pastor-papi-mexican-grill-san-francisco",
+    "rating": 4.7,
+    "reviewCount": 40,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "232 O&apos;Farrell St, San Francisco, CA, 94102",
+    "phone": null,
+    "page": 6,
+    "latitude": 37.78649802040981,
+    "longitude": -122.4086079,
+    "mapUrl": "https://www.yelp.com/map/al-pastor-papi-mexican-grill-san-francisco",
+    "id": "al-pastor-papi-mexican-grill-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "AL PASTOR PAPI MEXICAN GRILL - - 232 O'Farrell St, San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/KtzE-_jPMvroEOqxxE2GKw/l.jpg",
+    "streetAddress": "232 O&apos;Farrell St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.78649802040981,
+      "lng": -122.4086079
+    }
+  },
+  {
+    "name": "Olhso Truck",
+    "url": "https://www.yelp.com/biz/olhso-truck-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Korean"
+    ],
+    "address": "201 Steuart St, San Francisco, CA, 94105",
+    "phone": "(944) 039-4404",
+    "page": 6,
+    "latitude": 37.79203025476113,
+    "longitude": -122.3914233818939,
+    "mapUrl": "https://www.yelp.com/map/olhso-truck-san-francisco",
+    "id": "olhso-truck-san-francisco",
+    "cuisines": [
+      "korean"
+    ],
+    "description": "OLHSO TRUCK - - 201 Steuart St, San Francisco, CA 94105",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 11:30-14:00",
+      "Tuesday 15:00-19:00",
+      "Wednesday 11:30-14:00",
+      "Wednesday 15:00-19:00",
+      "Thursday 11:30-14:00",
+      "Thursday 15:00-19:00",
+      "Friday 11:30-14:00",
+      "Friday 15:00-19:00",
+      "Saturday 11:30-14:00",
+      "Saturday 15:00-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/zNhd5nfNokmVe12WjPVGdw/l.jpg",
+    "streetAddress": "201 Steuart St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79203025476113,
+      "lng": -122.3914233818939
+    }
+  },
+  {
+    "name": "Mozzeria",
+    "url": "https://www.yelp.com/biz/mozzeria-alameda",
+    "rating": 4.5,
+    "reviewCount": 22,
+    "price": null,
+    "categories": [
+      "Pizza"
+    ],
+    "address": "2400 Monarch St, Alameda, CA, 94501",
+    "phone": "(415) 489-0963",
+    "page": 6,
+    "latitude": 37.78529612885991,
+    "longitude": -122.3080721,
+    "mapUrl": "https://www.yelp.com/map/mozzeria-alameda",
+    "id": "mozzeria-alameda",
+    "cuisines": [
+      "pizza"
+    ],
+    "description": "22 reviews and 32 photos of MOZZERIA \"Tried this food truck pizza at my kid's school event. Their pizzas are wood fired and they're delicious! Because it's made to order and fresh, the crust is delicate, a little crispy and with that fresh baked bread softness too. The toppings complimented well. We",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/cffP6_g1GdCufQQGxg6DSw/l.jpg",
+    "streetAddress": "2400 Monarch St",
+    "city": "Alameda",
+    "region": "CA",
+    "postalCode": "94501",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.78529612885991,
+      "lng": -122.3080721
+    }
+  },
+  {
+    "name": "El Alambre #2",
+    "url": "https://www.yelp.com/biz/el-alambre-2-san-francisco-2",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "1800 Folsom St, San Francisco, CA, 94103",
+    "phone": "(415) 260-9889",
+    "page": 6,
+    "latitude": 37.76763089166353,
+    "longitude": -122.4161807075143,
+    "mapUrl": "https://www.yelp.com/map/el-alambre-2-san-francisco-2",
+    "id": "el-alambre-2-san-francisco-2",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "EL ALAMBRE #2 - - 1800 Folsom St, San Francisco, CA 94103",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-19:00",
+      "Tuesday 10:00-19:00",
+      "Wednesday 10:00-19:00",
+      "Thursday 10:00-19:00",
+      "Friday 10:00-19:00",
+      "Saturday 10:00-18:00",
+      "Sunday 10:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HMwO23xPvizbbfPpKhvtNw/l.jpg",
+    "streetAddress": "1800 Folsom St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76763089166353,
+      "lng": -122.4161807075143
+    }
+  },
+  {
+    "name": "Dos Raicez",
+    "url": "https://www.yelp.com/biz/dos-raicez-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Tacos",
+      "Mexican"
+    ],
+    "address": "1168 Leavenworth St, San Francisco, CA, 94109",
+    "phone": "(510) 825-3527",
+    "page": 6,
+    "latitude": 37.79211507048217,
+    "longitude": -122.41572781929713,
+    "mapUrl": "https://www.yelp.com/map/dos-raicez-san-francisco",
+    "id": "dos-raicez-san-francisco",
+    "cuisines": [
+      "tacos",
+      "mexican"
+    ],
+    "description": "DOS RAICEZ - - 1168 Leavenworth St, San Francisco, CA 94109",
+    "status": "open",
+    "openingHours": [
+      "Monday 16:00-21:00",
+      "Friday 15:00-20:00",
+      "Saturday 16:00-21:00",
+      "Sunday 12:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9No-0Ezw24YP0DrNmczz-Q/l.jpg",
+    "streetAddress": "1168 Leavenworth St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94109",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79211507048217,
+      "lng": -122.41572781929713
+    }
+  },
+  {
+    "name": "Aria Korean Street Food",
+    "url": "https://www.yelp.com/biz/aria-korean-street-food-san-francisco",
+    "rating": 3.9,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Korean",
+      "Chicken Shop",
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "932 Larkin St, San Francisco, CA, 94109",
+    "phone": "(415) 292-6914",
+    "page": 6,
+    "latitude": 37.7865588,
+    "longitude": -122.4180037,
+    "mapUrl": "https://www.yelp.com/map/aria-korean-street-food-san-francisco",
+    "id": "aria-korean-street-food-san-francisco",
+    "cuisines": [
+      "korean",
+      "chicken_shop",
+      "mexican",
+      "tacos"
+    ],
+    "description": "ARIA KOREAN STREET FOOD - - 932 Larkin St, San Francisco, CA 94109",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-22:00",
+      "Tuesday 11:00-22:00",
+      "Wednesday 11:00-22:00",
+      "Thursday 11:00-22:00",
+      "Friday 11:00-22:00",
+      "Saturday 11:00-22:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/GLvMxRbJGeeEs5PR6h7ucQ/l.jpg",
+    "streetAddress": "932 Larkin St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94109",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7865588,
+      "lng": -122.4180037
+    }
+  },
+  {
+    "name": "Curry Up Now Food Truck",
+    "url": "https://www.yelp.com/biz/curry-up-now-food-truck-san-francisco",
+    "rating": 3.8,
+    "reviewCount": 943,
+    "price": "$",
+    "categories": [
+      "Indian"
+    ],
+    "address": "225 Bush St, San Francisco, CA, 94104",
+    "phone": "(650) 489-7850",
+    "page": 6,
+    "latitude": 37.79233098954126,
+    "longitude": -122.40026081100375,
+    "mapUrl": "https://www.yelp.com/map/curry-up-now-food-truck-san-francisco",
+    "id": "curry-up-now-food-truck-san-francisco",
+    "cuisines": [
+      "indian"
+    ],
+    "description": "CURRY UP NOW FOOD TRUCK - - 225 Bush St, San Francisco, CA 94104",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Thursday 11:00-21:00",
+      "Friday 11:00-22:00",
+      "Saturday 11:00-22:00",
+      "Sunday 11:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CJvFHHvUJrOJhhH6p_Af0g/l.jpg",
+    "streetAddress": "225 Bush St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94104",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79233098954126,
+      "lng": -122.40026081100375
+    }
+  },
+  {
+    "name": "Tito Tacos",
+    "url": "https://www.yelp.com/biz/tito-tacos-san-francisco",
+    "rating": 5,
+    "reviewCount": 3,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "2890 3rd St, San Francisco, CA, 94107",
+    "phone": "(415) 532-5665",
+    "page": 6,
+    "latitude": 37.75287769626372,
+    "longitude": -122.38813818567783,
+    "mapUrl": "https://www.yelp.com/map/tito-tacos-san-francisco",
+    "id": "tito-tacos-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "TITO TACOS - - 2890 3rd St, San Francisco, CA 94107",
+    "status": "offline",
+    "openingHours": [
+      "Monday 10:00-15:30",
+      "Tuesday 10:00-15:30",
+      "Wednesday 10:00-15:30",
+      "Thursday 10:00-15:30",
+      "Friday 10:00-15:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/q_Rjja7HNlDLoxF6NomyWA/l.jpg",
+    "streetAddress": "2890 3rd St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94107",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.75287769626372,
+      "lng": -122.38813818567783
+    }
+  },
+  {
+    "name": "Upper Cut",
+    "url": "https://www.yelp.com/biz/upper-cut-san-francisco-6",
+    "rating": 4,
+    "reviewCount": 199,
+    "price": "$$",
+    "categories": [
+      "New American"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 496-9916",
+    "page": 7,
+    "latitude": 37.77078991942725,
+    "longitude": -122.3914399,
+    "mapUrl": "https://www.yelp.com/map/upper-cut-san-francisco-6",
+    "id": "upper-cut-san-francisco-6",
+    "cuisines": [
+      "new_american"
+    ],
+    "description": "UPPER CUT - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "offline",
+    "openingHours": [
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-14:00",
+      "Friday 11:00-14:00",
+      "Saturday 12:00-22:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/4RJQjAIEhdcmNwZNz9XJtw/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.77078991942725,
+      "lng": -122.3914399
+    }
+  },
+  {
+    "name": "Off the Grid Levi's Plaza",
+    "url": "https://www.yelp.com/biz/off-the-grid-levis-plaza-san-francisco-2",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Food Court"
+    ],
+    "address": "1155 Battery St, San Francisco, CA, 94111",
+    "phone": "(415) 339-5888",
+    "page": 7,
+    "latitude": 37.80182629999999,
+    "longitude": -122.4023928,
+    "mapUrl": "https://www.yelp.com/map/off-the-grid-levis-plaza-san-francisco-2",
+    "id": "off-the-grid-levis-plaza-san-francisco-2",
+    "cuisines": [
+      "food_court"
+    ],
+    "description": "OFF THE GRID LEVI'S PLAZA - - 1155 Battery St, San Francisco, CA 94111",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-14:00",
+      "Tuesday 11:00-14:00",
+      "Wednesday 11:00-14:00",
+      "Thursday 11:00-14:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/UE_EjCCkWkhnw12rylYE6Q/l.jpg",
+    "streetAddress": "1155 Battery St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94111",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.80182629999999,
+      "lng": -122.4023928
+    }
+  },
+  {
+    "name": "Off the Grid Salesforce Tower",
+    "url": "https://www.yelp.com/biz/off-the-grid-salesforce-tower-san-francisco",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "price": null,
+    "categories": [
+      "Food Court"
+    ],
+    "address": "415 Mission St, San Francisco, CA, 94105",
+    "phone": "(415) 339-5888",
+    "page": 7,
+    "latitude": 37.7895564,
+    "longitude": -122.396905,
+    "mapUrl": "https://www.yelp.com/map/off-the-grid-salesforce-tower-san-francisco",
+    "id": "off-the-grid-salesforce-tower-san-francisco",
+    "cuisines": [
+      "food_court"
+    ],
+    "description": "OFF THE GRID SALESFORCE TOWER - - 415 Mission St, San Francisco, CA 94105",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-14:00",
+      "Tuesday 11:00-14:00",
+      "Wednesday 11:00-14:00",
+      "Thursday 11:00-14:00",
+      "Friday 11:00-14:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/s6t8i4T-yWhznu8uKfj_bg/l.jpg",
+    "streetAddress": "415 Mission St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7895564,
+      "lng": -122.396905
+    }
+  },
+  {
+    "name": "Twirl and Dip",
+    "url": "https://www.yelp.com/biz/twirl-and-dip-san-francisco",
+    "rating": 4.3,
+    "reviewCount": 294,
+    "price": "$",
+    "categories": [
+      "Ice Cream & Frozen Yogurt"
+    ],
+    "address": "San Francisco, CA, 94118",
+    "phone": "(415) 307-0260",
+    "page": 7,
+    "latitude": 37.7686017,
+    "longitude": -122.4670691,
+    "mapUrl": "https://www.yelp.com/map/twirl-and-dip-san-francisco",
+    "id": "twirl-and-dip-san-francisco",
+    "cuisines": [
+      "ice_cream_and_frozen_yogurt"
+    ],
+    "description": "TWIRL AND DIP - - San Francisco, CA 94118",
+    "status": "open",
+    "openingHours": [
+      "Friday 13:00-17:00",
+      "Sunday 13:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/zX8e__ewrnUdK2KfsmzYbw/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94118",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7686017,
+      "lng": -122.4670691
+    }
+  },
+  {
+    "name": "Choco Kebab San Francisco",
+    "url": "https://www.yelp.com/biz/choco-kebab-san-francisco-san-francisco-2",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [],
+    "address": "San Francisco, CA, 94102",
+    "phone": "(323) 246-6867",
+    "page": 7,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/choco-kebab-san-francisco-san-francisco-2",
+    "id": "choco-kebab-san-francisco-san-francisco-2",
+    "cuisines": [],
+    "description": "CHOCO KEBAB SAN FRANCISCO - - San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-18:00",
+      "Tuesday 10:00-18:00",
+      "Wednesday 10:00-18:00",
+      "Thursday 10:00-18:00",
+      "Friday 10:00-18:00",
+      "Saturday 10:00-18:00",
+      "Sunday 10:00-18:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mTD_L7YrnqzXfb2Bro5KQA/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "Annie's Hot Dogs & Pretzels",
+    "url": "https://www.yelp.com/biz/annies-hot-dogs-and-pretzels-san-francisco-6",
+    "rating": 3.9,
+    "reviewCount": 49,
+    "price": "$",
+    "categories": [
+      "Hot Dogs"
+    ],
+    "address": "50 Tea Garden Dr\nGolden Gate Park Music Concourse, San Francisco, CA, 94122",
+    "phone": "(415) 861-0778",
+    "page": 7,
+    "latitude": 37.7724296373111,
+    "longitude": -122.466626592957,
+    "mapUrl": "https://www.yelp.com/map/annies-hot-dogs-and-pretzels-san-francisco-6",
+    "id": "annies-hot-dogs-and-pretzels-san-francisco-6",
+    "cuisines": [
+      "hot_dogs"
+    ],
+    "description": "ANNIE'S HOT DOGS & PRETZELS - - 50 Tea Garden Dr, Golden Gate Park Music Concourse, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Monday 09:00-17:00",
+      "Tuesday 09:00-17:00",
+      "Wednesday 09:00-17:00",
+      "Thursday 09:00-17:00",
+      "Friday 09:00-17:00",
+      "Saturday 09:00-17:00",
+      "Sunday 09:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/XRV2bjS3ZceGSqvSLnZ9SA/l.jpg",
+    "streetAddress": "50 Tea Garden Dr\nGolden Gate Park Music Concourse",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7724296373111,
+      "lng": -122.466626592957
+    }
+  },
+  {
+    "name": "Asados El Primo",
+    "url": "https://www.yelp.com/biz/asados-el-primo-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [],
+    "address": "1500 Yosemite Ave, San Francisco, CA, 94124",
+    "phone": "(415) 948-6695",
+    "page": 7,
+    "latitude": 37.7260012,
+    "longitude": -122.3898577,
+    "mapUrl": "https://www.yelp.com/map/asados-el-primo-san-francisco",
+    "id": "asados-el-primo-san-francisco",
+    "cuisines": [],
+    "description": "1 review and 6 photos of ASADOS EL PRIMO \"El 4/9 fue mi primera experiencia. Honestamente, nunca me había gustado la carne a la BBQ; sin embargo, esta comida me sorprendió gratamente, ya que es muy rica. El señor que prepara la carne es muy amable. Sin duda, recomiendo este lugar. 10 de 10.\"",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Uifo_Q0JWvgO3Q3ItBI9SQ/l.jpg",
+    "streetAddress": "1500 Yosemite Ave",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94124",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7260012,
+      "lng": -122.3898577
+    }
+  },
+  {
+    "name": "Halal Cart",
+    "url": "https://www.yelp.com/biz/halal-cart-san-francisco-7",
+    "rating": 4.5,
+    "reviewCount": 32,
+    "price": null,
+    "categories": [
+      "Halal",
+      "Mediterranean"
+    ],
+    "address": "455 Market St, San Francisco, CA, 94105",
+    "phone": "(925) 567-6712",
+    "page": 7,
+    "latitude": 37.79107893504466,
+    "longitude": -122.39885598233012,
+    "mapUrl": "https://www.yelp.com/map/halal-cart-san-francisco-7",
+    "id": "halal-cart-san-francisco-7",
+    "cuisines": [
+      "halal",
+      "mediterranean"
+    ],
+    "description": "HALAL CART - - 455 Market St, San Francisco, CA 94105",
+    "status": "offline",
+    "openingHours": [
+      "Monday 10:30-14:30",
+      "Tuesday 10:30-14:30",
+      "Wednesday 10:30-14:30",
+      "Thursday 10:00-14:30",
+      "Friday 10:00-14:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/bRyAx0J_0e2CroNWP_PNxA/l.jpg",
+    "streetAddress": "455 Market St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79107893504466,
+      "lng": -122.39885598233012
+    }
+  },
+  {
+    "name": "El Gran Trompo Regio",
+    "url": "https://www.yelp.com/biz/el-gran-trompo-regio-san-francisco",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "19 St &amp; Mission St, San Francisco, CA, 94110",
+    "phone": "(415) 490-6297",
+    "page": 7,
+    "latitude": 37.76025819486258,
+    "longitude": -122.4192369,
+    "mapUrl": "https://www.yelp.com/map/el-gran-trompo-regio-san-francisco",
+    "id": "el-gran-trompo-regio-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "EL GRAN TROMPO REGIO in San Francisco, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in San Francisco and beyond.",
+    "status": "offline",
+    "openingHours": [
+      "Monday 18:00-03:30",
+      "Thursday 18:00-03:30",
+      "Friday 18:00-03:30",
+      "Saturday 18:00-03:30",
+      "Sunday 18:00-00:00"
+    ],
+    "image": null,
+    "streetAddress": "19 St &amp; Mission St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76025819486258,
+      "lng": -122.4192369
+    }
+  },
+  {
+    "name": "Peasant Pies Café & Catering",
+    "url": "https://www.yelp.com/biz/peasant-pies-caf%C3%A9-and-catering-san-francisco-2",
+    "rating": 4.1,
+    "reviewCount": 599,
+    "price": "$",
+    "categories": [
+      "Bakeries",
+      "Fast Food"
+    ],
+    "address": "1039 Irving St, San Francisco, CA, 94122",
+    "phone": "(415) 731-1978",
+    "page": 7,
+    "latitude": 37.7637741,
+    "longitude": -122.4691868,
+    "mapUrl": "https://www.yelp.com/map/peasant-pies-caf%C3%A9-and-catering-san-francisco-2",
+    "id": "peasant-pies-café-and-catering-san-francisco-2",
+    "cuisines": [
+      "bakeries",
+      "fast_food"
+    ],
+    "description": "PEASANT PIES CAFÉ & CATERING - - 1039 Irving St, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Monday 07:00-18:30",
+      "Tuesday 07:00-18:30",
+      "Wednesday 07:00-18:30",
+      "Thursday 07:00-18:30",
+      "Friday 07:00-18:30",
+      "Saturday 08:00-18:00",
+      "Sunday 08:00-18:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HbcnwMC1YYYDD8y4ppiKiw/l.jpg",
+    "streetAddress": "1039 Irving St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7637741,
+      "lng": -122.4691868
+    }
+  },
+  {
+    "name": "Señor Sisig",
+    "url": "https://www.yelp.com/biz/se%C3%B1or-sisig-san-francisco-13",
+    "rating": 4.2,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Filipino",
+      "Tacos",
+      "Mexican"
+    ],
+    "address": "\"a little bit different but not weird, this is a great food truck option with good service and...\" more",
+    "phone": null,
+    "page": 8,
+    "latitude": 37.25093208894291,
+    "longitude": -122.71374420378743,
+    "mapUrl": "https://www.yelp.com/map/se%C3%B1or-sisig-san-francisco-13",
+    "id": "señor-sisig-san-francisco-13",
+    "cuisines": [
+      "filipino",
+      "tacos",
+      "mexican"
+    ],
+    "description": "SEÑOR SISIG - - San Francisco, CA 94104",
+    "status": "offline",
+    "openingHours": null,
+    "image": null,
+    "streetAddress": null,
+    "city": null,
+    "region": null,
+    "postalCode": null,
+    "country": null,
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.25093208894291,
+      "lng": -122.71374420378743
+    }
+  },
+  {
+    "name": "Qué Chulada Mexican Restaurant",
+    "url": "https://www.yelp.com/biz/qu%C3%A9-chulada-mexican-restaurant-san-francisco",
+    "rating": 4.5,
+    "reviewCount": 177,
+    "price": null,
+    "categories": [
+      "Mexican"
+    ],
+    "address": "5850 Geary Blvd, San Francisco, CA, 94121",
+    "phone": "(415) 702-6433",
+    "page": 8,
+    "latitude": 37.7804597,
+    "longitude": -122.48238,
+    "mapUrl": "https://www.yelp.com/map/qu%C3%A9-chulada-mexican-restaurant-san-francisco",
+    "id": "qué-chulada-mexican-restaurant-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "QUÉ CHULADA MEXICAN RESTAURANT - - 5850 Geary Blvd, San Francisco, CA 94121",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-15:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ODlkFpkNpv-xzBkxP8LszQ/l.jpg",
+    "streetAddress": "5850 Geary Blvd",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94121",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7804597,
+      "lng": -122.48238
+    }
+  },
+  {
+    "name": "J&D's BBQ",
+    "url": "https://www.yelp.com/biz/j-and-ds-bbq-san-francisco",
+    "rating": 4,
+    "reviewCount": 38,
+    "price": null,
+    "categories": [],
+    "address": "San Francisco, CA, 94124",
+    "phone": "(925) 597-9642",
+    "page": 8,
+    "latitude": 37.7304167,
+    "longitude": -122.384425,
+    "mapUrl": "https://www.yelp.com/map/j-and-ds-bbq-san-francisco",
+    "id": "j-and-ds-bbq-san-francisco",
+    "cuisines": [],
+    "description": "J&D'S BBQ - - San Francisco, CA 94124",
+    "status": "open",
+    "openingHours": [
+      "Friday 11:00-21:00",
+      "Saturday 11:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/j8YLzuZ_pY6ZFtf1LiekLg/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94124",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7304167,
+      "lng": -122.384425
+    }
+  },
+  {
+    "name": "Brisbane Lunch Truck",
+    "url": "https://www.yelp.com/biz/brisbane-lunch-truck-brisbane",
+    "rating": 4.7,
+    "reviewCount": 192,
+    "price": "$$",
+    "categories": [
+      "Sandwiches",
+      "Comfort Food",
+      "Coffee Roasteries",
+      "Wholesale Stores"
+    ],
+    "address": "3501 Bayshore Blvd, Brisbane, CA, 94005",
+    "phone": "(415) 660-6320",
+    "page": 8,
+    "latitude": 37.6852672,
+    "longitude": -122.3975662,
+    "mapUrl": "https://www.yelp.com/map/brisbane-lunch-truck-brisbane",
+    "id": "brisbane-lunch-truck-brisbane",
+    "cuisines": [
+      "sandwiches",
+      "comfort_food",
+      "coffee_roasteries",
+      "wholesale_stores"
+    ],
+    "description": "BRISBANE LUNCH TRUCK - - 3501 Bayshore Blvd, Brisbane, CA 94005",
+    "status": "open",
+    "openingHours": [
+      "Wednesday 11:00-17:30",
+      "Thursday 11:00-17:30",
+      "Friday 11:00-17:30",
+      "Saturday 11:00-17:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/_lmFctUEIUbdrPZLEqTPGw/l.jpg",
+    "streetAddress": "3501 Bayshore Blvd",
+    "city": "Brisbane",
+    "region": "CA",
+    "postalCode": "94005",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.6852672,
+      "lng": -122.3975662
+    }
+  },
+  {
+    "name": "Wicked Star",
+    "url": "https://www.yelp.com/biz/wicked-star-san-francisco",
+    "rating": 3.4,
+    "reviewCount": 131,
+    "price": "$$",
+    "categories": [
+      "Thai",
+      "Vietnamese"
+    ],
+    "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+    "phone": "(415) 800-4620",
+    "page": 8,
+    "latitude": 37.770882,
+    "longitude": -122.393249,
+    "mapUrl": "https://www.yelp.com/map/wicked-star-san-francisco",
+    "id": "wicked-star-san-francisco",
+    "cuisines": [
+      "thai",
+      "vietnamese"
+    ],
+    "description": "WICKED STAR - - 601 Mission Bay Blvd N, San Francisco, CA 94158",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-17:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EG6Antlmcqh5hTxieKLePA/l.jpg",
+    "streetAddress": "601 Mission Bay Blvd N",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94158",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.770882,
+      "lng": -122.393249
+    }
+  },
+  {
+    "name": "Al Carajo",
+    "url": "https://www.yelp.com/biz/al-carajo-san-francisco",
+    "rating": 4.7,
+    "reviewCount": 373,
+    "price": "$$",
+    "categories": [
+      "Mexican"
+    ],
+    "address": "3224 1/2 22nd St, San Francisco, CA, 94110",
+    "phone": "(415) 400-4146",
+    "page": 8,
+    "latitude": 37.75558552264688,
+    "longitude": -122.41941679531011,
+    "mapUrl": "https://www.yelp.com/map/al-carajo-san-francisco",
+    "id": "al-carajo-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "AL CARAJO - - 3224 1/2 22nd St, San Francisco, CA 94110",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 09:00-15:00",
+      "Wednesday 09:00-15:00",
+      "Thursday 09:00-15:00",
+      "Friday 09:00-21:00",
+      "Saturday 09:00-21:00",
+      "Sunday 09:00-15:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/l6xxAUAN_yNsfqSRdN854A/l.jpg",
+    "streetAddress": "3224 1/2 22nd St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94110",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.75558552264688,
+      "lng": -122.41941679531011
+    }
+  },
+  {
+    "name": "Off the Grid: SFO",
+    "url": "https://www.yelp.com/biz/off-the-grid-sfo-san-francisco",
+    "rating": 4,
+    "reviewCount": 6,
+    "price": "$$",
+    "categories": [
+      "Food Court"
+    ],
+    "address": "2 Marina Blvd\nBldg C 362, San Francisco, CA, 94128",
+    "phone": "(415) 339-5888",
+    "page": 8,
+    "latitude": 37.8067224,
+    "longitude": -122.4313474,
+    "mapUrl": "https://www.yelp.com/map/off-the-grid-sfo-san-francisco",
+    "id": "off-the-grid-sfo-san-francisco",
+    "cuisines": [
+      "food_court"
+    ],
+    "description": "OFF THE GRID: SFO - - 2 Marina Blvd, Bldg C 362, San Francisco, CA 94128",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-14:00",
+      "Monday 17:00-20:00",
+      "Tuesday 11:00-14:00",
+      "Tuesday 17:00-20:00",
+      "Wednesday 11:00-14:00",
+      "Wednesday 17:00-20:00",
+      "Thursday 11:00-14:00",
+      "Thursday 17:00-20:00",
+      "Friday 11:00-14:00",
+      "Friday 17:00-20:00",
+      "Saturday 11:00-14:00",
+      "Saturday 17:00-20:00",
+      "Sunday 11:00-14:00",
+      "Sunday 17:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Zhx2_SxCLNkriSzOS9cPEQ/l.jpg",
+    "streetAddress": "2 Marina Blvd\nBldg C 362",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94128",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.8067224,
+      "lng": -122.4313474
+    }
+  },
+  {
+    "name": "Annakoot",
+    "url": "https://www.yelp.com/biz/annakoot-san-francisco-2",
+    "rating": 2.8,
+    "reviewCount": 109,
+    "price": "$",
+    "categories": [
+      "Indian"
+    ],
+    "address": "San Francisco, CA, 94102",
+    "phone": "(510) 848-7684",
+    "page": 8,
+    "latitude": 37.76937,
+    "longitude": -122.486192,
+    "mapUrl": "https://www.yelp.com/map/annakoot-san-francisco-2",
+    "id": "annakoot-san-francisco-2",
+    "cuisines": [
+      "indian"
+    ],
+    "description": "Delivery & Pickup Options - 109 reviews and 48 photos of ANNAKOOT \"My husband and I found ourselves starving in Golden Gate Park. We've both had disappointing experiences with the food in the cafes in the Academy of Science and other similar cafes, so rather than check out the cafe in DeYoung we wer",
+    "status": "open",
+    "openingHours": null,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/tqbzUiR512u12GD4ZMkdJw/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.76937,
+      "lng": -122.486192
+    }
+  },
+  {
+    "name": "Tahona Mercado",
+    "url": "https://www.yelp.com/biz/tahona-mercado-san-francisco-2",
+    "rating": 4.8,
+    "reviewCount": 119,
+    "price": null,
+    "categories": [
+      "Beer, Wine & Spirits",
+      "Mexican",
+      "Cafes"
+    ],
+    "address": "1168 Leavenworth St, San Francisco, CA, 94109",
+    "phone": "(415) 775-9812",
+    "page": 8,
+    "latitude": 37.7920865,
+    "longitude": -122.4157339,
+    "mapUrl": "https://www.yelp.com/map/tahona-mercado-san-francisco-2",
+    "id": "tahona-mercado-san-francisco-2",
+    "cuisines": [
+      "beer_wine_and_spirits",
+      "mexican",
+      "cafes"
+    ],
+    "description": "TAHONA MERCADO - - 1168 Leavenworth St, San Francisco, CA 94109",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-20:00",
+      "Tuesday 10:00-20:00",
+      "Thursday 10:00-20:00",
+      "Friday 10:00-20:00",
+      "Saturday 09:00-20:00",
+      "Sunday 09:00-15:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/DSv-kOR1qZwJYX1QEPoHKw/l.jpg",
+    "streetAddress": "1168 Leavenworth St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94109",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7920865,
+      "lng": -122.4157339
+    }
+  },
+  {
+    "name": "El Gran Taco Loco",
+    "url": "https://www.yelp.com/biz/el-gran-taco-loco-san-francisco-3",
+    "rating": 4.2,
+    "reviewCount": 9,
+    "price": null,
+    "categories": [
+      "Mexican",
+      "Tacos"
+    ],
+    "address": "600 Monterey Blvd, San Francisco, CA, 94127",
+    "phone": "(415) 937-3540",
+    "page": 8,
+    "latitude": 37.73172274196955,
+    "longitude": -122.4489628501593,
+    "mapUrl": "https://www.yelp.com/map/el-gran-taco-loco-san-francisco-3",
+    "id": "el-gran-taco-loco-san-francisco-3",
+    "cuisines": [
+      "mexican",
+      "tacos"
+    ],
+    "description": "EL GRAN TACO LOCO - - 600 Monterey Blvd, San Francisco, CA 94127",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-19:00",
+      "Tuesday 11:00-19:00",
+      "Wednesday 11:00-19:00",
+      "Thursday 11:00-19:00",
+      "Friday 11:00-19:00",
+      "Saturday 11:00-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/6phZBovpIejrWJCuxNG37w/l.jpg",
+    "streetAddress": "600 Monterey Blvd",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94127",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.73172274196955,
+      "lng": -122.4489628501593
+    }
+  },
+  {
+    "name": "Kravins Food Truck",
+    "url": "https://www.yelp.com/biz/kravins-food-truck-tempe",
+    "rating": 5,
+    "reviewCount": 2,
+    "price": null,
+    "categories": [
+      "Barbeque",
+      "Soul Food"
+    ],
+    "address": "Tempe, AZ, 85287",
+    "phone": "(480) 442-3673",
+    "page": 9,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/kravins-food-truck-tempe",
+    "id": "kravins-food-truck-tempe",
+    "cuisines": [
+      "barbeque",
+      "soul_food"
+    ],
+    "description": "KRAVINS FOOD TRUCK - - Tempe, AZ 85287",
+    "status": "open",
+    "openingHours": [
+      "Monday 00:00-24:00",
+      "Tuesday 00:00-24:00",
+      "Wednesday 00:00-24:00",
+      "Thursday 00:00-24:00",
+      "Friday 00:00-24:00",
+      "Saturday 00:00-24:00",
+      "Sunday 00:00-24:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/kGt_F-cbFGJQ4ltwTbHLRQ/l.jpg",
+    "streetAddress": null,
+    "city": "Tempe",
+    "region": "AZ",
+    "postalCode": "85287",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "Vostok",
+    "url": "https://www.yelp.com/biz/vostok-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Halal",
+      "Mediterranean"
+    ],
+    "address": "98 Franklin St, San Francisco, CA, 94102",
+    "phone": "(415) 850-2171",
+    "page": 9,
+    "latitude": 37.7750809,
+    "longitude": -122.420623,
+    "mapUrl": "https://www.yelp.com/map/vostok-san-francisco",
+    "id": "vostok-san-francisco",
+    "cuisines": [
+      "halal",
+      "mediterranean"
+    ],
+    "description": "VOSTOK - - 98 Franklin St, San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-20:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/zrFb6Lbxtn2PKca7Sv4f7g/l.jpg",
+    "streetAddress": "98 Franklin St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7750809,
+      "lng": -122.420623
+    }
+  },
+  {
+    "name": "Dinosaurs",
+    "url": "https://www.yelp.com/biz/dinosaurs-san-francisco-5",
+    "rating": 4.2,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Vietnamese",
+      "Sandwiches"
+    ],
+    "address": "2275 Market St, San Francisco, CA, 94114",
+    "phone": "(415) 503-1421",
+    "page": 9,
+    "latitude": 37.764452,
+    "longitude": -122.431978,
+    "mapUrl": "https://www.yelp.com/map/dinosaurs-san-francisco-5",
+    "id": "dinosaurs-san-francisco-5",
+    "cuisines": [
+      "vietnamese",
+      "sandwiches"
+    ],
+    "description": "DINOSAURS - - 2275 Market St, San Francisco, CA 94114",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-19:00",
+      "Tuesday 10:00-19:00",
+      "Wednesday 10:00-19:00",
+      "Thursday 10:00-19:00",
+      "Friday 10:00-19:00",
+      "Saturday 10:00-19:00",
+      "Sunday 10:00-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ufLY5MJV1wBmC98qXJOedQ/l.jpg",
+    "streetAddress": "2275 Market St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94114",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.764452,
+      "lng": -122.431978
+    }
+  },
+  {
+    "name": "Russ Fam Kitchen",
+    "url": "https://www.yelp.com/biz/russ-fam-kitchen-daly-city-2",
+    "rating": 4.4,
+    "reviewCount": 185,
+    "price": "$$",
+    "categories": [
+      "Mexican",
+      "Filipino",
+      "Asian Fusion"
+    ],
+    "address": "1216 Hillside Blvd, Daly City, CA, 94014",
+    "phone": "(510) 691-3658",
+    "page": 9,
+    "latitude": 37.68586028516656,
+    "longitude": -122.4597330026546,
+    "mapUrl": "https://www.yelp.com/map/russ-fam-kitchen-daly-city-2",
+    "id": "russ-fam-kitchen-daly-city-2",
+    "cuisines": [
+      "mexican",
+      "filipino",
+      "asian_fusion"
+    ],
+    "description": "RUSS FAM KITCHEN - - 1216 Hillside Blvd, Daly City, CA 94014",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 09:00-12:00",
+      "Tuesday 14:00-19:00",
+      "Wednesday 09:00-12:00",
+      "Wednesday 14:00-19:00",
+      "Thursday 09:00-12:00",
+      "Thursday 14:00-19:00",
+      "Friday 09:00-12:00",
+      "Friday 14:00-19:00",
+      "Saturday 09:00-12:00",
+      "Saturday 14:00-19:00",
+      "Sunday 09:00-12:00",
+      "Sunday 14:00-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Ft4DXuY77q5rBxmyZefxtQ/l.jpg",
+    "streetAddress": "1216 Hillside Blvd",
+    "city": "Daly City",
+    "region": "CA",
+    "postalCode": "94014",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.68586028516656,
+      "lng": -122.4597330026546
+    }
+  },
+  {
+    "name": "Brazuca Grill",
+    "url": "https://www.yelp.com/biz/brazuca-grill-san-francisco-2",
+    "rating": 4.6,
+    "reviewCount": 48,
+    "price": "$$",
+    "categories": [
+      "Brazilian",
+      "Acai Bowls"
+    ],
+    "address": "San Francisco, CA, 94107",
+    "phone": "(650) 430-5910",
+    "page": 9,
+    "latitude": 37.706368356809776,
+    "longitude": -122.51781463623047,
+    "mapUrl": "https://www.yelp.com/map/brazuca-grill-san-francisco-2",
+    "id": "brazuca-grill-san-francisco-2",
+    "cuisines": [
+      "brazilian",
+      "acai_bowls"
+    ],
+    "description": "BRAZUCA GRILL - - 998 Indiana St, San Francisco, CA 94107",
+    "status": "offline",
+    "openingHours": [
+      "Monday 10:30-14:00",
+      "Tuesday 10:30-14:00",
+      "Wednesday 10:30-14:00",
+      "Thursday 10:30-14:00",
+      "Friday 10:30-14:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/JEZiVnDbe2bg-D1wSKlXZw/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94107",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.706368356809776,
+      "lng": -122.51781463623047
+    }
+  },
+  {
+    "name": "Nimet Doner",
+    "url": "https://www.yelp.com/biz/nimet-doner-san-bruno-2",
+    "rating": 4.5,
+    "reviewCount": 46,
+    "price": "$$",
+    "categories": [
+      "Sandwiches",
+      "Turkish"
+    ],
+    "address": "751 Camino Plz, San Bruno, CA, 94066",
+    "phone": "(415) 613-6918",
+    "page": 9,
+    "latitude": 37.62835172434099,
+    "longitude": -122.4170104152156,
+    "mapUrl": "https://www.yelp.com/map/nimet-doner-san-bruno-2",
+    "id": "nimet-doner-san-bruno-2",
+    "cuisines": [
+      "sandwiches",
+      "turkish"
+    ],
+    "description": "NIMET DONER - - 751 Camino Plz, San Bruno , CA 94066",
+    "status": "open",
+    "openingHours": [
+      "Monday 14:00-00:00",
+      "Wednesday 14:00-00:00",
+      "Thursday 14:00-00:00",
+      "Friday 14:00-00:00",
+      "Saturday 14:00-00:00",
+      "Sunday 14:00-00:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/G0o22haGyvUn_wCtFr_SbQ/l.jpg",
+    "streetAddress": "751 Camino Plz",
+    "city": "San Bruno ",
+    "region": "CA",
+    "postalCode": "94066",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.62835172434099,
+      "lng": -122.4170104152156
+    }
+  },
+  {
+    "name": "Hibachi Truck",
+    "url": "https://www.yelp.com/biz/hibachi-truck-daly-city",
+    "rating": 3.9,
+    "reviewCount": 66,
+    "price": null,
+    "categories": [
+      "Japanese",
+      "Steakhouses"
+    ],
+    "address": "7499 El Camino Real\n7499 EL CAMINO REAL, Daly City, CA, 94014",
+    "phone": "(650) 302-3849",
+    "page": 9,
+    "latitude": 37.68848976933399,
+    "longitude": -122.46554148465808,
+    "mapUrl": "https://www.yelp.com/map/hibachi-truck-daly-city",
+    "id": "hibachi-truck-daly-city",
+    "cuisines": [
+      "japanese",
+      "steakhouses"
+    ],
+    "description": "HIBACHI TRUCK - - 7499 El Camino Real, 7499 EL CAMINO REAL, Daly City, CA 94014",
+    "status": "open",
+    "openingHours": [
+      "Monday 12:00-22:00",
+      "Tuesday 12:00-22:00",
+      "Wednesday 12:00-22:00",
+      "Thursday 12:00-22:00",
+      "Friday 12:00-22:00",
+      "Saturday 12:00-22:00",
+      "Sunday 12:00-22:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ejrvOxvkZhOWNFLSjLXQIw/l.jpg",
+    "streetAddress": "7499 El Camino Real\n7499 EL CAMINO REAL",
+    "city": "Daly City",
+    "region": "CA",
+    "postalCode": "94014",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.68848976933399,
+      "lng": -122.46554148465808
+    }
+  },
+  {
+    "name": "Lady M Cake Boutique",
+    "url": "https://www.yelp.com/biz/lady-m-cake-boutique-san-francisco",
+    "rating": 3.9,
+    "reviewCount": 18,
+    "price": null,
+    "categories": [
+      "Desserts",
+      "Custom Cakes"
+    ],
+    "address": "201 Steuart St, San Francisco, CA, 94105",
+    "phone": "(212) 452-2222",
+    "page": 9,
+    "latitude": 37.79205724417803,
+    "longitude": -122.391421,
+    "mapUrl": "https://www.yelp.com/map/lady-m-cake-boutique-san-francisco",
+    "id": "lady-m-cake-boutique-san-francisco",
+    "cuisines": [
+      "desserts",
+      "custom_cakes"
+    ],
+    "description": "LADY M CAKE BOUTIQUE - - 201 Steuart St, San Francisco, CA 94105",
+    "status": "open",
+    "openingHours": [
+      "Tuesday 12:00-14:00",
+      "Tuesday 14:30-19:00",
+      "Wednesday 12:00-14:00",
+      "Wednesday 14:30-19:00",
+      "Thursday 12:00-14:00",
+      "Thursday 14:30-19:00",
+      "Friday 12:00-14:00",
+      "Friday 14:30-19:00",
+      "Saturday 12:00-14:00",
+      "Saturday 14:30-19:00",
+      "Sunday 12:00-14:00",
+      "Sunday 14:30-19:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/uPoQ-98nQjYgJm5nN39HDQ/l.jpg",
+    "streetAddress": "201 Steuart St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.79205724417803,
+      "lng": -122.391421
+    }
+  },
+  {
+    "name": "MOMO Noodle",
+    "url": "https://www.yelp.com/biz/momo-noodle-san-francisco-9",
+    "rating": 4.1,
+    "reviewCount": 200,
+    "price": "$$",
+    "categories": [
+      "Noodles",
+      "Chinese",
+      "Szechuan"
+    ],
+    "address": "455 Market St, San Francisco, CA, 94105",
+    "phone": "(408) 800-6819",
+    "page": 9,
+    "latitude": 37.7906525,
+    "longitude": -122.3983848,
+    "mapUrl": "https://www.yelp.com/map/momo-noodle-san-francisco-9",
+    "id": "momo-noodle-san-francisco-9",
+    "cuisines": [
+      "noodles",
+      "chinese",
+      "szechuan"
+    ],
+    "description": "MOMO NOODLE - - 455 Market St, San Francisco, CA 94105",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:30-15:30",
+      "Tuesday 10:30-15:30",
+      "Wednesday 10:30-15:30",
+      "Thursday 10:30-15:30",
+      "Friday 10:30-15:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/YTB_mLUl6g2qU5ZJ9NcU7A/l.jpg",
+    "streetAddress": "455 Market St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94105",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7906525,
+      "lng": -122.3983848
+    }
+  },
+  {
+    "name": "El Perla Negra",
+    "url": "https://www.yelp.com/biz/el-perla-negra-san-francisco-2",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": "$",
+    "categories": [
+      "Mexican"
+    ],
+    "address": "Baker Street And Grove St, San Francisco, CA, 94117",
+    "phone": "(415) 666-5742",
+    "page": 9,
+    "latitude": 37.769749,
+    "longitude": -122.448227,
+    "mapUrl": "https://www.yelp.com/map/el-perla-negra-san-francisco-2",
+    "id": "el-perla-negra-san-francisco-2",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "EL PERLA NEGRA - - Baker Street And Grove St, San Francisco, CA 94117",
+    "status": "open",
+    "openingHours": [
+      "Monday 10:00-16:00",
+      "Tuesday 10:00-16:00",
+      "Wednesday 10:00-16:00",
+      "Thursday 10:00-16:00",
+      "Friday 10:00-16:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/t3xgG6gQVVtqaQwPgvgCWQ/l.jpg",
+    "streetAddress": "Baker Street And Grove St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94117",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.769749,
+      "lng": -122.448227
+    }
+  },
+  {
+    "name": "Tacolicious",
+    "url": "https://www.yelp.com/biz/tacolicious-san-francisco",
+    "rating": 3.7,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Nightlife",
+      "Bars",
+      "Mexican",
+      "Cocktail Bars",
+      "Tacos"
+    ],
+    "address": "2250 Chestnut St, San Francisco, CA, 94123",
+    "phone": null,
+    "page": 10,
+    "latitude": 37.8004125,
+    "longitude": -122.4404725,
+    "mapUrl": "https://www.yelp.com/map/tacolicious-san-francisco",
+    "id": "tacolicious-san-francisco",
+    "cuisines": [
+      "nightlife",
+      "bars",
+      "mexican",
+      "cocktail_bars",
+      "tacos"
+    ],
+    "description": "TACOLICIOUS - - 2250 Chestnut St, San Francisco, CA 94123",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:30-21:30",
+      "Tuesday 11:30-21:30",
+      "Wednesday 11:30-21:30",
+      "Thursday 11:30-21:30",
+      "Friday 11:00-23:00",
+      "Saturday 11:00-23:00",
+      "Sunday 11:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/_Hnw-zGb5rsCidbyy3GKOA/l.jpg",
+    "streetAddress": "2250 Chestnut St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94123",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.8004125,
+      "lng": -122.4404725
+    }
+  },
+  {
+    "name": "Underdogs Tres",
+    "url": "https://www.yelp.com/biz/underdogs-tres-san-francisco",
+    "rating": 4,
+    "reviewCount": null,
+    "price": "$$",
+    "categories": [
+      "Nightlife",
+      "Bars",
+      "Mexican",
+      "Sports Bars"
+    ],
+    "address": "1224 9th Ave, San Francisco, CA, 94122",
+    "phone": "(415) 566-8700",
+    "page": 10,
+    "latitude": 37.7653951,
+    "longitude": -122.4663131,
+    "mapUrl": "https://www.yelp.com/map/underdogs-tres-san-francisco",
+    "id": "underdogs-tres-san-francisco",
+    "cuisines": [
+      "nightlife",
+      "bars",
+      "mexican",
+      "sports_bars"
+    ],
+    "description": "UNDERDOGS TRES - - 1224 9th Ave, San Francisco, CA 94122",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-22:00",
+      "Tuesday 11:00-22:00",
+      "Wednesday 11:00-22:00",
+      "Thursday 11:00-22:00",
+      "Friday 11:00-22:00",
+      "Saturday 09:00-22:00",
+      "Sunday 09:00-22:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/L283mSuaAFBXlnTpN0A3Pg/l.jpg",
+    "streetAddress": "1224 9th Ave",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94122",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7653951,
+      "lng": -122.4663131
+    }
+  },
+  {
+    "name": "The Bartender Truck",
+    "url": "https://www.yelp.com/biz/the-bartender-truck-san-francisco-4",
+    "rating": 5,
+    "reviewCount": 13,
+    "price": null,
+    "categories": [
+      "Bartenders",
+      "Party & Event Planning"
+    ],
+    "address": "San Francisco, CA, 94121",
+    "phone": "(800) 601-0634",
+    "page": 10,
+    "latitude": 38.212299,
+    "longitude": -122.68322699999999,
+    "mapUrl": "https://www.yelp.com/map/the-bartender-truck-san-francisco-4",
+    "id": "the-bartender-truck-san-francisco-4",
+    "cuisines": [
+      "bartenders",
+      "party_and_event_planning"
+    ],
+    "description": "THE BARTENDER TRUCK - - San Francisco, CA 94121",
+    "status": "open",
+    "openingHours": [
+      "Monday 00:00-24:00",
+      "Tuesday 00:00-24:00",
+      "Wednesday 00:00-24:00",
+      "Thursday 00:00-24:00",
+      "Friday 00:00-24:00",
+      "Saturday 00:00-24:00",
+      "Sunday 00:00-24:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/X13_LPCMM_zKZDSGMaCXDw/l.jpg",
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94121",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 38.212299,
+      "lng": -122.68322699999999
+    }
+  },
+  {
+    "name": "Presidio Pop Up",
+    "url": "https://www.yelp.com/biz/presidio-pop-up-san-francisco",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "price": null,
+    "categories": [],
+    "address": "103 Montgomery St, San Francisco, CA, 94129",
+    "phone": "(415) 561-5300",
+    "page": 10,
+    "latitude": 37.8008983,
+    "longitude": -122.4589757,
+    "mapUrl": "https://www.yelp.com/map/presidio-pop-up-san-francisco",
+    "id": "presidio-pop-up-san-francisco",
+    "cuisines": [],
+    "description": "PRESIDIO POP UP - - 103 Montgomery St, San Francisco, CA 94129",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-15:00",
+      "Tuesday 11:00-15:00",
+      "Wednesday 11:00-15:00",
+      "Thursday 09:00-15:00",
+      "Friday 09:00-15:00",
+      "Saturday 09:00-17:30",
+      "Sunday 09:00-17:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Yj-XViQyGnVKL1G_5SyxnQ/l.jpg",
+    "streetAddress": "103 Montgomery St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94129",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.8008983,
+      "lng": -122.4589757
+    }
+  },
+  {
+    "name": "Street Taco",
+    "url": "https://www.yelp.com/biz/street-taco-san-francisco",
+    "rating": 4.1,
+    "reviewCount": 798,
+    "price": "$$",
+    "categories": [
+      "Mexican"
+    ],
+    "address": "1607 Haight St, San Francisco, CA, 94117",
+    "phone": "(415) 525-4435",
+    "page": 10,
+    "latitude": 37.7696105177356,
+    "longitude": -122.448901621221,
+    "mapUrl": "https://www.yelp.com/map/street-taco-san-francisco",
+    "id": "street-taco-san-francisco",
+    "cuisines": [
+      "mexican"
+    ],
+    "description": "STREET TACO - - 1607 Haight St, San Francisco, CA 94117",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-21:00",
+      "Tuesday 11:00-21:00",
+      "Wednesday 11:00-21:00",
+      "Thursday 11:00-22:00",
+      "Friday 11:00-22:00",
+      "Saturday 11:00-22:00",
+      "Sunday 11:00-21:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/C6CkSngjKIqpjAmQMxDfFQ/l.jpg",
+    "streetAddress": "1607 Haight St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94117",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7696105177356,
+      "lng": -122.448901621221
+    }
+  },
+  {
+    "name": "Lulu's House of Treats",
+    "url": "https://www.yelp.com/biz/lulus-house-of-treats-san-francisco-3",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [
+      "Pancakes",
+      "Do-It-Yourself Food",
+      "Breakfast & Brunch"
+    ],
+    "address": "1901 Market St, San Francisco, CA, 94115",
+    "phone": "(415) 871-8271",
+    "page": 10,
+    "latitude": 37.770504813441825,
+    "longitude": -122.42506956800892,
+    "mapUrl": "https://www.yelp.com/map/lulus-house-of-treats-san-francisco-3",
+    "id": "lulus-house-of-treats-san-francisco-3",
+    "cuisines": [
+      "pancakes",
+      "do_it_yourself_food",
+      "breakfast_and_brunch"
+    ],
+    "description": "Specialties: Bay Area Luxury Mobile Snack Cart",
+    "status": "open",
+    "openingHours": [
+      "Monday 00:00-24:00",
+      "Tuesday 00:00-24:00",
+      "Wednesday 00:00-24:00",
+      "Thursday 00:00-24:00",
+      "Friday 00:00-24:00",
+      "Saturday 00:00-24:00",
+      "Sunday 00:00-24:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/bJUXevIbK8vCcqVbfrvl8w/l.jpg",
+    "streetAddress": "1901 Market St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94115",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.770504813441825,
+      "lng": -122.42506956800892
+    }
+  },
+  {
+    "name": "Da Poke-Man",
+    "url": "https://www.yelp.com/biz/da-poke-man-san-francisco-4",
+    "rating": 4.5,
+    "reviewCount": 57,
+    "price": "$$",
+    "categories": [
+      "Poke",
+      "Hawaiian"
+    ],
+    "address": "24 Willie Mays Plz, San Francisco, CA, 94107",
+    "phone": "(510) 789-9447",
+    "page": 10,
+    "latitude": 37.7784199,
+    "longitude": -122.3906212,
+    "mapUrl": "https://www.yelp.com/map/da-poke-man-san-francisco-4",
+    "id": "da-poke-man-san-francisco-4",
+    "cuisines": [
+      "poke",
+      "hawaiian"
+    ],
+    "description": "DA POKE-MAN - - 24 Willie Mays Plz, San Francisco, CA 94107",
+    "status": "open",
+    "openingHours": [
+      "Monday 11:00-20:00",
+      "Tuesday 11:00-20:00",
+      "Wednesday 11:00-20:00",
+      "Thursday 11:00-20:00",
+      "Friday 11:00-20:00",
+      "Saturday 11:00-20:00",
+      "Sunday 11:00-17:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/K1u5rA6M0l53hxuHBbeX7A/l.jpg",
+    "streetAddress": "24 Willie Mays Plz",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94107",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.7784199,
+      "lng": -122.3906212
+    }
+  },
+  {
+    "name": "Soul Trucks LV",
+    "url": "https://www.yelp.com/biz/soul-trucks-lv-san-francisco",
+    "rating": null,
+    "reviewCount": null,
+    "price": null,
+    "categories": [],
+    "address": "San Francisco, CA, 94103",
+    "phone": "(833) 768-5858",
+    "page": 10,
+    "latitude": 37.775123,
+    "longitude": -122.41932,
+    "mapUrl": "https://www.yelp.com/map/soul-trucks-lv-san-francisco",
+    "id": "soul-trucks-lv-san-francisco",
+    "cuisines": [],
+    "description": "SOUL TRUCKS LV in San Francisco, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in San Francisco and beyond.",
+    "status": "open",
+    "openingHours": [
+      "Monday 09:00-17:00",
+      "Tuesday 09:00-17:00",
+      "Wednesday 09:00-17:00",
+      "Thursday 09:00-17:00",
+      "Friday 09:00-17:00",
+      "Saturday 09:00-17:00"
+    ],
+    "image": null,
+    "streetAddress": null,
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94103",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.775123,
+      "lng": -122.41932
+    }
+  },
+  {
+    "name": "Koja Kitchen Truck",
+    "url": "https://www.yelp.com/biz/koja-kitchen-truck-emeryville",
+    "rating": 4.6,
+    "reviewCount": 36,
+    "price": "$$",
+    "categories": [],
+    "address": "Emeryville, CA, 94608",
+    "phone": "(510) 328-3799",
+    "page": 10,
+    "latitude": 37.8436826,
+    "longitude": -122.2914967,
+    "mapUrl": "https://www.yelp.com/map/koja-kitchen-truck-emeryville",
+    "id": "koja-kitchen-truck-emeryville",
+    "cuisines": [],
+    "description": "KOJA KITCHEN TRUCK - - Emeryville, CA 94608",
+    "status": "offline",
+    "openingHours": [
+      "Monday 11:00-14:00",
+      "Monday 17:00-21:00",
+      "Tuesday 11:00-14:00",
+      "Tuesday 17:00-21:00",
+      "Wednesday 11:00-14:00",
+      "Wednesday 17:00-21:00",
+      "Thursday 11:00-14:00",
+      "Thursday 17:00-21:00",
+      "Friday 11:00-14:00",
+      "Friday 17:00-21:00",
+      "Saturday 11:00-15:00",
+      "Sunday 11:00-15:00"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/N9fTlGeiS0pkE7KS-OgAOg/l.jpg",
+    "streetAddress": null,
+    "city": "Emeryville",
+    "region": "CA",
+    "postalCode": "94608",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.8436826,
+      "lng": -122.2914967
+    }
+  },
+  {
+    "name": "AtoMix Breakfast Bar",
+    "url": "https://www.yelp.com/biz/atomix-breakfast-bar-san-francisco",
+    "rating": 5,
+    "reviewCount": 1,
+    "price": null,
+    "categories": [
+      "Coffee & Tea",
+      "Breakfast & Brunch"
+    ],
+    "address": "25 Mason St, San Francisco, CA, 94102",
+    "phone": "(701) 570-6504",
+    "page": 10,
+    "latitude": 37.783536,
+    "longitude": -122.4094065,
+    "mapUrl": "https://www.yelp.com/map/atomix-breakfast-bar-san-francisco",
+    "id": "atomix-breakfast-bar-san-francisco",
+    "cuisines": [
+      "coffee_and_tea",
+      "breakfast_and_brunch"
+    ],
+    "description": "ATOMIX BREAKFAST BAR - - 25 Mason St, San Francisco, CA 94102",
+    "status": "open",
+    "openingHours": [
+      "Monday 07:30-19:30",
+      "Tuesday 07:30-19:30",
+      "Wednesday 07:30-19:30",
+      "Thursday 07:30-19:30",
+      "Friday 07:30-19:30",
+      "Saturday 07:30-19:30",
+      "Sunday 07:30-19:30"
+    ],
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/qmpqmACPS5kPY-y1dPzA8w/l.jpg",
+    "streetAddress": "25 Mason St",
+    "city": "San Francisco",
+    "region": "CA",
+    "postalCode": "94102",
+    "country": "US",
+    "owner_id": null,
+    "avg_prep_time_min": null,
+    "service_radius_km": null,
+    "current_location": {
+      "lat": 37.783536,
+      "lng": -122.4094065
+    }
+  }
+]
