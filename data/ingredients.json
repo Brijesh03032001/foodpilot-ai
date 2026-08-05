@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ing-acai",
+    "name": "acai",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-aji_amarillo",
+    "name": "aji amarillo",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-avocado",
+    "name": "avocado",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-bacon",
+    "name": "bacon",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-baguette",
+    "name": "baguette",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-banana",
+    "name": "banana",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-basil",
+    "name": "basil",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-basmati_rice",
+    "name": "basmati rice",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-batter",
+    "name": "batter",
+    "unit": "kg",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-bbq_sauce",
+    "name": "bbq sauce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-beef",
+    "name": "beef",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-beef_broth",
+    "name": "beef broth",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-beef_patty",
+    "name": "beef patty",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-bell_pepper",
+    "name": "bell pepper",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-berries",
+    "name": "berries",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-biryani_masala",
+    "name": "biryani masala",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-black_beans",
+    "name": "black beans",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-black_tea",
+    "name": "black tea",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-brioche_bun",
+    "name": "brioche bun",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-brisket",
+    "name": "brisket",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-buffalo_sauce",
+    "name": "buffalo sauce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-burger_bun",
+    "name": "burger bun",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-butter",
+    "name": "butter",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-cabbage",
+    "name": "cabbage",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-carrot",
+    "name": "carrot",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chai",
+    "name": "chai",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cheese",
+    "name": "cheese",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-cheesecake",
+    "name": "cheesecake",
+    "unit": "unit",
+    "allergen_flags": [
+      "dairy",
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-cherry_tomato",
+    "name": "cherry tomato",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chicken",
+    "name": "chicken",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chicken_breast",
+    "name": "chicken breast",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chicken_wings",
+    "name": "chicken wings",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chickpeas",
+    "name": "chickpeas",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chili",
+    "name": "chili",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chili_oil",
+    "name": "chili oil",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-chocolate",
+    "name": "chocolate",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-chocolate_sauce",
+    "name": "chocolate sauce",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-churro_dough",
+    "name": "churro dough",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-cilantro",
+    "name": "cilantro",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cinnamon",
+    "name": "cinnamon",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cinnamon_sugar",
+    "name": "cinnamon sugar",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-clams",
+    "name": "clams",
+    "unit": "kg",
+    "allergen_flags": [
+      "shellfish"
+    ]
+  },
+  {
+    "id": "ing-coconut_milk",
+    "name": "coconut milk",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cod",
+    "name": "cod",
+    "unit": "kg",
+    "allergen_flags": [
+      "fish"
+    ]
+  },
+  {
+    "id": "ing-coffee",
+    "name": "coffee",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-coleslaw",
+    "name": "coleslaw",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-collard_greens",
+    "name": "collard greens",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cone",
+    "name": "cone",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-cookie",
+    "name": "cookie",
+    "unit": "unit",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-corn",
+    "name": "corn",
+    "unit": "unit",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-corn_tortilla",
+    "name": "corn tortilla",
+    "unit": "unit",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cornmeal",
+    "name": "cornmeal",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-cotija_cheese",
+    "name": "cotija cheese",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-cream",
+    "name": "cream",
+    "unit": "liter",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-croissant",
+    "name": "croissant",
+    "unit": "unit",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-cucumber",
+    "name": "cucumber",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-donut",
+    "name": "donut",
+    "unit": "unit",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-donut_holes",
+    "name": "donut holes",
+    "unit": "unit",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-doubanjiang",
+    "name": "doubanjiang",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-dough",
+    "name": "dough",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-dumpling_wrapper",
+    "name": "dumpling wrapper",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-edamame",
+    "name": "edamame",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-egg",
+    "name": "egg",
+    "unit": "unit",
+    "allergen_flags": [
+      "egg"
+    ]
+  },
+  {
+    "id": "ing-egg_noodles",
+    "name": "egg noodles",
+    "unit": "kg",
+    "allergen_flags": [
+      "egg",
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-empanada_dough",
+    "name": "empanada dough",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-espresso",
+    "name": "espresso",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-falafel",
+    "name": "falafel",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-feta",
+    "name": "feta",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-flour",
+    "name": "flour",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-flour_tortilla",
+    "name": "flour tortilla",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-garam_masala",
+    "name": "garam masala",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-garlic",
+    "name": "garlic",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-garlic_sauce",
+    "name": "garlic sauce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-glass_noodles",
+    "name": "glass noodles",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-glaze",
+    "name": "glaze",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-gochujang",
+    "name": "gochujang",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-granola",
+    "name": "granola",
+    "unit": "kg",
+    "allergen_flags": [
+      "nuts"
+    ]
+  },
+  {
+    "id": "ing-green_beans",
+    "name": "green beans",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-green_curry_paste",
+    "name": "green curry paste",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-green_onion",
+    "name": "green onion",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-green_tea",
+    "name": "green tea",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-ground_lamb",
+    "name": "ground lamb",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-gyoza_wrapper",
+    "name": "gyoza wrapper",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-honey",
+    "name": "honey",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-hot_dog_bun",
+    "name": "hot dog bun",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-hot_sauce",
+    "name": "hot sauce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-hummus",
+    "name": "hummus",
+    "unit": "kg",
+    "allergen_flags": [
+      "sesame"
+    ]
+  },
+  {
+    "id": "ing-ice_cream",
+    "name": "ice cream",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-kecap_manis",
+    "name": "kecap manis",
+    "unit": "liter",
+    "allergen_flags": [
+      "gluten",
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-kimchi",
+    "name": "kimchi",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-lamb",
+    "name": "lamb",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-lavash",
+    "name": "lavash",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-lentils",
+    "name": "lentils",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-lettuce",
+    "name": "lettuce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-lime",
+    "name": "lime",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-lumpia_wrapper",
+    "name": "lumpia wrapper",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-macaroni",
+    "name": "macaroni",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-mango",
+    "name": "mango",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-maple_syrup",
+    "name": "maple syrup",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-marinara",
+    "name": "marinara",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-mayo",
+    "name": "mayo",
+    "unit": "kg",
+    "allergen_flags": [
+      "egg"
+    ]
+  },
+  {
+    "id": "ing-meatballs",
+    "name": "meatballs",
+    "unit": "kg",
+    "allergen_flags": [
+      "egg"
+    ]
+  },
+  {
+    "id": "ing-milk",
+    "name": "milk",
+    "unit": "liter",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-miso_broth",
+    "name": "miso broth",
+    "unit": "liter",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-mixed_vegetables",
+    "name": "mixed vegetables",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-mozzarella",
+    "name": "mozzarella",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-mushroom",
+    "name": "mushroom",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-naan",
+    "name": "naan",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-noodles",
+    "name": "noodles",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-olives",
+    "name": "olives",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-onion",
+    "name": "onion",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-paneer",
+    "name": "paneer",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-pastry",
+    "name": "pastry",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-peanut_butter",
+    "name": "peanut butter",
+    "unit": "kg",
+    "allergen_flags": [
+      "nuts"
+    ]
+  },
+  {
+    "id": "ing-peanut_sauce",
+    "name": "peanut sauce",
+    "unit": "kg",
+    "allergen_flags": [
+      "nuts"
+    ]
+  },
+  {
+    "id": "ing-peanuts",
+    "name": "peanuts",
+    "unit": "kg",
+    "allergen_flags": [
+      "nuts"
+    ]
+  },
+  {
+    "id": "ing-peas",
+    "name": "peas",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-pepperoni",
+    "name": "pepperoni",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-phyllo",
+    "name": "phyllo",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-pickled_carrot",
+    "name": "pickled carrot",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-pickles",
+    "name": "pickles",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-pineapple",
+    "name": "pineapple",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-pita",
+    "name": "pita",
+    "unit": "unit",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-pizza_dough",
+    "name": "pizza dough",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-pork",
+    "name": "pork",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-potato",
+    "name": "potato",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-potato_chips",
+    "name": "potato chips",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-provolone",
+    "name": "provolone",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-ramen_noodles",
+    "name": "ramen noodles",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-red_lentils",
+    "name": "red lentils",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-red_onion",
+    "name": "red onion",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-rendang_paste",
+    "name": "rendang paste",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-rice",
+    "name": "rice",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-rice_milk",
+    "name": "rice milk",
+    "unit": "liter",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-rice_noodles",
+    "name": "rice noodles",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-rice_paper",
+    "name": "rice paper",
+    "unit": "unit",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-salami",
+    "name": "salami",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-salmon",
+    "name": "salmon",
+    "unit": "kg",
+    "allergen_flags": [
+      "fish"
+    ]
+  },
+  {
+    "id": "ing-sausage",
+    "name": "sausage",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-scallion",
+    "name": "scallion",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-seaweed",
+    "name": "seaweed",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-sesame_paste",
+    "name": "sesame paste",
+    "unit": "kg",
+    "allergen_flags": [
+      "sesame"
+    ]
+  },
+  {
+    "id": "ing-shrimp",
+    "name": "shrimp",
+    "unit": "kg",
+    "allergen_flags": [
+      "shellfish"
+    ]
+  },
+  {
+    "id": "ing-soda",
+    "name": "soda",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-soft_serve",
+    "name": "soft serve",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-sorbet",
+    "name": "sorbet",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-sourdough",
+    "name": "sourdough",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-soy_sauce",
+    "name": "soy sauce",
+    "unit": "liter",
+    "allergen_flags": [
+      "gluten",
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-spam",
+    "name": "spam",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-spicy_mayo",
+    "name": "spicy mayo",
+    "unit": "kg",
+    "allergen_flags": [
+      "egg"
+    ]
+  },
+  {
+    "id": "ing-sticky_rice",
+    "name": "sticky rice",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-strawberry",
+    "name": "strawberry",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-sub_roll",
+    "name": "sub roll",
+    "unit": "unit",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-sumac_onion",
+    "name": "sumac onion",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-szechuan_pepper",
+    "name": "szechuan pepper",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tamarind",
+    "name": "tamarind",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tapioca_flour",
+    "name": "tapioca flour",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tapioca_pearls",
+    "name": "tapioca pearls",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-taro",
+    "name": "taro",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-teriyaki_sauce",
+    "name": "teriyaki sauce",
+    "unit": "liter",
+    "allergen_flags": [
+      "gluten",
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-tofu",
+    "name": "tofu",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-tomato",
+    "name": "tomato",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tomato_sauce",
+    "name": "tomato sauce",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tortilla_chips",
+    "name": "tortilla chips",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tuna",
+    "name": "tuna",
+    "unit": "kg",
+    "allergen_flags": [
+      "fish"
+    ]
+  },
+  {
+    "id": "ing-turkey",
+    "name": "turkey",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-tzatziki",
+    "name": "tzatziki",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-veggie_patty",
+    "name": "veggie patty",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-veggie_sausage",
+    "name": "veggie sausage",
+    "unit": "kg",
+    "allergen_flags": [
+      "soy"
+    ]
+  },
+  {
+    "id": "ing-vermicelli",
+    "name": "vermicelli",
+    "unit": "kg",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-vinegar",
+    "name": "vinegar",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-walnuts",
+    "name": "walnuts",
+    "unit": "kg",
+    "allergen_flags": [
+      "nuts"
+    ]
+  },
+  {
+    "id": "ing-water",
+    "name": "water",
+    "unit": "liter",
+    "allergen_flags": []
+  },
+  {
+    "id": "ing-wheat_noodles",
+    "name": "wheat noodles",
+    "unit": "kg",
+    "allergen_flags": [
+      "gluten"
+    ]
+  },
+  {
+    "id": "ing-whipped_cream",
+    "name": "whipped cream",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-white_fish",
+    "name": "white fish",
+    "unit": "kg",
+    "allergen_flags": [
+      "fish"
+    ]
+  },
+  {
+    "id": "ing-white_sauce",
+    "name": "white sauce",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy",
+      "egg"
+    ]
+  },
+  {
+    "id": "ing-yogurt",
+    "name": "yogurt",
+    "unit": "liter",
+    "allergen_flags": [
+      "dairy"
+    ]
+  },
+  {
+    "id": "ing-yogurt_sauce",
+    "name": "yogurt sauce",
+    "unit": "kg",
+    "allergen_flags": [
+      "dairy"
+    ]
+  }
+]

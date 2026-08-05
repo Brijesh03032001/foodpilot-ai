@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "sup-0001",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-acai",
+    "price_per_unit": 4.36,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0002",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-acai",
+    "price_per_unit": 1.49,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0003",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-aji_amarillo",
+    "price_per_unit": 2.92,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0004",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-avocado",
+    "price_per_unit": 1.37,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0005",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-bacon",
+    "price_per_unit": 12.03,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0006",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-baguette",
+    "price_per_unit": 0.64,
+    "lead_time_days": 2,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0007",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-baguette",
+    "price_per_unit": 0.72,
+    "lead_time_days": 1,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0008",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-banana",
+    "price_per_unit": 2.86,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0009",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-basil",
+    "price_per_unit": 3.5,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0010",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-basil",
+    "price_per_unit": 2.79,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0011",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-basmati_rice",
+    "price_per_unit": 2.9,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0012",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-basmati_rice",
+    "price_per_unit": 0.92,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0013",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-batter",
+    "price_per_unit": 1.52,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0014",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-batter",
+    "price_per_unit": 3.23,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0015",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-bbq_sauce",
+    "price_per_unit": 1.49,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0016",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-beef",
+    "price_per_unit": 11.24,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0017",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-beef_broth",
+    "price_per_unit": 9.76,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0018",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-beef_patty",
+    "price_per_unit": 9.67,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0019",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-bell_pepper",
+    "price_per_unit": 1.01,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0020",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-bell_pepper",
+    "price_per_unit": 2.32,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0021",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-berries",
+    "price_per_unit": 1.67,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0022",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-berries",
+    "price_per_unit": 3.68,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0023",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-biryani_masala",
+    "price_per_unit": 3.5,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0024",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-biryani_masala",
+    "price_per_unit": 1.73,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0025",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-black_beans",
+    "price_per_unit": 2.28,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0026",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-black_beans",
+    "price_per_unit": 2.18,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0027",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-black_tea",
+    "price_per_unit": 4.61,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0028",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-black_tea",
+    "price_per_unit": 4.23,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0029",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-brioche_bun",
+    "price_per_unit": 0.17,
+    "lead_time_days": 1,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0030",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-brioche_bun",
+    "price_per_unit": 0.52,
+    "lead_time_days": 1,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0031",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-brisket",
+    "price_per_unit": 12.84,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0032",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-buffalo_sauce",
+    "price_per_unit": 1.65,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0033",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-buffalo_sauce",
+    "price_per_unit": 2.3,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0034",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-burger_bun",
+    "price_per_unit": 0.39,
+    "lead_time_days": 2,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0035",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-butter",
+    "price_per_unit": 7.18,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0036",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-cabbage",
+    "price_per_unit": 3.87,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0037",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-carrot",
+    "price_per_unit": 1.46,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0038",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-chai",
+    "price_per_unit": 1.92,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0039",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-cheese",
+    "price_per_unit": 8.1,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0040",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-cheesecake",
+    "price_per_unit": 6.4,
+    "lead_time_days": 5,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0041",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-cherry_tomato",
+    "price_per_unit": 2.31,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0042",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-cherry_tomato",
+    "price_per_unit": 3.27,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0043",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-chicken",
+    "price_per_unit": 7.95,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0044",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-chicken",
+    "price_per_unit": 11.63,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0045",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-chicken_breast",
+    "price_per_unit": 9.19,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0046",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-chicken_wings",
+    "price_per_unit": 12.66,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0047",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-chicken_wings",
+    "price_per_unit": 10.42,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0048",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-chickpeas",
+    "price_per_unit": 2.32,
+    "lead_time_days": 3,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0049",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-chickpeas",
+    "price_per_unit": 2.39,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0050",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-chili",
+    "price_per_unit": 3.18,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0051",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-chili_oil",
+    "price_per_unit": 4.73,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0052",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-chili_oil",
+    "price_per_unit": 4.19,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0053",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-chocolate",
+    "price_per_unit": 2.6,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0054",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-chocolate",
+    "price_per_unit": 1.86,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0055",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-chocolate_sauce",
+    "price_per_unit": 3.67,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0056",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-churro_dough",
+    "price_per_unit": 2.05,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0057",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-cilantro",
+    "price_per_unit": 1.65,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0058",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-cinnamon",
+    "price_per_unit": 2.6,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0059",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-cinnamon",
+    "price_per_unit": 3.23,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0060",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-cinnamon_sugar",
+    "price_per_unit": 3.26,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0061",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-cinnamon_sugar",
+    "price_per_unit": 2.44,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0062",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-clams",
+    "price_per_unit": 10.6,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0063",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-coconut_milk",
+    "price_per_unit": 4.33,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0064",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-cod",
+    "price_per_unit": 10.75,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0065",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-coffee",
+    "price_per_unit": 3.94,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0066",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-coleslaw",
+    "price_per_unit": 1.57,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0067",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-collard_greens",
+    "price_per_unit": 1.73,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0068",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-cone",
+    "price_per_unit": 0.53,
+    "lead_time_days": 3,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0069",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-cookie",
+    "price_per_unit": 0.64,
+    "lead_time_days": 3,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0070",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-corn",
+    "price_per_unit": 0.22,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0071",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-corn_tortilla",
+    "price_per_unit": 0.22,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0072",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-corn_tortilla",
+    "price_per_unit": 0.66,
+    "lead_time_days": 1,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0073",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-cornmeal",
+    "price_per_unit": 4.0,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0074",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-cotija_cheese",
+    "price_per_unit": 7.99,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0075",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-cream",
+    "price_per_unit": 7.24,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0076",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-cream",
+    "price_per_unit": 4.76,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0077",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-croissant",
+    "price_per_unit": 0.31,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0078",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-croissant",
+    "price_per_unit": 0.54,
+    "lead_time_days": 5,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0079",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-cucumber",
+    "price_per_unit": 2.93,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0080",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-donut",
+    "price_per_unit": 0.58,
+    "lead_time_days": 5,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0081",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-donut",
+    "price_per_unit": 0.42,
+    "lead_time_days": 3,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0082",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-donut_holes",
+    "price_per_unit": 0.72,
+    "lead_time_days": 1,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0083",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-donut_holes",
+    "price_per_unit": 0.55,
+    "lead_time_days": 2,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0084",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-doubanjiang",
+    "price_per_unit": 4.07,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0085",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-doubanjiang",
+    "price_per_unit": 3.41,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0086",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-dough",
+    "price_per_unit": 3.4,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0087",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-dough",
+    "price_per_unit": 3.15,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0088",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-dumpling_wrapper",
+    "price_per_unit": 0.71,
+    "lead_time_days": 1,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0089",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-dumpling_wrapper",
+    "price_per_unit": 0.37,
+    "lead_time_days": 2,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0090",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-edamame",
+    "price_per_unit": 3.08,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0091",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-egg",
+    "price_per_unit": 0.28,
+    "lead_time_days": 2,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0092",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-egg",
+    "price_per_unit": 0.63,
+    "lead_time_days": 1,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0093",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-egg_noodles",
+    "price_per_unit": 4.06,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0094",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-egg_noodles",
+    "price_per_unit": 2.08,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0095",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-empanada_dough",
+    "price_per_unit": 0.25,
+    "lead_time_days": 2,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0096",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-empanada_dough",
+    "price_per_unit": 0.83,
+    "lead_time_days": 5,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0097",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-espresso",
+    "price_per_unit": 2.66,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0098",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-falafel",
+    "price_per_unit": 2.72,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0099",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-feta",
+    "price_per_unit": 8.89,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0100",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-flour",
+    "price_per_unit": 2.11,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0101",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-flour_tortilla",
+    "price_per_unit": 0.51,
+    "lead_time_days": 3,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0102",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-flour_tortilla",
+    "price_per_unit": 0.61,
+    "lead_time_days": 5,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0103",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-garam_masala",
+    "price_per_unit": 2.58,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0104",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-garam_masala",
+    "price_per_unit": 2.99,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0105",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-garlic",
+    "price_per_unit": 3.13,
+    "lead_time_days": 3,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0106",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-garlic_sauce",
+    "price_per_unit": 1.42,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0107",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-garlic_sauce",
+    "price_per_unit": 2.43,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0108",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-glass_noodles",
+    "price_per_unit": 1.08,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0109",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-glass_noodles",
+    "price_per_unit": 4.12,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0110",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-glaze",
+    "price_per_unit": 1.25,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0111",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-glaze",
+    "price_per_unit": 3.17,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0112",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-gochujang",
+    "price_per_unit": 3.09,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0113",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-granola",
+    "price_per_unit": 1.59,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0114",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-granola",
+    "price_per_unit": 3.87,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0115",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-green_beans",
+    "price_per_unit": 3.08,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0116",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-green_curry_paste",
+    "price_per_unit": 4.37,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0117",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-green_onion",
+    "price_per_unit": 2.27,
+    "lead_time_days": 3,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0118",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-green_tea",
+    "price_per_unit": 2.65,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0119",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-green_tea",
+    "price_per_unit": 1.73,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0120",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-ground_lamb",
+    "price_per_unit": 6.73,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0121",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-ground_lamb",
+    "price_per_unit": 13.68,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0122",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-gyoza_wrapper",
+    "price_per_unit": 0.83,
+    "lead_time_days": 1,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0123",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-honey",
+    "price_per_unit": 1.36,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0124",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-hot_dog_bun",
+    "price_per_unit": 0.75,
+    "lead_time_days": 1,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0125",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-hot_sauce",
+    "price_per_unit": 1.77,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0126",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-hot_sauce",
+    "price_per_unit": 3.14,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0127",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-hummus",
+    "price_per_unit": 3.12,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0128",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-ice_cream",
+    "price_per_unit": 8.56,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0129",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-ice_cream",
+    "price_per_unit": 8.06,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0130",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-kecap_manis",
+    "price_per_unit": 5.21,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0131",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-kecap_manis",
+    "price_per_unit": 2.51,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0132",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-kimchi",
+    "price_per_unit": 1.27,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0133",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-kimchi",
+    "price_per_unit": 3.78,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0134",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-lamb",
+    "price_per_unit": 8.36,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0135",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-lavash",
+    "price_per_unit": 0.38,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0136",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-lavash",
+    "price_per_unit": 0.23,
+    "lead_time_days": 2,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0137",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-lentils",
+    "price_per_unit": 3.42,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0138",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-lentils",
+    "price_per_unit": 4.31,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0139",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-lettuce",
+    "price_per_unit": 2.93,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0140",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-lettuce",
+    "price_per_unit": 1.73,
+    "lead_time_days": 5,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0141",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-lime",
+    "price_per_unit": 2.85,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0142",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-lumpia_wrapper",
+    "price_per_unit": 0.67,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0143",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-macaroni",
+    "price_per_unit": 2.47,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0144",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-mango",
+    "price_per_unit": 4.25,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0145",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-maple_syrup",
+    "price_per_unit": 4.92,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0146",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-marinara",
+    "price_per_unit": 1.5,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0147",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-mayo",
+    "price_per_unit": 1.62,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0148",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-mayo",
+    "price_per_unit": 3.36,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0149",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-meatballs",
+    "price_per_unit": 9.83,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0150",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-meatballs",
+    "price_per_unit": 10.37,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0151",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-milk",
+    "price_per_unit": 4.27,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0152",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-miso_broth",
+    "price_per_unit": 5.47,
+    "lead_time_days": 5,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0153",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-mixed_vegetables",
+    "price_per_unit": 2.91,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0154",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-mixed_vegetables",
+    "price_per_unit": 3.63,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0155",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-mozzarella",
+    "price_per_unit": 5.09,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0156",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-mozzarella",
+    "price_per_unit": 4.87,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0157",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-mushroom",
+    "price_per_unit": 2.33,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0158",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-naan",
+    "price_per_unit": 0.63,
+    "lead_time_days": 5,
+    "min_order_qty": 5
+  },
+  {
+    "id": "sup-0159",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-noodles",
+    "price_per_unit": 2.67,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0160",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-olives",
+    "price_per_unit": 2.38,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0161",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-olives",
+    "price_per_unit": 2.38,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0162",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-onion",
+    "price_per_unit": 0.99,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0163",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-onion",
+    "price_per_unit": 2.77,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0164",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-paneer",
+    "price_per_unit": 7.64,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0165",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-pastry",
+    "price_per_unit": 0.44,
+    "lead_time_days": 5,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0166",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-pastry",
+    "price_per_unit": 0.16,
+    "lead_time_days": 2,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0167",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-peanut_butter",
+    "price_per_unit": 8.13,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0168",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-peanut_sauce",
+    "price_per_unit": 3.7,
+    "lead_time_days": 3,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0169",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-peanut_sauce",
+    "price_per_unit": 2.52,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0170",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-peanuts",
+    "price_per_unit": 4.02,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0171",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-peanuts",
+    "price_per_unit": 2.49,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0172",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-peas",
+    "price_per_unit": 3.97,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0173",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-peas",
+    "price_per_unit": 3.11,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0174",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-pepperoni",
+    "price_per_unit": 1.31,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0175",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-pepperoni",
+    "price_per_unit": 3.96,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0176",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-phyllo",
+    "price_per_unit": 2.23,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0177",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-phyllo",
+    "price_per_unit": 1.81,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0178",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-pickled_carrot",
+    "price_per_unit": 2.63,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0179",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-pickled_carrot",
+    "price_per_unit": 2.02,
+    "lead_time_days": 5,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0180",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-pickles",
+    "price_per_unit": 3.39,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0181",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-pickles",
+    "price_per_unit": 2.83,
+    "lead_time_days": 3,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0182",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-pineapple",
+    "price_per_unit": 4.11,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0183",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-pita",
+    "price_per_unit": 0.84,
+    "lead_time_days": 3,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0184",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-pita",
+    "price_per_unit": 0.25,
+    "lead_time_days": 5,
+    "min_order_qty": 2
+  },
+  {
+    "id": "sup-0185",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-pizza_dough",
+    "price_per_unit": 2.08,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0186",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-pizza_dough",
+    "price_per_unit": 1.05,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0187",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-pork",
+    "price_per_unit": 8.69,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0188",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-pork",
+    "price_per_unit": 9.31,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0189",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-potato",
+    "price_per_unit": 3.04,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0190",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-potato",
+    "price_per_unit": 3.48,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0191",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-potato_chips",
+    "price_per_unit": 2.89,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0192",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-provolone",
+    "price_per_unit": 3.37,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0193",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-ramen_noodles",
+    "price_per_unit": 3.62,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0194",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-red_lentils",
+    "price_per_unit": 3.84,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0195",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-red_lentils",
+    "price_per_unit": 4.31,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0196",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-red_onion",
+    "price_per_unit": 1.64,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0197",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-rendang_paste",
+    "price_per_unit": 3.78,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0198",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-rice",
+    "price_per_unit": 1.2,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0199",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-rice",
+    "price_per_unit": 1.81,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0200",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-rice_milk",
+    "price_per_unit": 4.96,
+    "lead_time_days": 5,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0201",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-rice_milk",
+    "price_per_unit": 2.38,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0202",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-rice_noodles",
+    "price_per_unit": 1.86,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0203",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-rice_paper",
+    "price_per_unit": 0.39,
+    "lead_time_days": 2,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0204",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-salami",
+    "price_per_unit": 3.31,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0205",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-salmon",
+    "price_per_unit": 8.64,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0206",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-salmon",
+    "price_per_unit": 10.11,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0207",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-sausage",
+    "price_per_unit": 3.81,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0208",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-scallion",
+    "price_per_unit": 3.28,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0209",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-seaweed",
+    "price_per_unit": 1.6,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0210",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-sesame_paste",
+    "price_per_unit": 3.59,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0211",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-shrimp",
+    "price_per_unit": 11.28,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0212",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-soda",
+    "price_per_unit": 1.61,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0213",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-soft_serve",
+    "price_per_unit": 1.15,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0214",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-sorbet",
+    "price_per_unit": 1.15,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0215",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-sourdough",
+    "price_per_unit": 0.72,
+    "lead_time_days": 1,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0216",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-sourdough",
+    "price_per_unit": 0.34,
+    "lead_time_days": 3,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0217",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-soy_sauce",
+    "price_per_unit": 2.04,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0218",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-spam",
+    "price_per_unit": 11.01,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0219",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-spicy_mayo",
+    "price_per_unit": 2.29,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0220",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-sticky_rice",
+    "price_per_unit": 2.47,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0221",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-strawberry",
+    "price_per_unit": 1.69,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0222",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-strawberry",
+    "price_per_unit": 2.14,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0223",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-sub_roll",
+    "price_per_unit": 0.15,
+    "lead_time_days": 2,
+    "min_order_qty": 1
+  },
+  {
+    "id": "sup-0224",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-sub_roll",
+    "price_per_unit": 0.53,
+    "lead_time_days": 5,
+    "min_order_qty": 10
+  },
+  {
+    "id": "sup-0225",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-sumac_onion",
+    "price_per_unit": 2.45,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0226",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-sumac_onion",
+    "price_per_unit": 1.53,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0227",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-szechuan_pepper",
+    "price_per_unit": 4.12,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0228",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-szechuan_pepper",
+    "price_per_unit": 3.65,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0229",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-tamarind",
+    "price_per_unit": 4.22,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0230",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-tamarind",
+    "price_per_unit": 2.22,
+    "lead_time_days": 5,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0231",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-tapioca_flour",
+    "price_per_unit": 2.65,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0232",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-tapioca_pearls",
+    "price_per_unit": 1.38,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0233",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-tapioca_pearls",
+    "price_per_unit": 1.41,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0234",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-taro",
+    "price_per_unit": 2.36,
+    "lead_time_days": 5,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0235",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-taro",
+    "price_per_unit": 1.89,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0236",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-teriyaki_sauce",
+    "price_per_unit": 2.2,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0237",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-teriyaki_sauce",
+    "price_per_unit": 1.63,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0238",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-tofu",
+    "price_per_unit": 2.93,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0239",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-tofu",
+    "price_per_unit": 3.4,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0240",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-tomato",
+    "price_per_unit": 2.25,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0241",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-tomato_sauce",
+    "price_per_unit": 3.18,
+    "lead_time_days": 3,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0242",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-tomato_sauce",
+    "price_per_unit": 2.94,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0243",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-tortilla_chips",
+    "price_per_unit": 3.45,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0244",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-tuna",
+    "price_per_unit": 13.49,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0245",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-tuna",
+    "price_per_unit": 11.05,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0246",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-turkey",
+    "price_per_unit": 7.15,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0247",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-turkey",
+    "price_per_unit": 9.07,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0248",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-tzatziki",
+    "price_per_unit": 2.15,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0249",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-tzatziki",
+    "price_per_unit": 2.58,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0250",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-veggie_patty",
+    "price_per_unit": 3.77,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0251",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-veggie_sausage",
+    "price_per_unit": 1.75,
+    "lead_time_days": 1,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0252",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-veggie_sausage",
+    "price_per_unit": 1.74,
+    "lead_time_days": 1,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0253",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-vermicelli",
+    "price_per_unit": 2.13,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0254",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-vinegar",
+    "price_per_unit": 4.71,
+    "lead_time_days": 2,
+    "min_order_qty": 2.5
+  },
+  {
+    "id": "sup-0255",
+    "name": "Norcal Fresh Distributors",
+    "ingredient_id": "ing-vinegar",
+    "price_per_unit": 2.13,
+    "lead_time_days": 3,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0256",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-walnuts",
+    "price_per_unit": 3.53,
+    "lead_time_days": 2,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0257",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-walnuts",
+    "price_per_unit": 2.33,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0258",
+    "name": "Sunrise Bakery Supply",
+    "ingredient_id": "ing-water",
+    "price_per_unit": 3.55,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0259",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-water",
+    "price_per_unit": 3.91,
+    "lead_time_days": 3,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0260",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-wheat_noodles",
+    "price_per_unit": 3.24,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0261",
+    "name": "SF Produce Co",
+    "ingredient_id": "ing-whipped_cream",
+    "price_per_unit": 5.12,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0262",
+    "name": "Coastal Meat & Seafood",
+    "ingredient_id": "ing-white_fish",
+    "price_per_unit": 12.68,
+    "lead_time_days": 2,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0263",
+    "name": "Bay Area Restaurant Depot",
+    "ingredient_id": "ing-white_fish",
+    "price_per_unit": 10.25,
+    "lead_time_days": 5,
+    "min_order_qty": 5.0
+  },
+  {
+    "id": "sup-0264",
+    "name": "Golden Gate Wholesale",
+    "ingredient_id": "ing-white_sauce",
+    "price_per_unit": 2.92,
+    "lead_time_days": 2,
+    "min_order_qty": 1.0
+  },
+  {
+    "id": "sup-0265",
+    "name": "Mission Provisions",
+    "ingredient_id": "ing-yogurt",
+    "price_per_unit": 3.99,
+    "lead_time_days": 1,
+    "min_order_qty": 0.5
+  },
+  {
+    "id": "sup-0266",
+    "name": "Pacific Foods Supply",
+    "ingredient_id": "ing-yogurt_sauce",
+    "price_per_unit": 2.99,
+    "lead_time_days": 1,
+    "min_order_qty": 1.0
+  }
+]
