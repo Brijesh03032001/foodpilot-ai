@@ -1,0 +1,779 @@
+[
+  {
+    "id": "cust-001",
+    "name": "Aisha Cohen",
+    "email": "aisha.cohen1@example.com",
+    "phone": "(415) 555-8309",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "el-gran-trompo-regio-san-francisco",
+      "choco-kebab-san-francisco-san-francisco-2",
+      "tito-tacos-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.78673,
+      "lng": -122.38768
+    },
+    "created_at": "2025-12-01T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-002",
+    "name": "Mei Cohen",
+    "email": "mei.cohen2@example.com",
+    "phone": "(415) 555-7937",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "favorite_truck_ids": [
+      "hibachi-truck-daly-city",
+      "treats-by-the-bay-san-francisco-2",
+      "koja-kitchen-truck-emeryville"
+    ],
+    "default_location": {
+      "lat": 37.74977,
+      "lng": -122.40965
+    },
+    "created_at": "2024-09-25T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-003",
+    "name": "Ben Torres",
+    "email": "ben.torres3@example.com",
+    "phone": "(415) 555-9408",
+    "dietary_preferences": [],
+    "allergies": [
+      "shellfish"
+    ],
+    "favorite_truck_ids": [
+      "me-so-hungry-too-food-truck-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.7684,
+      "lng": -122.39521
+    },
+    "created_at": "2026-02-26T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-004",
+    "name": "Raj Wong",
+    "email": "raj.wong4@example.com",
+    "phone": "(415) 555-7694",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "asados-el-primo-san-francisco",
+      "sipnslurp-food-truck-san-francisco-2"
+    ],
+    "default_location": {
+      "lat": 37.74242,
+      "lng": -122.4308
+    },
+    "created_at": "2026-03-09T00:00:00",
+    "order_count": 10
+  },
+  {
+    "id": "cust-005",
+    "name": "Omar Park",
+    "email": "omar.park5@example.com",
+    "phone": "(415) 555-5968",
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.78747,
+      "lng": -122.43147
+    },
+    "created_at": "2025-06-20T00:00:00",
+    "order_count": 3
+  },
+  {
+    "id": "cust-006",
+    "name": "Mei Singh",
+    "email": "mei.singh6@example.com",
+    "phone": "(415) 555-5999",
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "soul-trucks-lv-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.78438,
+      "lng": -122.43987
+    },
+    "created_at": "2026-05-20T00:00:00",
+    "order_count": 3
+  },
+  {
+    "id": "cust-007",
+    "name": "Raj Wong",
+    "email": "raj.wong7@example.com",
+    "phone": "(415) 555-1732",
+    "dietary_preferences": [
+      "gluten_free"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [
+      "annies-hot-dogs-and-pretzels-san-francisco-6",
+      "shamal-burgers-and-more-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.79402,
+      "lng": -122.39312
+    },
+    "created_at": "2026-04-30T00:00:00",
+    "order_count": 9
+  },
+  {
+    "id": "cust-008",
+    "name": "Ben Ali",
+    "email": "ben.ali8@example.com",
+    "phone": "(415) 555-3269",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [
+      "gluten"
+    ],
+    "favorite_truck_ids": [
+      "tahona-mercado-san-francisco-2",
+      "shamal-burgers-and-more-san-francisco",
+      "love-magical-donuts-san-francisco-2"
+    ],
+    "default_location": {
+      "lat": 37.79198,
+      "lng": -122.42049
+    },
+    "created_at": "2026-02-23T00:00:00",
+    "order_count": 8
+  },
+  {
+    "id": "cust-009",
+    "name": "Luca Ali",
+    "email": "luca.ali9@example.com",
+    "phone": "(415) 555-7344",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [
+      "off-the-grid-salesforce-tower-san-francisco",
+      "aunty-vickys-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.79748,
+      "lng": -122.3866
+    },
+    "created_at": "2025-05-15T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-010",
+    "name": "Lena Kim",
+    "email": "lena.kim10@example.com",
+    "phone": "(415) 555-1406",
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "allergies": [
+      "dairy"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.77863,
+      "lng": -122.43489
+    },
+    "created_at": "2026-01-20T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-011",
+    "name": "Luca Yamamoto",
+    "email": "luca.yamamoto11@example.com",
+    "phone": "(415) 555-1866",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [
+      "gluten"
+    ],
+    "favorite_truck_ids": [
+      "aria-korean-street-food-san-francisco",
+      "koja-kitchen-sf-spark-san-francisco",
+      "cookies-n-cream-sj-san-jose"
+    ],
+    "default_location": {
+      "lat": 37.7795,
+      "lng": -122.40809
+    },
+    "created_at": "2024-11-25T00:00:00",
+    "order_count": 10
+  },
+  {
+    "id": "cust-012",
+    "name": "Maria Silva",
+    "email": "maria.silva12@example.com",
+    "phone": "(415) 555-5018",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "southern-comfort-kitchen-food-truck-san-francisco",
+      "el-gran-trompo-regio-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.7427,
+      "lng": -122.38828
+    },
+    "created_at": "2025-12-10T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-013",
+    "name": "Maria Martinez",
+    "email": "maria.martinez13@example.com",
+    "phone": "(415) 555-3957",
+    "dietary_preferences": [
+      "gluten_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "tokachi-musubi-san-francisco",
+      "atlas-bites-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.74546,
+      "lng": -122.38121
+    },
+    "created_at": "2025-04-17T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-014",
+    "name": "Raj Chen",
+    "email": "raj.chen14@example.com",
+    "phone": "(415) 555-3359",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.74925,
+      "lng": -122.38287
+    },
+    "created_at": "2025-09-19T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-015",
+    "name": "Diego Nguyen",
+    "email": "diego.nguyen15@example.com",
+    "phone": "(415) 555-6329",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.75788,
+      "lng": -122.43408
+    },
+    "created_at": "2024-10-17T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-016",
+    "name": "Aisha Singh",
+    "email": "aisha.singh16@example.com",
+    "phone": "(415) 555-5225",
+    "dietary_preferences": [
+      "gluten_free"
+    ],
+    "allergies": [
+      "gluten"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.74311,
+      "lng": -122.42562
+    },
+    "created_at": "2025-08-11T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-017",
+    "name": "Luca Khan",
+    "email": "luca.khan17@example.com",
+    "phone": "(415) 555-9076",
+    "dietary_preferences": [
+      "gluten_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "off-the-grid-fort-mason-center-san-francisco-3",
+      "cochinita-san-francisco-24"
+    ],
+    "default_location": {
+      "lat": 37.76789,
+      "lng": -122.41558
+    },
+    "created_at": "2025-11-08T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-018",
+    "name": "Ben Garcia",
+    "email": "ben.garcia18@example.com",
+    "phone": "(415) 555-4829",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.75478,
+      "lng": -122.40672
+    },
+    "created_at": "2025-05-17T00:00:00",
+    "order_count": 8
+  },
+  {
+    "id": "cust-019",
+    "name": "Aisha Park",
+    "email": "aisha.park19@example.com",
+    "phone": "(415) 555-7664",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "presidio-pop-up-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.79807,
+      "lng": -122.4176
+    },
+    "created_at": "2024-12-04T00:00:00",
+    "order_count": 9
+  },
+  {
+    "id": "cust-020",
+    "name": "Diego Ahmed",
+    "email": "diego.ahmed20@example.com",
+    "phone": "(415) 555-7942",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.78876,
+      "lng": -122.38233
+    },
+    "created_at": "2025-01-04T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-021",
+    "name": "Luca Park",
+    "email": "luca.park21@example.com",
+    "phone": "(415) 555-3742",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "meat-me-san-francisco-2",
+      "peasant-pies-caf\u00e9-and-catering-san-francisco-2",
+      "atlas-bites-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.79037,
+      "lng": -122.41719
+    },
+    "created_at": "2024-09-08T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-022",
+    "name": "Omar Rossi",
+    "email": "omar.rossi22@example.com",
+    "phone": "(415) 555-9361",
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "lady-m-cake-boutique-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.77205,
+      "lng": -122.4358
+    },
+    "created_at": "2024-11-16T00:00:00",
+    "order_count": 4
+  },
+  {
+    "id": "cust-023",
+    "name": "Wei Reyes",
+    "email": "wei.reyes23@example.com",
+    "phone": "(415) 555-3288",
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [
+      "qu\u00e9-chulada-mexican-restaurant-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.77029,
+      "lng": -122.39188
+    },
+    "created_at": "2026-03-05T00:00:00",
+    "order_count": 10
+  },
+  {
+    "id": "cust-024",
+    "name": "Grace Silva",
+    "email": "grace.silva24@example.com",
+    "phone": "(415) 555-5473",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [
+      "shellfish"
+    ],
+    "favorite_truck_ids": [
+      "taqueria-cazadores-san-francisco-2",
+      "tanguito-argentinean-grill-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.76759,
+      "lng": -122.40403
+    },
+    "created_at": "2025-04-01T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-025",
+    "name": "Maria Lopez",
+    "email": "maria.lopez25@example.com",
+    "phone": "(415) 555-1033",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.78036,
+      "lng": -122.41521
+    },
+    "created_at": "2024-09-15T00:00:00",
+    "order_count": 9
+  },
+  {
+    "id": "cust-026",
+    "name": "Ben Reyes",
+    "email": "ben.reyes26@example.com",
+    "phone": "(415) 555-2329",
+    "dietary_preferences": [],
+    "allergies": [
+      "dairy"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.79355,
+      "lng": -122.39104
+    },
+    "created_at": "2025-01-03T00:00:00",
+    "order_count": 8
+  },
+  {
+    "id": "cust-027",
+    "name": "Nadia Patel",
+    "email": "nadia.patel27@example.com",
+    "phone": "(415) 555-7166",
+    "dietary_preferences": [
+      "halal"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [
+      "underdogs-tres-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.78871,
+      "lng": -122.38097
+    },
+    "created_at": "2025-07-12T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-028",
+    "name": "Kenji Torres",
+    "email": "kenji.torres28@example.com",
+    "phone": "(415) 555-4161",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "momo-noodle-san-francisco-9"
+    ],
+    "default_location": {
+      "lat": 37.74119,
+      "lng": -122.42313
+    },
+    "created_at": "2025-06-24T00:00:00",
+    "order_count": 9
+  },
+  {
+    "id": "cust-029",
+    "name": "Omar Rossi",
+    "email": "omar.rossi29@example.com",
+    "phone": "(415) 555-5967",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "pita-gyros-san-francisco-2",
+      "rasa-rasa-san-francisco-3",
+      "corazon-mexicano-san-francisco-3"
+    ],
+    "default_location": {
+      "lat": 37.76957,
+      "lng": -122.39776
+    },
+    "created_at": "2026-04-07T00:00:00",
+    "order_count": 2
+  },
+  {
+    "id": "cust-030",
+    "name": "Luca Rossi",
+    "email": "luca.rossi30@example.com",
+    "phone": "(415) 555-4212",
+    "dietary_preferences": [
+      "gluten_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "annies-hot-dogs-and-pretzels-san-francisco-6",
+      "aria-korean-street-food-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.76964,
+      "lng": -122.40689
+    },
+    "created_at": "2026-07-01T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-031",
+    "name": "Mei Ali",
+    "email": "mei.ali31@example.com",
+    "phone": "(415) 555-3875",
+    "dietary_preferences": [],
+    "allergies": [
+      "dairy"
+    ],
+    "favorite_truck_ids": [
+      "momo-noodle-san-francisco-9"
+    ],
+    "default_location": {
+      "lat": 37.7439,
+      "lng": -122.42442
+    },
+    "created_at": "2024-12-07T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-032",
+    "name": "Mei Ahmed",
+    "email": "mei.ahmed32@example.com",
+    "phone": "(415) 555-5494",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [
+      "gluten"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.79952,
+      "lng": -122.39842
+    },
+    "created_at": "2025-01-19T00:00:00",
+    "order_count": 1
+  },
+  {
+    "id": "cust-033",
+    "name": "Raj Ali",
+    "email": "raj.ali33@example.com",
+    "phone": "(415) 555-8437",
+    "dietary_preferences": [],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.79123,
+      "lng": -122.42062
+    },
+    "created_at": "2025-10-23T00:00:00",
+    "order_count": 8
+  },
+  {
+    "id": "cust-034",
+    "name": "Carlos Silva",
+    "email": "carlos.silva34@example.com",
+    "phone": "(415) 555-9491",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [
+      "nuts"
+    ],
+    "favorite_truck_ids": [
+      "tito-tacos-san-francisco",
+      "tacolicious-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.74261,
+      "lng": -122.39673
+    },
+    "created_at": "2026-03-06T00:00:00",
+    "order_count": 9
+  },
+  {
+    "id": "cust-035",
+    "name": "Jose Silva",
+    "email": "jose.silva35@example.com",
+    "phone": "(415) 555-9723",
+    "dietary_preferences": [
+      "vegetarian",
+      "dairy_free"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.76351,
+      "lng": -122.41992
+    },
+    "created_at": "2025-05-04T00:00:00",
+    "order_count": 6
+  },
+  {
+    "id": "cust-036",
+    "name": "Mei Garcia",
+    "email": "mei.garcia36@example.com",
+    "phone": "(415) 555-7943",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "mexi-cali-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.75975,
+      "lng": -122.43623
+    },
+    "created_at": "2025-11-19T00:00:00",
+    "order_count": 7
+  },
+  {
+    "id": "cust-037",
+    "name": "Kenji Garcia",
+    "email": "kenji.garcia37@example.com",
+    "phone": "(415) 555-8077",
+    "dietary_preferences": [],
+    "allergies": [
+      "dairy"
+    ],
+    "favorite_truck_ids": [
+      "atlas-bites-san-francisco",
+      "box-kitchen-san-francisco"
+    ],
+    "default_location": {
+      "lat": 37.74647,
+      "lng": -122.4257
+    },
+    "created_at": "2025-03-04T00:00:00",
+    "order_count": 2
+  },
+  {
+    "id": "cust-038",
+    "name": "Grace Nguyen",
+    "email": "grace.nguyen38@example.com",
+    "phone": "(415) 555-9514",
+    "dietary_preferences": [
+      "vegetarian"
+    ],
+    "allergies": [],
+    "favorite_truck_ids": [
+      "tacolicious-san-francisco",
+      "se\u00f1or-sisig-food-trucks-san-francisco-3",
+      "brisbane-lunch-truck-brisbane"
+    ],
+    "default_location": {
+      "lat": 37.76679,
+      "lng": -122.43251
+    },
+    "created_at": "2025-08-01T00:00:00",
+    "order_count": 5
+  },
+  {
+    "id": "cust-039",
+    "name": "Jose Nguyen",
+    "email": "jose.nguyen39@example.com",
+    "phone": "(415) 555-6132",
+    "dietary_preferences": [],
+    "allergies": [
+      "gluten"
+    ],
+    "favorite_truck_ids": [
+      "off-the-grid-fort-mason-center-san-francisco-3"
+    ],
+    "default_location": {
+      "lat": 37.79515,
+      "lng": -122.41348
+    },
+    "created_at": "2025-06-17T00:00:00",
+    "order_count": 10
+  },
+  {
+    "id": "cust-040",
+    "name": "Tomas Ali",
+    "email": "tomas.ali40@example.com",
+    "phone": "(415) 555-8075",
+    "dietary_preferences": [],
+    "allergies": [],
+    "favorite_truck_ids": [],
+    "default_location": {
+      "lat": 37.77356,
+      "lng": -122.4223
+    },
+    "created_at": "2024-10-05T00:00:00",
+    "order_count": 6
+  }
+]

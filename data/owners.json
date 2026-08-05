@@ -1,0 +1,669 @@
+[
+  {
+    "id": "owner-001",
+    "name": "Kenji Garcia",
+    "email": "kenji.garcia1@foodpilot.example",
+    "phone": "(415) 555-5506",
+    "truck_ids": [
+      "spark-social-sf-san-francisco",
+      "poke-delish-san-francisco-5"
+    ]
+  },
+  {
+    "id": "owner-002",
+    "name": "Jose Garcia",
+    "email": "jose.garcia2@foodpilot.example",
+    "phone": "(415) 555-2535",
+    "truck_ids": [
+      "koja-kitchen-sf-spark-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-003",
+    "name": "Raj Rossi",
+    "email": "raj.rossi3@foodpilot.example",
+    "phone": "(415) 555-9928",
+    "truck_ids": [
+      "golden-prime-et-d\u00f6ner-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-004",
+    "name": "Maria Chen",
+    "email": "maria.chen4@foodpilot.example",
+    "phone": "(415) 555-7924",
+    "truck_ids": [
+      "rasa-rasa-san-francisco-3"
+    ]
+  },
+  {
+    "id": "owner-005",
+    "name": "Grace Patel",
+    "email": "grace.patel5@foodpilot.example",
+    "phone": "(415) 555-2519",
+    "truck_ids": [
+      "aunty-vickys-san-francisco",
+      "roli-roti-gourmet-rotisserie-san-francisco",
+      "off-the-grid-fort-mason-center-san-francisco-3"
+    ]
+  },
+  {
+    "id": "owner-006",
+    "name": "Tomas Ali",
+    "email": "tomas.ali6@foodpilot.example",
+    "phone": "(415) 555-6925",
+    "truck_ids": [
+      "leos-tacos-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-007",
+    "name": "Sam Park",
+    "email": "sam.park7@foodpilot.example",
+    "phone": "(415) 555-2307",
+    "truck_ids": [
+      "dominic-s-food-truck-south-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-008",
+    "name": "Omar Chen",
+    "email": "omar.chen8@foodpilot.example",
+    "phone": "(415) 555-7065",
+    "truck_ids": [
+      "el-fuego-san-francisco-61",
+      "smashin-good-burgers-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-009",
+    "name": "Raj Ahmed",
+    "email": "raj.ahmed9@foodpilot.example",
+    "phone": "(415) 555-3677",
+    "truck_ids": [
+      "se\u00f1or-sisig-food-trucks-san-francisco-3",
+      "the-chairman-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-010",
+    "name": "Jose Ahmed",
+    "email": "jose.ahmed10@foodpilot.example",
+    "phone": "(415) 555-1525",
+    "truck_ids": [
+      "spro-san-francisco-9"
+    ]
+  },
+  {
+    "id": "owner-011",
+    "name": "Mei Martinez",
+    "email": "mei.martinez11@foodpilot.example",
+    "phone": "(415) 555-4483",
+    "truck_ids": [
+      "cookies-n-cream-sj-san-jose",
+      "waffle-mania-truck-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-012",
+    "name": "Sam Yamamoto",
+    "email": "sam.yamamoto12@foodpilot.example",
+    "phone": "(415) 555-9830",
+    "truck_ids": [
+      "shake-shack-cow-hollow-san-francisco",
+      "california-kahve-san-francisco-2",
+      "love-magical-donuts-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-013",
+    "name": "Jose Patel",
+    "email": "jose.patel13@foodpilot.example",
+    "phone": "(415) 555-3504",
+    "truck_ids": [
+      "el-gallo-giro-taco-truck-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-014",
+    "name": "Yuki Reyes",
+    "email": "yuki.reyes14@foodpilot.example",
+    "phone": "(415) 555-8668",
+    "truck_ids": [
+      "mexi-cali-san-francisco",
+      "momo-noodle-mission-bay-san-francisco",
+      "brothers-sf-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-015",
+    "name": "Diego Torres",
+    "email": "diego.torres15@foodpilot.example",
+    "phone": "(415) 555-1053",
+    "truck_ids": [
+      "tijuanita-san-francisco",
+      "the-geez-freeze-san-francisco",
+      "tanguito-argentinean-grill-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-016",
+    "name": "Diego Yamamoto",
+    "email": "diego.yamamoto16@foodpilot.example",
+    "phone": "(415) 555-9689",
+    "truck_ids": [
+      "halal-cart-sf-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-017",
+    "name": "Kenji Wong",
+    "email": "kenji.wong17@foodpilot.example",
+    "phone": "(415) 555-6038",
+    "truck_ids": [
+      "the-hungry-leprechaun-san-francisco",
+      "el-farolito-san-francisco-2",
+      "wh42-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-018",
+    "name": "Raj Chen",
+    "email": "raj.chen18@foodpilot.example",
+    "phone": "(415) 555-5342",
+    "truck_ids": [
+      "box-kitchen-san-francisco",
+      "atlas-bites-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-019",
+    "name": "Omar Torres",
+    "email": "omar.torres19@foodpilot.example",
+    "phone": "(415) 555-9479",
+    "truck_ids": [
+      "chefs-truck-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-020",
+    "name": "Grace Garcia",
+    "email": "grace.garcia20@foodpilot.example",
+    "phone": "(415) 555-4770",
+    "truck_ids": [
+      "meat-me-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-021",
+    "name": "Jose Ahmed",
+    "email": "jose.ahmed21@foodpilot.example",
+    "phone": "(415) 555-2104",
+    "truck_ids": [
+      "corazon-mexicano-san-francisco-3"
+    ]
+  },
+  {
+    "id": "owner-022",
+    "name": "Lena Cohen",
+    "email": "lena.cohen22@foodpilot.example",
+    "phone": "(415) 555-4510",
+    "truck_ids": [
+      "taco-nmadre-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-023",
+    "name": "Sam Cohen",
+    "email": "sam.cohen23@foodpilot.example",
+    "phone": "(415) 555-7669",
+    "truck_ids": [
+      "sipnslurp-food-truck-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-024",
+    "name": "Omar Singh",
+    "email": "omar.singh24@foodpilot.example",
+    "phone": "(415) 555-7735",
+    "truck_ids": [
+      "made-in-italy-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-025",
+    "name": "Grace Patel",
+    "email": "grace.patel25@foodpilot.example",
+    "phone": "(415) 555-5073",
+    "truck_ids": [
+      "spark-gardens-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-026",
+    "name": "Carlos Chen",
+    "email": "carlos.chen26@foodpilot.example",
+    "phone": "(415) 555-5563",
+    "truck_ids": [
+      "cochinita-san-francisco-24"
+    ]
+  },
+  {
+    "id": "owner-027",
+    "name": "Raj Patel",
+    "email": "raj.patel27@foodpilot.example",
+    "phone": "(415) 555-1828",
+    "truck_ids": [
+      "al-pastor-papi-san-francisco-2",
+      "cousins-maine-lobster-san-francisco-bay-area-san-francisco-3"
+    ]
+  },
+  {
+    "id": "owner-028",
+    "name": "Priya Reyes",
+    "email": "priya.reyes28@foodpilot.example",
+    "phone": "(415) 555-1960",
+    "truck_ids": [
+      "taqueria-cazadores-san-francisco-2",
+      "lahore-di-khushboo-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-029",
+    "name": "Raj Cohen",
+    "email": "raj.cohen29@foodpilot.example",
+    "phone": "(415) 555-3536",
+    "truck_ids": [
+      "minnie-bells-san-francisco-2",
+      "pita-gyros-san-francisco-2",
+      "pocky-truck-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-030",
+    "name": "Sofia Chen",
+    "email": "sofia.chen30@foodpilot.example",
+    "phone": "(415) 555-1931",
+    "truck_ids": [
+      "tokachi-musubi-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-031",
+    "name": "Wei Ahmed",
+    "email": "wei.ahmed31@foodpilot.example",
+    "phone": "(415) 555-7615",
+    "truck_ids": [
+      "lim\u00f3n-rotisserie-food-truck-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-032",
+    "name": "Jose Ali",
+    "email": "jose.ali32@foodpilot.example",
+    "phone": "(415) 555-2343",
+    "truck_ids": [
+      "benedict-arnolds-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-033",
+    "name": "Lena Rossi",
+    "email": "lena.rossi33@foodpilot.example",
+    "phone": "(415) 555-6147",
+    "truck_ids": [
+      "southern-comfort-kitchen-food-truck-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-034",
+    "name": "Tomas Torres",
+    "email": "tomas.torres34@foodpilot.example",
+    "phone": "(415) 555-6180",
+    "truck_ids": [
+      "banana-bread-and-bjs-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-035",
+    "name": "Mei Patel",
+    "email": "mei.patel35@foodpilot.example",
+    "phone": "(415) 555-2200",
+    "truck_ids": [
+      "treats-by-the-bay-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-036",
+    "name": "Omar Kim",
+    "email": "omar.kim36@foodpilot.example",
+    "phone": "(415) 555-5002",
+    "truck_ids": [
+      "bao-n-boba-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-037",
+    "name": "Raj Park",
+    "email": "raj.park37@foodpilot.example",
+    "phone": "(415) 555-9666",
+    "truck_ids": [
+      "korean-papis-kitchen-san-francisco",
+      "gyros-on-wheels-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-038",
+    "name": "Kenji Yamamoto",
+    "email": "kenji.yamamoto38@foodpilot.example",
+    "phone": "(415) 555-3546",
+    "truck_ids": [
+      "shamal-burgers-and-more-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-039",
+    "name": "Grace Rossi",
+    "email": "grace.rossi39@foodpilot.example",
+    "phone": "(415) 555-5325",
+    "truck_ids": [
+      "me-so-hungry-too-food-truck-san-francisco",
+      "al-pastor-papi-mexican-grill-san-francisco",
+      "olhso-truck-san-francisco",
+      "mozzeria-alameda",
+      "el-alambre-2-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-040",
+    "name": "Wei Lopez",
+    "email": "wei.lopez40@foodpilot.example",
+    "phone": "(415) 555-9938",
+    "truck_ids": [
+      "dos-raicez-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-041",
+    "name": "Carlos Lopez",
+    "email": "carlos.lopez41@foodpilot.example",
+    "phone": "(415) 555-1685",
+    "truck_ids": [
+      "aria-korean-street-food-san-francisco",
+      "curry-up-now-food-truck-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-042",
+    "name": "Raj Singh",
+    "email": "raj.singh42@foodpilot.example",
+    "phone": "(415) 555-3532",
+    "truck_ids": [
+      "tito-tacos-san-francisco",
+      "upper-cut-san-francisco-6",
+      "off-the-grid-levis-plaza-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-043",
+    "name": "Kenji Reyes",
+    "email": "kenji.reyes43@foodpilot.example",
+    "phone": "(415) 555-1634",
+    "truck_ids": [
+      "off-the-grid-salesforce-tower-san-francisco",
+      "twirl-and-dip-san-francisco",
+      "choco-kebab-san-francisco-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-044",
+    "name": "Yuki Martinez",
+    "email": "yuki.martinez44@foodpilot.example",
+    "phone": "(415) 555-5564",
+    "truck_ids": [
+      "annies-hot-dogs-and-pretzels-san-francisco-6"
+    ]
+  },
+  {
+    "id": "owner-045",
+    "name": "Yuki Yamamoto",
+    "email": "yuki.yamamoto45@foodpilot.example",
+    "phone": "(415) 555-6425",
+    "truck_ids": [
+      "asados-el-primo-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-046",
+    "name": "Lena Nguyen",
+    "email": "lena.nguyen46@foodpilot.example",
+    "phone": "(415) 555-2776",
+    "truck_ids": [
+      "halal-cart-san-francisco-7",
+      "el-gran-trompo-regio-san-francisco",
+      "peasant-pies-caf\u00e9-and-catering-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-047",
+    "name": "Jose Singh",
+    "email": "jose.singh47@foodpilot.example",
+    "phone": "(415) 555-1027",
+    "truck_ids": [
+      "se\u00f1or-sisig-san-francisco-13"
+    ]
+  },
+  {
+    "id": "owner-048",
+    "name": "Wei Martinez",
+    "email": "wei.martinez48@foodpilot.example",
+    "phone": "(415) 555-6143",
+    "truck_ids": [
+      "qu\u00e9-chulada-mexican-restaurant-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-049",
+    "name": "Carlos Martinez",
+    "email": "carlos.martinez49@foodpilot.example",
+    "phone": "(415) 555-7592",
+    "truck_ids": [
+      "j-and-ds-bbq-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-050",
+    "name": "Carlos Reyes",
+    "email": "carlos.reyes50@foodpilot.example",
+    "phone": "(415) 555-3851",
+    "truck_ids": [
+      "brisbane-lunch-truck-brisbane"
+    ]
+  },
+  {
+    "id": "owner-051",
+    "name": "Maria Park",
+    "email": "maria.park51@foodpilot.example",
+    "phone": "(415) 555-5700",
+    "truck_ids": [
+      "wicked-star-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-052",
+    "name": "Grace Torres",
+    "email": "grace.torres52@foodpilot.example",
+    "phone": "(415) 555-8238",
+    "truck_ids": [
+      "al-carajo-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-053",
+    "name": "Diego Kim",
+    "email": "diego.kim53@foodpilot.example",
+    "phone": "(415) 555-5649",
+    "truck_ids": [
+      "off-the-grid-sfo-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-054",
+    "name": "Sam Park",
+    "email": "sam.park54@foodpilot.example",
+    "phone": "(415) 555-4680",
+    "truck_ids": [
+      "annakoot-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-055",
+    "name": "Ben Ali",
+    "email": "ben.ali55@foodpilot.example",
+    "phone": "(415) 555-2193",
+    "truck_ids": [
+      "tahona-mercado-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-056",
+    "name": "Yuki Cohen",
+    "email": "yuki.cohen56@foodpilot.example",
+    "phone": "(415) 555-7547",
+    "truck_ids": [
+      "el-gran-taco-loco-san-francisco-3",
+      "kravins-food-truck-tempe"
+    ]
+  },
+  {
+    "id": "owner-057",
+    "name": "Sofia Torres",
+    "email": "sofia.torres57@foodpilot.example",
+    "phone": "(415) 555-1822",
+    "truck_ids": [
+      "vostok-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-058",
+    "name": "Nadia Diaz",
+    "email": "nadia.diaz58@foodpilot.example",
+    "phone": "(415) 555-6198",
+    "truck_ids": [
+      "dinosaurs-san-francisco-5"
+    ]
+  },
+  {
+    "id": "owner-059",
+    "name": "Raj Torres",
+    "email": "raj.torres59@foodpilot.example",
+    "phone": "(415) 555-3607",
+    "truck_ids": [
+      "russ-fam-kitchen-daly-city-2"
+    ]
+  },
+  {
+    "id": "owner-060",
+    "name": "Sam Silva",
+    "email": "sam.silva60@foodpilot.example",
+    "phone": "(415) 555-9540",
+    "truck_ids": [
+      "brazuca-grill-san-francisco-2"
+    ]
+  },
+  {
+    "id": "owner-061",
+    "name": "Tomas Ahmed",
+    "email": "tomas.ahmed61@foodpilot.example",
+    "phone": "(415) 555-5451",
+    "truck_ids": [
+      "nimet-doner-san-bruno-2"
+    ]
+  },
+  {
+    "id": "owner-062",
+    "name": "Aisha Ahmed",
+    "email": "aisha.ahmed62@foodpilot.example",
+    "phone": "(415) 555-7275",
+    "truck_ids": [
+      "hibachi-truck-daly-city"
+    ]
+  },
+  {
+    "id": "owner-063",
+    "name": "Carlos Martinez",
+    "email": "carlos.martinez63@foodpilot.example",
+    "phone": "(415) 555-9890",
+    "truck_ids": [
+      "lady-m-cake-boutique-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-064",
+    "name": "Carlos Reyes",
+    "email": "carlos.reyes64@foodpilot.example",
+    "phone": "(415) 555-1320",
+    "truck_ids": [
+      "momo-noodle-san-francisco-9"
+    ]
+  },
+  {
+    "id": "owner-065",
+    "name": "Omar Park",
+    "email": "omar.park65@foodpilot.example",
+    "phone": "(415) 555-7389",
+    "truck_ids": [
+      "el-perla-negra-san-francisco-2",
+      "tacolicious-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-066",
+    "name": "Ben Garcia",
+    "email": "ben.garcia66@foodpilot.example",
+    "phone": "(415) 555-7371",
+    "truck_ids": [
+      "underdogs-tres-san-francisco",
+      "the-bartender-truck-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-067",
+    "name": "Yuki Khan",
+    "email": "yuki.khan67@foodpilot.example",
+    "phone": "(415) 555-1444",
+    "truck_ids": [
+      "presidio-pop-up-san-francisco",
+      "street-taco-san-francisco"
+    ]
+  },
+  {
+    "id": "owner-068",
+    "name": "Priya Torres",
+    "email": "priya.torres68@foodpilot.example",
+    "phone": "(415) 555-6355",
+    "truck_ids": [
+      "lulus-house-of-treats-san-francisco-3",
+      "da-poke-man-san-francisco-4"
+    ]
+  },
+  {
+    "id": "owner-069",
+    "name": "Raj Nguyen",
+    "email": "raj.nguyen69@foodpilot.example",
+    "phone": "(415) 555-6733",
+    "truck_ids": [
+      "soul-trucks-lv-san-francisco",
+      "koja-kitchen-truck-emeryville"
+    ]
+  },
+  {
+    "id": "owner-070",
+    "name": "Sam Lopez",
+    "email": "sam.lopez70@foodpilot.example",
+    "phone": "(415) 555-8758",
+    "truck_ids": [
+      "atomix-breakfast-bar-san-francisco"
+    ]
+  }
+]
