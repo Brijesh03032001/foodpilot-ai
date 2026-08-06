@@ -1,0 +1,1167 @@
+[
+  {
+    "order_item_id": "oi-00001",
+    "modifier_id": "mg-mi-0285-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00002",
+    "modifier_id": "mg-mi-0488-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00006",
+    "modifier_id": "mg-mi-0391-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00007",
+    "modifier_id": "mg-mi-0391-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00008",
+    "modifier_id": "mg-mi-0391-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00014",
+    "modifier_id": "mg-mi-0360-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00015",
+    "modifier_id": "mg-mi-0360-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00017",
+    "modifier_id": "mg-mi-0033-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00018",
+    "modifier_id": "mg-mi-0132-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00020",
+    "modifier_id": "mg-mi-0175-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00022",
+    "modifier_id": "mg-mi-0477-0",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00024",
+    "modifier_id": "mg-mi-0479-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00032",
+    "modifier_id": "mg-mi-0390-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00034",
+    "modifier_id": "mg-mi-0482-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00035",
+    "modifier_id": "mg-mi-0151-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00036",
+    "modifier_id": "mg-mi-0151-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00039",
+    "modifier_id": "mg-mi-0625-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00040",
+    "modifier_id": "mg-mi-0608-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00041",
+    "modifier_id": "mg-mi-0608-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00046",
+    "modifier_id": "mg-mi-0287-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00047",
+    "modifier_id": "mg-mi-0023-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00048",
+    "modifier_id": "mg-mi-0023-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00049",
+    "modifier_id": "mg-mi-0117-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00050",
+    "modifier_id": "mg-mi-0115-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00054",
+    "modifier_id": "mg-mi-0418-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00058",
+    "modifier_id": "mg-mi-0052-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00060",
+    "modifier_id": "mg-mi-0260-0",
+    "price_delta": 2.5
+  },
+  {
+    "order_item_id": "oi-00061",
+    "modifier_id": "mg-mi-0367-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00063",
+    "modifier_id": "mg-mi-0365-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00064",
+    "modifier_id": "mg-mi-0503-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00071",
+    "modifier_id": "mg-mi-0170-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00072",
+    "modifier_id": "mg-mi-0170-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00074",
+    "modifier_id": "mg-mi-0028-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00075",
+    "modifier_id": "mg-mi-0250-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00078",
+    "modifier_id": "mg-mi-0223-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00079",
+    "modifier_id": "mg-mi-0238-5",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00080",
+    "modifier_id": "mg-mi-0239-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00082",
+    "modifier_id": "mg-mi-0393-0",
+    "price_delta": 2.5
+  },
+  {
+    "order_item_id": "oi-00083",
+    "modifier_id": "mg-mi-0394-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00084",
+    "modifier_id": "mg-mi-0549-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00086",
+    "modifier_id": "mg-mi-0422-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00089",
+    "modifier_id": "mg-mi-0232-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00090",
+    "modifier_id": "mg-mi-0233-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00094",
+    "modifier_id": "mg-mi-0298-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00096",
+    "modifier_id": "mg-mi-0392-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00098",
+    "modifier_id": "mg-mi-0515-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00102",
+    "modifier_id": "mg-mi-0385-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00103",
+    "modifier_id": "mg-mi-0523-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00106",
+    "modifier_id": "mg-mi-0280-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00107",
+    "modifier_id": "mg-mi-0331-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00108",
+    "modifier_id": "mg-mi-0360-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00110",
+    "modifier_id": "mg-mi-0160-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00114",
+    "modifier_id": "mg-mi-0401-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00117",
+    "modifier_id": "mg-mi-0359-0",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00118",
+    "modifier_id": "mg-mi-0125-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00119",
+    "modifier_id": "mg-mi-0125-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00121",
+    "modifier_id": "mg-mi-0588-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00123",
+    "modifier_id": "mg-mi-0324-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00127",
+    "modifier_id": "mg-mi-0166-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00129",
+    "modifier_id": "mg-mi-0521-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00133",
+    "modifier_id": "mg-mi-0369-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00135",
+    "modifier_id": "mg-mi-0422-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00136",
+    "modifier_id": "mg-mi-0425-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00137",
+    "modifier_id": "mg-mi-0319-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00138",
+    "modifier_id": "mg-mi-0111-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00140",
+    "modifier_id": "mg-mi-0593-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00146",
+    "modifier_id": "mg-mi-0619-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00149",
+    "modifier_id": "mg-mi-0489-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00152",
+    "modifier_id": "mg-mi-0144-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00155",
+    "modifier_id": "mg-mi-0541-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00156",
+    "modifier_id": "mg-mi-0086-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00159",
+    "modifier_id": "mg-mi-0523-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00162",
+    "modifier_id": "mg-mi-0543-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00164",
+    "modifier_id": "mg-mi-0385-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00171",
+    "modifier_id": "mg-mi-0303-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00174",
+    "modifier_id": "mg-mi-0280-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00175",
+    "modifier_id": "mg-mi-0281-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00177",
+    "modifier_id": "mg-mi-0463-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00178",
+    "modifier_id": "mg-mi-0463-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00181",
+    "modifier_id": "mg-mi-0166-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00182",
+    "modifier_id": "mg-mi-0271-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00186",
+    "modifier_id": "mg-mi-0091-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00189",
+    "modifier_id": "mg-mi-0510-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00190",
+    "modifier_id": "mg-mi-0208-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00191",
+    "modifier_id": "mg-mi-0206-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00193",
+    "modifier_id": "mg-mi-0089-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00194",
+    "modifier_id": "mg-mi-0526-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00195",
+    "modifier_id": "mg-mi-0528-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00196",
+    "modifier_id": "mg-mi-0181-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00197",
+    "modifier_id": "mg-mi-0451-0",
+    "price_delta": 2.5
+  },
+  {
+    "order_item_id": "oi-00199",
+    "modifier_id": "mg-mi-0560-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00200",
+    "modifier_id": "mg-mi-0558-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00201",
+    "modifier_id": "mg-mi-0558-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00203",
+    "modifier_id": "mg-mi-0050-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00207",
+    "modifier_id": "mg-mi-0418-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00210",
+    "modifier_id": "mg-mi-0119-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00215",
+    "modifier_id": "mg-mi-0038-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00219",
+    "modifier_id": "mg-mi-0106-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00221",
+    "modifier_id": "mg-mi-0232-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00223",
+    "modifier_id": "mg-mi-0233-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00224",
+    "modifier_id": "mg-mi-0285-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00226",
+    "modifier_id": "mg-mi-0602-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00227",
+    "modifier_id": "mg-mi-0605-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00228",
+    "modifier_id": "mg-mi-0516-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00229",
+    "modifier_id": "mg-mi-0170-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00232",
+    "modifier_id": "mg-mi-0131-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00234",
+    "modifier_id": "mg-mi-0202-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00235",
+    "modifier_id": "mg-mi-0082-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00236",
+    "modifier_id": "mg-mi-0082-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00238",
+    "modifier_id": "mg-mi-0103-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00239",
+    "modifier_id": "mg-mi-0524-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00240",
+    "modifier_id": "mg-mi-0276-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00241",
+    "modifier_id": "mg-mi-0275-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00243",
+    "modifier_id": "mg-mi-0280-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00244",
+    "modifier_id": "mg-mi-0279-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00246",
+    "modifier_id": "mg-mi-0561-0",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00250",
+    "modifier_id": "mg-mi-0114-5",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00251",
+    "modifier_id": "mg-mi-0363-1",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00252",
+    "modifier_id": "mg-mi-0363-0",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00253",
+    "modifier_id": "mg-mi-0022-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00255",
+    "modifier_id": "mg-mi-0024-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00257",
+    "modifier_id": "mg-mi-0031-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00260",
+    "modifier_id": "mg-mi-0395-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00261",
+    "modifier_id": "mg-mi-0157-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00263",
+    "modifier_id": "mg-mi-0152-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00265",
+    "modifier_id": "mg-mi-0577-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00266",
+    "modifier_id": "mg-mi-0332-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00267",
+    "modifier_id": "mg-mi-0525-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00268",
+    "modifier_id": "mg-mi-0503-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00270",
+    "modifier_id": "mg-mi-0241-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00271",
+    "modifier_id": "mg-mi-0236-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00274",
+    "modifier_id": "mg-mi-0477-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00275",
+    "modifier_id": "mg-mi-0138-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00277",
+    "modifier_id": "mg-mi-0522-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00278",
+    "modifier_id": "mg-mi-0518-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00281",
+    "modifier_id": "mg-mi-0563-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00282",
+    "modifier_id": "mg-mi-0564-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00284",
+    "modifier_id": "mg-mi-0307-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00285",
+    "modifier_id": "mg-mi-0307-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00286",
+    "modifier_id": "mg-mi-0308-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00287",
+    "modifier_id": "mg-mi-0063-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00292",
+    "modifier_id": "mg-mi-0281-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00293",
+    "modifier_id": "mg-mi-0284-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00294",
+    "modifier_id": "mg-mi-0606-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00299",
+    "modifier_id": "mg-mi-0467-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00303",
+    "modifier_id": "mg-mi-0607-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00305",
+    "modifier_id": "mg-mi-0011-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00307",
+    "modifier_id": "mg-mi-0011-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00308",
+    "modifier_id": "mg-mi-0402-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00311",
+    "modifier_id": "mg-mi-0145-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00314",
+    "modifier_id": "mg-mi-0464-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00317",
+    "modifier_id": "mg-mi-0051-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00318",
+    "modifier_id": "mg-mi-0419-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00319",
+    "modifier_id": "mg-mi-0414-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00320",
+    "modifier_id": "mg-mi-0412-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00322",
+    "modifier_id": "mg-mi-0121-2",
+    "price_delta": 3.0
+  },
+  {
+    "order_item_id": "oi-00325",
+    "modifier_id": "mg-mi-0403-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00328",
+    "modifier_id": "mg-mi-0292-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00330",
+    "modifier_id": "mg-mi-0120-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00332",
+    "modifier_id": "mg-mi-0120-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00340",
+    "modifier_id": "mg-mi-0464-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00342",
+    "modifier_id": "mg-mi-0347-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00343",
+    "modifier_id": "mg-mi-0272-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00347",
+    "modifier_id": "mg-mi-0298-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00348",
+    "modifier_id": "mg-mi-0404-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00350",
+    "modifier_id": "mg-mi-0402-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00352",
+    "modifier_id": "mg-mi-0074-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00353",
+    "modifier_id": "mg-mi-0070-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00357",
+    "modifier_id": "mg-mi-0490-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00358",
+    "modifier_id": "mg-mi-0494-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00359",
+    "modifier_id": "mg-mi-0306-2",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00365",
+    "modifier_id": "mg-mi-0217-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00366",
+    "modifier_id": "mg-mi-0214-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00367",
+    "modifier_id": "mg-mi-0036-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00370",
+    "modifier_id": "mg-mi-0063-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00372",
+    "modifier_id": "mg-mi-0073-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00374",
+    "modifier_id": "mg-mi-0100-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00375",
+    "modifier_id": "mg-mi-0104-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00377",
+    "modifier_id": "mg-mi-0519-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00380",
+    "modifier_id": "mg-mi-0090-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00383",
+    "modifier_id": "mg-mi-0099-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00384",
+    "modifier_id": "mg-mi-0181-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00387",
+    "modifier_id": "mg-mi-0629-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00390",
+    "modifier_id": "mg-mi-0282-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00393",
+    "modifier_id": "mg-mi-0433-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00394",
+    "modifier_id": "mg-mi-0264-2",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00395",
+    "modifier_id": "mg-mi-0206-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00396",
+    "modifier_id": "mg-mi-0207-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00401",
+    "modifier_id": "mg-mi-0151-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00402",
+    "modifier_id": "mg-mi-0150-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00407",
+    "modifier_id": "mg-mi-0089-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00411",
+    "modifier_id": "mg-mi-0395-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00412",
+    "modifier_id": "mg-mi-0395-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00413",
+    "modifier_id": "mg-mi-0569-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00421",
+    "modifier_id": "mg-mi-0136-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00424",
+    "modifier_id": "mg-mi-0401-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00425",
+    "modifier_id": "mg-mi-0401-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00426",
+    "modifier_id": "mg-mi-0399-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00428",
+    "modifier_id": "mg-mi-0227-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00429",
+    "modifier_id": "mg-mi-0227-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00432",
+    "modifier_id": "mg-mi-0035-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00434",
+    "modifier_id": "mg-mi-0410-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00435",
+    "modifier_id": "mg-mi-0409-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00436",
+    "modifier_id": "mg-mi-0185-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00438",
+    "modifier_id": "mg-mi-0231-0",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00439",
+    "modifier_id": "mg-mi-0479-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00441",
+    "modifier_id": "mg-mi-0585-5",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00443",
+    "modifier_id": "mg-mi-0430-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00444",
+    "modifier_id": "mg-mi-0426-0",
+    "price_delta": 3.5
+  },
+  {
+    "order_item_id": "oi-00445",
+    "modifier_id": "mg-mi-0051-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00446",
+    "modifier_id": "mg-mi-0051-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00448",
+    "modifier_id": "mg-mi-0118-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00453",
+    "modifier_id": "mg-mi-0492-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00458",
+    "modifier_id": "mg-mi-0174-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00459",
+    "modifier_id": "mg-mi-0106-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00465",
+    "modifier_id": "mg-mi-0560-0",
+    "price_delta": 0.75
+  },
+  {
+    "order_item_id": "oi-00466",
+    "modifier_id": "mg-mi-0287-3",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00468",
+    "modifier_id": "mg-mi-0288-2",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00469",
+    "modifier_id": "mg-mi-0620-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00470",
+    "modifier_id": "mg-mi-0619-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00473",
+    "modifier_id": "mg-mi-0405-3",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00479",
+    "modifier_id": "mg-mi-0411-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00480",
+    "modifier_id": "mg-mi-0412-1",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00483",
+    "modifier_id": "mg-mi-0394-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00489",
+    "modifier_id": "mg-mi-0523-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00490",
+    "modifier_id": "mg-mi-0199-0",
+    "price_delta": 2.0
+  },
+  {
+    "order_item_id": "oi-00493",
+    "modifier_id": "mg-mi-0454-5",
+    "price_delta": 0.5
+  },
+  {
+    "order_item_id": "oi-00495",
+    "modifier_id": "mg-mi-0488-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00497",
+    "modifier_id": "mg-mi-0026-2",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00498",
+    "modifier_id": "mg-mi-0026-1",
+    "price_delta": 1.0
+  },
+  {
+    "order_item_id": "oi-00501",
+    "modifier_id": "mg-mi-0011-4",
+    "price_delta": 0.0
+  },
+  {
+    "order_item_id": "oi-00503",
+    "modifier_id": "mg-mi-0012-1",
+    "price_delta": 1.5
+  },
+  {
+    "order_item_id": "oi-00505",
+    "modifier_id": "mg-mi-0285-0",
+    "price_delta": 2.0
+  }
+]
