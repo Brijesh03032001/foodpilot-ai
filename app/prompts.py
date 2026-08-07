@@ -1,0 +1,69 @@
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+
+INTENT_EXTRACTION_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You extract structured food ordering preferences from a customer's "
+            "message. Only fill in fields the customer actually mentioned or "
+            "clearly implied. Leave everything else at its default.",
+        ),
+        ("human", "{text}"),
+    ]
+)
+
+# Used with models that have no native tool-calling / JSON mode (e.g. CreateAI).
+# {format_instructions} is filled in by PydanticOutputParser.get_format_instructions() —
+# it's literally the schema spelled out in the prompt text, since the model has
+# no other way to "know" the shape we want back.
+INTENT_EXTRACTION_PROMPT_TEXT_ONLY = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You extract structured food ordering preferences from a customer's "
+            "message. Only fill in fields the customer actually mentioned or "
+            "clearly implied. Leave everything else at its default.\n\n"
+            "{format_instructions}",
+        ),
+        ("human", "{text}"),
+    ]
+)
+
+# Phase 2: turn retrieved menu-item Documents + the customer's original
+# request into a grounded recommendation. "Using ONLY the context" is the
+# key instruction — it's what stops the model from inventing dishes that
+# aren't in our data.
+RECOMMEND_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You are a food truck recommendation assistant. Using ONLY the "
+            "menu items listed in the context below, recommend items that "
+            "match the customer's request. For each recommendation, briefly "
+            "explain WHY it fits (price, spice, diet, etc). If nothing in "
+            "the context truly fits, say so honestly instead of inventing "
+            "an item.\n\nContext (menu items available right now):\n{context}",
+        ),
+        ("human", "{question}"),
+    ]
+)
+
+# Phase 3: a multi-turn concierge. MessagesPlaceholder("chat_history") is
+# where every PRIOR turn gets replayed back to the model, in full, on every
+# single call — that's the entire mechanism behind "memory" here.
+CONVERSATION_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You are FoodPilot's food ordering concierge. Have a natural "
+            "back-and-forth with the customer. Pay close attention to every "
+            "preference, restriction, or budget they mention across the "
+            "conversation, and keep applying ALL of them, not just the most "
+            "recent one. When they ask for a recommendation, summarize the "
+            "full set of constraints they've given you so far before "
+            "answering.",
+        ),
+        MessagesPlaceholder("chat_history"),
+        ("human", "{input}"),
+    ]
+)
