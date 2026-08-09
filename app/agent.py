@@ -5,7 +5,7 @@ from langchain_core.messages import HumanMessage, SystemMessage, ToolMessage
 from langgraph.prebuilt import create_react_agent
 
 from app.llm import get_tool_model
-from app.tools import PHASE4_TOOLS, PHASE5_TOOLS
+from app.tools import PHASE4_TOOLS, PHASE5_TOOLS, PHASE7_TOOLS
 
 # ===========================================================================
 # PHASE 4 — the manual tool loop, written out by hand.
@@ -87,6 +87,48 @@ def run_feed_me(user_text: str):
     reason+act steps to complete the full search->menu->rank->draft chain.
     """
     result = feed_me_agent.invoke(
+        {"messages": [HumanMessage(user_text)]},
+        {"recursion_limit": 30},
+    )
+    return result["messages"]
+
+
+# ===========================================================================
+# PHASE 7 — the Owner Copilot. Same create_react_agent loop, but the tools are
+# HETEROGENEOUS: sales_stats (structured SQL) + review_search (unstructured
+# semantic search). The lesson: agent power comes from tool DIVERSITY, not a
+# bigger model. Many owner questions need BOTH — numbers AND themes — in one
+# answer, and the model decides which tool answers which part of the question.
+# ===========================================================================
+_OWNER_COPILOT_SYSTEM = (
+    "You are FoodPilot's Owner Copilot, helping a food-truck owner understand "
+    "their business. You have two kinds of tools:\n"
+    "- sales_stats: exact NUMBERS from the orders database (revenue, order "
+    "counts, top-selling items, sales by day). Use it for any 'how much / how "
+    "many / which sells best / revenue over time' question.\n"
+    "- review_search: customer REVIEW themes by meaning (complaints, praise, "
+    "value, waits). Use it for any 'what are people saying / unhappy about / "
+    "loving' question.\n"
+    "Many owner questions need BOTH: pull the numbers AND the themes, then give "
+    "ONE short answer that combines them. When the owner names a truck, pass it "
+    "to both tools. Ground every claim in the tool results — cite the real "
+    "numbers and paraphrase real reviews; never invent figures."
+)
+
+owner_copilot_agent = create_react_agent(
+    get_tool_model(),
+    PHASE7_TOOLS,
+    prompt=_OWNER_COPILOT_SYSTEM,
+)
+
+
+def run_owner_copilot(user_text: str):
+    """Phase 7: invoke the Owner Copilot. Returns the final message list.
+
+    A good owner question forces at least one sales_stats call AND one
+    review_search call in the same run, then a synthesized answer.
+    """
+    result = owner_copilot_agent.invoke(
         {"messages": [HumanMessage(user_text)]},
         {"recursion_limit": 30},
     )
