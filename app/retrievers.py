@@ -9,6 +9,7 @@ from app.schemas import FoodQuery
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PERSIST_DIR = Path(__file__).resolve().parent.parent / "chroma_db" / "menu_items"
+REVIEWS_PERSIST_DIR = Path(__file__).resolve().parent.parent / "chroma_db" / "reviews"
 
 # FoodQuery.spice_level uses "spicy"; MenuItem.spice_level uses "hot". Same
 # meaning, different word — real datasets rarely line up perfectly.
@@ -129,3 +130,61 @@ def get_menu_retriever(query: FoodQuery, k: int = 5):
     return vectorstore.as_retriever(
         search_kwargs={"k": k, "filter": where_filter}
     )
+
+
+# --- Phase 7: reviews vector store (semantic search over review TEXT) --------
+# Same machinery as the menu store, pointed at reviews. page_content is the
+# review text (what gets searched by meaning); metadata carries the exact
+# facts (rating, sentiment, truck) for display and optional filtering. `topics`
+# is a list, so — like Phase 2's cuisines — it's flattened to a string.
+def _review_to_document(review: dict, truck: dict | None) -> Document:
+    truck_name = truck["name"] if truck else "Unknown Truck"
+    topics = review.get("topics") or []
+    metadata = {
+        "review_id": review["id"],
+        "truck_id": review.get("truck_id") or "",
+        "truck_name": truck_name,
+        "rating": int(review.get("rating") or 0),
+        "sentiment": review.get("sentiment") or "",
+        "topics": ",".join(topics),
+        "created_at": review.get("created_at") or "",
+    }
+    return Document(page_content=review.get("text", ""), metadata=metadata)
+
+
+def build_reviews_vectorstore(force_rebuild: bool = False) -> Chroma:
+    """Embed all reviews into a persisted Chroma store at chroma_db/reviews/."""
+    embeddings = OllamaEmbeddings(model="bge-m3")
+
+    if REVIEWS_PERSIST_DIR.exists() and not force_rebuild:
+        return Chroma(
+            collection_name="reviews",
+            embedding_function=embeddings,
+            persist_directory=str(REVIEWS_PERSIST_DIR),
+        )
+
+    reviews = json.loads((DATA_DIR / "reviews.json").read_text())
+    trucks_by_id = _load_trucks_by_id()
+
+    documents = [
+        _review_to_document(r, trucks_by_id.get(r.get("truck_id")))
+        for r in reviews
+    ]
+    ids = [r["id"] for r in reviews]
+
+    REVIEWS_PERSIST_DIR.parent.mkdir(parents=True, exist_ok=True)
+    return Chroma.from_documents(
+        documents=documents,
+        embedding=embeddings,
+        ids=ids,
+        collection_name="reviews",
+        persist_directory=str(REVIEWS_PERSIST_DIR),
+    )
+
+
+def get_review_retriever(truck_id: str | None = None, k: int = 5):
+    vectorstore = build_reviews_vectorstore()
+    search_kwargs: dict = {"k": k}
+    if truck_id:
+        search_kwargs["filter"] = {"truck_id": truck_id}
+    return vectorstore.as_retriever(search_kwargs=search_kwargs)
