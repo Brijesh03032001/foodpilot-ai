@@ -7,3 +7,5 @@ chromadb
 langchain-chroma
 python-dotenv
 httpx
+fastapi
+uvicorn
