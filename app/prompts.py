@@ -67,3 +67,42 @@ CONVERSATION_PROMPT = ChatPromptTemplate.from_messages(
         ("human", "{input}"),
     ]
 )
+
+# Phase 6: parse a messy order sentence into the nested OrderDraftItem schema.
+# The critical instruction is "record the condition, do NOT evaluate it" — that
+# is the LLM=language / tools=truth boundary, enforced in the prompt itself.
+# {format_instructions} is filled by PydanticOutputParser (same text-only path
+# as Phase 1's CreateAI chain), and it now describes a NESTED schema.
+ORDER_PARSE_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You convert a customer's food order into structured data. Extract "
+            "the menu item, the total quantity, and each modification: how many "
+            "units it applies to, what to add, what to remove, and any condition "
+            "attached. Capture conditions EXACTLY as stated, as a short text "
+            "expression like 'price <= 2' — do NOT decide whether the condition "
+            "is true or false; a separate tool checks that against real prices. "
+            "Only fill in what the customer actually said.\n\n"
+            "{format_instructions}",
+        ),
+        ("human", "{text}"),
+    ]
+)
+
+# Phase 8: classify ONE review into sentiment + topics. The allowed labels come
+# in via {format_instructions} (built from the ReviewClassification Literals),
+# which is what keeps labels consistent across a whole batch of reviews.
+CLASSIFY_REVIEW_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "You classify a single customer review for a food truck. Decide the "
+            "overall sentiment and which topic categories it mentions. Use ONLY "
+            "the allowed topic labels below; if a point doesn't fit any, use "
+            "'other'. A review may touch several topics.\n\n"
+            "{format_instructions}",
+        ),
+        ("human", "{text}"),
+    ]
+)

@@ -1,3 +1,5 @@
+import json
+
 from langchain_core.documents import Document
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.runnables import RunnableLambda
@@ -7,13 +9,16 @@ from app.createai_llm import get_createai_model
 from app.llm import get_model
 from app.memory import get_session_history
 from app.prompts import (
+    CLASSIFY_REVIEW_PROMPT,
     CONVERSATION_PROMPT,
     INTENT_EXTRACTION_PROMPT,
     INTENT_EXTRACTION_PROMPT_TEXT_ONLY,
+    ORDER_PARSE_PROMPT,
     RECOMMEND_PROMPT,
 )
 from app.retrievers import get_menu_retriever
-from app.schemas import FoodQuery
+from app.schemas import FoodQuery, OrderDraftItem, ReviewClassification
+from app.tools import find_menu_item_id, resolve_modifications
 
 # --- Path A: Ollama (llama3), native structured output ---------------------
 # with_structured_output binds the FoodQuery schema directly to the model's
@@ -94,3 +99,47 @@ conversational_concierge = RunnableWithMessageHistory(
     input_messages_key="input",
     history_messages_key="chat_history",
 )
+
+
+# --- Phase 6: structured output under pressure ------------------------------
+# order_parse_chain = messy sentence -> validated NESTED OrderDraftItem.
+# Same text-only path as createai_parse_chain (CreateAI can't tool-call, so we
+# spell the schema out via format_instructions and parse the reply), but the
+# schema is now nested, and the prompt forbids the model from evaluating any
+# condition. That "record, don't decide" split is the whole Phase 6 point.
+_order_parser = PydanticOutputParser(pydantic_object=OrderDraftItem)
+order_parse_prompt = ORDER_PARSE_PROMPT.partial(
+    format_instructions=_order_parser.get_format_instructions()
+)
+order_parse_chain = order_parse_prompt | createai_model | _order_parser
+
+
+def parse_and_resolve_order(text: str):
+    """Full Phase 6 pipeline: raw order text -> nested OrderDraftItem (LLM =
+    language) -> resolve_modifications against real modifier data (tools =
+    truth). Returns (order, resolved_dict). resolved is None if we can't map
+    the item name to a real menu item.
+    """
+    order: OrderDraftItem = order_parse_chain.invoke({"text": text})
+
+    item_id = find_menu_item_id(order.item)
+    if item_id is None:
+        return order, None
+
+    mods = [m.model_dump() for m in order.modifications]
+    resolved = json.loads(
+        resolve_modifications.invoke({"item_id": item_id, "modifications": mods})
+    )
+    return order, resolved
+
+
+# --- Phase 8: review intelligence (the "map" chain) -------------------------
+# classify_review_chain turns ONE review's text into a ReviewClassification.
+# Same CreateAI text-only path as the other parsers. The reporting trick is to
+# run this over MANY reviews with .batch() (LCEL parallelism) and then aggregate
+# the labels — see app/analytics.py.
+_review_class_parser = PydanticOutputParser(pydantic_object=ReviewClassification)
+classify_review_prompt = CLASSIFY_REVIEW_PROMPT.partial(
+    format_instructions=_review_class_parser.get_format_instructions()
+)
+classify_review_chain = classify_review_prompt | createai_model | _review_class_parser
