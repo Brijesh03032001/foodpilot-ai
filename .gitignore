@@ -8,3 +8,8 @@ chroma_db/
 *.backup.json
 .venv/
 venv/
+foodpilot.db
+gateway/target/
+web/node_modules/
+web/.next/
+.claude/
