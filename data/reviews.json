@@ -5,7 +5,7 @@
     "truck_id": "tokachi-musubi-san-francisco",
     "customer_id": "cust-007",
     "rating": 2,
-    "text": "Waited 35 minutes, way too long.",
+    "text": "For me, the line moved so slowly.",
     "created_at": "2026-07-27T22:55:00",
     "sentiment": "negative",
     "topics": [
@@ -18,7 +18,7 @@
     "truck_id": "nimet-doner-san-bruno-2",
     "customer_id": "cust-020",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Excellent value.",
     "created_at": "2026-07-19T22:49:00",
     "sentiment": "positive",
     "topics": [
@@ -31,7 +31,7 @@
     "truck_id": "curry-up-now-food-truck-san-francisco",
     "customer_id": "cust-028",
     "rating": 4,
-    "text": "Super friendly staff.",
+    "text": "The crew was lovely. So good.",
     "created_at": "2026-07-20T11:02:00",
     "sentiment": "positive",
     "topics": [
@@ -44,7 +44,7 @@
     "truck_id": "the-geez-freeze-san-francisco",
     "customer_id": "cust-040",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Overall, full of flavor.",
     "created_at": "2026-08-04T13:25:00",
     "sentiment": "positive",
     "topics": [
@@ -57,7 +57,7 @@
     "truck_id": "treats-by-the-bay-san-francisco-2",
     "customer_id": "cust-014",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Plenty on the plate.",
     "created_at": "2026-07-31T02:38:00",
     "sentiment": "positive",
     "topics": [
@@ -70,7 +70,7 @@
     "truck_id": "mozzeria-alameda",
     "customer_id": "cust-038",
     "rating": 3,
-    "text": "Waited 35 minutes, way too long.",
+    "text": "The line moved so slowly.",
     "created_at": "2026-07-16T04:15:00",
     "sentiment": "negative",
     "topics": [
@@ -83,7 +83,7 @@
     "truck_id": "aunty-vickys-san-francisco",
     "customer_id": "cust-013",
     "rating": 5,
-    "text": "Absolutely delicious, best street food in the city.",
+    "text": "Full of flavor. Loved it.",
     "created_at": "2026-08-09T23:07:00",
     "sentiment": "positive",
     "topics": [
@@ -96,7 +96,7 @@
     "truck_id": "wicked-star-san-francisco",
     "customer_id": "cust-040",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "For me, big serving, loads of food.",
     "created_at": "2026-08-03T13:39:00",
     "sentiment": "positive",
     "topics": [
@@ -109,7 +109,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-018",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Gotta say, the value is fantastic.",
     "created_at": "2026-07-25T11:50:00",
     "sentiment": "positive",
     "topics": [
@@ -122,7 +122,7 @@
     "truck_id": "wicked-star-san-francisco",
     "customer_id": "cust-020",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Tbh, more food than I expected. Highly recommend.",
     "created_at": "2026-07-12T10:15:00",
     "sentiment": "positive",
     "topics": [
@@ -135,7 +135,7 @@
     "truck_id": "tokachi-musubi-san-francisco",
     "customer_id": "cust-003",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "For me, friendly, welcoming staff.",
     "created_at": "2026-07-23T06:36:00",
     "sentiment": "positive",
     "topics": [
@@ -148,7 +148,7 @@
     "truck_id": "the-geez-freeze-san-francisco",
     "customer_id": "cust-026",
     "rating": 3,
-    "text": "Portion was tiny for the price.",
+    "text": "Honestly, not enough on the plate. Disappointing.",
     "created_at": "2026-07-17T16:28:00",
     "sentiment": "negative",
     "topics": [
@@ -161,7 +161,7 @@
     "truck_id": "koja-kitchen-truck-emeryville",
     "customer_id": "cust-030",
     "rating": 5,
-    "text": "Absolutely delicious, best street food in the city.",
+    "text": "Tbh, tasted amazing.",
     "created_at": "2026-07-21T14:12:00",
     "sentiment": "positive",
     "topics": [
@@ -174,7 +174,7 @@
     "truck_id": "street-taco-san-francisco",
     "customer_id": "cust-001",
     "rating": 4,
-    "text": "Super friendly staff.",
+    "text": "The staff went above and beyond.",
     "created_at": "2026-08-08T02:50:00",
     "sentiment": "positive",
     "topics": [
@@ -187,7 +187,7 @@
     "truck_id": "da-poke-man-san-francisco-4",
     "customer_id": "cust-035",
     "rating": 4,
-    "text": "Huge serving, totally filling.",
+    "text": "Honestly, plenty on the plate.",
     "created_at": "2026-07-18T18:04:00",
     "sentiment": "positive",
     "topics": [
@@ -200,7 +200,7 @@
     "truck_id": "al-pastor-papi-san-francisco-2",
     "customer_id": "cust-039",
     "rating": 2,
-    "text": "No parking anywhere close.",
+    "text": "Honestly, parking is a real hassle here. Expected better.",
     "created_at": "2026-07-22T16:35:00",
     "sentiment": "negative",
     "topics": [
@@ -213,7 +213,7 @@
     "truck_id": "tokachi-musubi-san-francisco",
     "customer_id": "cust-039",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Gotta say, generous portions. So good.",
     "created_at": "2026-08-02T03:51:00",
     "sentiment": "positive",
     "topics": [
@@ -226,7 +226,7 @@
     "truck_id": "golden-prime-et-d\u00f6ner-san-francisco",
     "customer_id": "cust-027",
     "rating": 5,
-    "text": "Absolutely delicious, best turkish in the city.",
+    "text": "Gotta say, full of flavor.",
     "created_at": "2026-08-04T07:47:00",
     "sentiment": "positive",
     "topics": [
@@ -239,7 +239,7 @@
     "truck_id": "annies-hot-dogs-and-pretzels-san-francisco-6",
     "customer_id": "cust-040",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Honestly, well worth it. Loved it.",
     "created_at": "2026-07-10T14:45:00",
     "sentiment": "positive",
     "topics": [
@@ -252,7 +252,7 @@
     "truck_id": "treats-by-the-bay-san-francisco-2",
     "customer_id": "cust-011",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Overall, more food than I expected. Highly recommend.",
     "created_at": "2026-08-03T04:36:00",
     "sentiment": "positive",
     "topics": [
@@ -265,7 +265,7 @@
     "truck_id": "brisbane-lunch-truck-brisbane",
     "customer_id": "cust-008",
     "rating": 5,
-    "text": "Absolutely delicious, best sandwiches in the city.",
+    "text": "So flavorful. So good.",
     "created_at": "2026-07-23T21:24:00",
     "sentiment": "positive",
     "topics": [
@@ -278,7 +278,7 @@
     "truck_id": "dominic-s-food-truck-south-san-francisco",
     "customer_id": "cust-030",
     "rating": 5,
-    "text": "Absolutely delicious, best street food in the city.",
+    "text": "Packed with flavor. So good.",
     "created_at": "2026-07-16T16:07:00",
     "sentiment": "positive",
     "topics": [
@@ -291,7 +291,7 @@
     "truck_id": "tahona-mercado-san-francisco-2",
     "customer_id": "cust-035",
     "rating": 4,
-    "text": "Quick and welcoming service.",
+    "text": "Tbh, super friendly team.",
     "created_at": "2026-07-15T18:49:00",
     "sentiment": "positive",
     "topics": [
@@ -304,7 +304,7 @@
     "truck_id": "nimet-doner-san-bruno-2",
     "customer_id": "cust-028",
     "rating": 3,
-    "text": "Not much flavor at all.",
+    "text": "Gotta say, seasoning was all wrong.",
     "created_at": "2026-08-03T23:43:00",
     "sentiment": "negative",
     "topics": [
@@ -317,7 +317,7 @@
     "truck_id": "el-farolito-san-francisco-2",
     "customer_id": "cust-018",
     "rating": 1,
-    "text": "Too expensive for what you get.",
+    "text": "For me, too expensive. Won't be back.",
     "created_at": "2026-08-03T09:54:00",
     "sentiment": "negative",
     "topics": [
@@ -330,7 +330,7 @@
     "truck_id": "aunty-vickys-san-francisco",
     "customer_id": "cust-025",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Honestly, worth every penny.",
     "created_at": "2026-08-07T14:49:00",
     "sentiment": "positive",
     "topics": [
@@ -343,7 +343,7 @@
     "truck_id": "qu\u00e9-chulada-mexican-restaurant-san-francisco",
     "customer_id": "cust-024",
     "rating": 3,
-    "text": "Waited 35 minutes, way too long.",
+    "text": "For me, took forever to get served.",
     "created_at": "2026-07-16T15:49:00",
     "sentiment": "negative",
     "topics": [
@@ -356,7 +356,7 @@
     "truck_id": "tito-tacos-san-francisco",
     "customer_id": "cust-006",
     "rating": 5,
-    "text": "Super friendly staff.",
+    "text": "For me, super friendly team. So good.",
     "created_at": "2026-07-29T23:18:00",
     "sentiment": "positive",
     "topics": [
@@ -369,7 +369,7 @@
     "truck_id": "asados-el-primo-san-francisco",
     "customer_id": "cust-033",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "For me, quick and warm service. Loved it.",
     "created_at": "2026-07-25T02:56:00",
     "sentiment": "positive",
     "topics": [
@@ -382,7 +382,7 @@
     "truck_id": "tacolicious-san-francisco",
     "customer_id": "cust-025",
     "rating": 4,
-    "text": "So tasty, I came back twice.",
+    "text": "For me, tasted amazing. Loved it.",
     "created_at": "2026-08-06T01:28:00",
     "sentiment": "positive",
     "topics": [
@@ -395,7 +395,7 @@
     "truck_id": "southern-comfort-kitchen-food-truck-san-francisco",
     "customer_id": "cust-017",
     "rating": 4,
-    "text": "Great value for the money.",
+    "text": "Gotta say, very reasonable for what you get.",
     "created_at": "2026-07-11T18:26:00",
     "sentiment": "positive",
     "topics": [
@@ -408,7 +408,7 @@
     "truck_id": "kravins-food-truck-tempe",
     "customer_id": "cust-017",
     "rating": 1,
-    "text": "Portion was tiny for the price.",
+    "text": "For me, not enough on the plate. Disappointing.",
     "created_at": "2026-08-05T15:19:00",
     "sentiment": "negative",
     "topics": [
@@ -421,7 +421,7 @@
     "truck_id": "gyros-on-wheels-san-francisco-2",
     "customer_id": "cust-002",
     "rating": 4,
-    "text": "The flavors were incredible.",
+    "text": "For me, full of flavor.",
     "created_at": "2026-07-21T12:07:00",
     "sentiment": "positive",
     "topics": [
@@ -434,7 +434,7 @@
     "truck_id": "upper-cut-san-francisco-6",
     "customer_id": "cust-024",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Bursting with flavor.",
     "created_at": "2026-07-31T11:31:00",
     "sentiment": "positive",
     "topics": [
@@ -447,7 +447,7 @@
     "truck_id": "olhso-truck-san-francisco",
     "customer_id": "cust-036",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "Gotta say, packed with flavor. Highly recommend.",
     "created_at": "2026-07-19T20:01:00",
     "sentiment": "positive",
     "topics": [
@@ -460,7 +460,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-021",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "The serving was massive.",
     "created_at": "2026-07-10T23:10:00",
     "sentiment": "positive",
     "topics": [
@@ -473,7 +473,7 @@
     "truck_id": "underdogs-tres-san-francisco",
     "customer_id": "cust-025",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Honestly, more food than I expected. So good.",
     "created_at": "2026-07-30T16:42:00",
     "sentiment": "positive",
     "topics": [
@@ -486,7 +486,7 @@
     "truck_id": "korean-papis-kitchen-san-francisco",
     "customer_id": "cust-024",
     "rating": 4,
-    "text": "Quick and welcoming service.",
+    "text": "Gotta say, great service. So good.",
     "created_at": "2026-07-16T01:19:00",
     "sentiment": "positive",
     "topics": [
@@ -499,7 +499,7 @@
     "truck_id": "cochinita-san-francisco-24",
     "customer_id": "cust-009",
     "rating": 5,
-    "text": "Absolutely delicious, best mexican in the city.",
+    "text": "Gotta say, the taste was on point. So good.",
     "created_at": "2026-07-26T16:08:00",
     "sentiment": "positive",
     "topics": [
@@ -512,7 +512,7 @@
     "truck_id": "annakoot-san-francisco-2",
     "customer_id": "cust-010",
     "rating": 4,
-    "text": "Quick and welcoming service.",
+    "text": "The crew was lovely. Highly recommend.",
     "created_at": "2026-07-21T03:33:00",
     "sentiment": "positive",
     "topics": [
@@ -525,7 +525,7 @@
     "truck_id": "vostok-san-francisco",
     "customer_id": "cust-004",
     "rating": 2,
-    "text": "Portion was tiny for the price.",
+    "text": "Overall, barely a few bites. Bummer.",
     "created_at": "2026-08-05T02:33:00",
     "sentiment": "negative",
     "topics": [
@@ -538,7 +538,7 @@
     "truck_id": "asados-el-primo-san-francisco",
     "customer_id": "cust-010",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "For me, big serving, loads of food. Highly recommend.",
     "created_at": "2026-08-05T00:37:00",
     "sentiment": "positive",
     "topics": [
@@ -551,7 +551,7 @@
     "truck_id": "bao-n-boba-san-francisco",
     "customer_id": "cust-022",
     "rating": 2,
-    "text": "Left hungry, not enough food.",
+    "text": "Overall, a small portion for sure. Won't be back.",
     "created_at": "2026-07-19T21:13:00",
     "sentiment": "negative",
     "topics": [
@@ -564,7 +564,7 @@
     "truck_id": "soul-trucks-lv-san-francisco",
     "customer_id": "cust-009",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Really kind service. Highly recommend.",
     "created_at": "2026-07-22T07:34:00",
     "sentiment": "positive",
     "topics": [
@@ -577,7 +577,7 @@
     "truck_id": "tijuanita-san-francisco",
     "customer_id": "cust-005",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Gotta say, way more than enough food. Loved it.",
     "created_at": "2026-08-05T03:23:00",
     "sentiment": "positive",
     "topics": [
@@ -590,7 +590,7 @@
     "truck_id": "atlas-bites-san-francisco",
     "customer_id": "cust-018",
     "rating": 1,
-    "text": "Not much flavor at all.",
+    "text": "Tbh, not much flavor at all.",
     "created_at": "2026-08-02T08:36:00",
     "sentiment": "negative",
     "topics": [
@@ -603,7 +603,7 @@
     "truck_id": "brazuca-grill-san-francisco-2",
     "customer_id": "cust-008",
     "rating": 4,
-    "text": "Super friendly staff.",
+    "text": "For me, quick and warm service.",
     "created_at": "2026-07-30T07:59:00",
     "sentiment": "positive",
     "topics": [
@@ -616,7 +616,7 @@
     "truck_id": "spro-san-francisco-9",
     "customer_id": "cust-001",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Gotta say, solid bang for your buck. So good.",
     "created_at": "2026-07-19T09:49:00",
     "sentiment": "positive",
     "topics": [
@@ -629,7 +629,7 @@
     "truck_id": "tokachi-musubi-san-francisco",
     "customer_id": "cust-034",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "Gotta say, one of the tastiest bites I've had lately.",
     "created_at": "2026-07-31T15:57:00",
     "sentiment": "positive",
     "topics": [
@@ -642,7 +642,7 @@
     "truck_id": "dinosaurs-san-francisco-5",
     "customer_id": "cust-001",
     "rating": 5,
-    "text": "Absolutely delicious, best vietnamese in the city.",
+    "text": "Gotta say, the taste was on point. Loved it.",
     "created_at": "2026-07-22T06:47:00",
     "sentiment": "positive",
     "topics": [
@@ -655,7 +655,7 @@
     "truck_id": "brazuca-grill-san-francisco-2",
     "customer_id": "cust-023",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Overall, full of flavor. Highly recommend.",
     "created_at": "2026-08-05T19:52:00",
     "sentiment": "positive",
     "topics": [
@@ -668,7 +668,7 @@
     "truck_id": "aria-korean-street-food-san-francisco",
     "customer_id": "cust-016",
     "rating": 2,
-    "text": "Overpriced honestly.",
+    "text": "For me, overpriced honestly. Bummer.",
     "created_at": "2026-08-01T09:01:00",
     "sentiment": "negative",
     "topics": [
@@ -681,7 +681,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-035",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Overall, a huge, filling serving. So good.",
     "created_at": "2026-07-22T19:32:00",
     "sentiment": "positive",
     "topics": [
@@ -694,7 +694,7 @@
     "truck_id": "southern-comfort-kitchen-food-truck-san-francisco",
     "customer_id": "cust-034",
     "rating": 5,
-    "text": "Absolutely delicious, best street food in the city.",
+    "text": "Honestly, seasoned just right. So good.",
     "created_at": "2026-08-09T11:08:00",
     "sentiment": "positive",
     "topics": [
@@ -707,7 +707,7 @@
     "truck_id": "momo-noodle-mission-bay-san-francisco",
     "customer_id": "cust-025",
     "rating": 2,
-    "text": "It was bland and underwhelming.",
+    "text": "Gotta say, not much flavor at all. Disappointing.",
     "created_at": "2026-08-06T11:51:00",
     "sentiment": "negative",
     "topics": [
@@ -720,7 +720,7 @@
     "truck_id": "j-and-ds-bbq-san-francisco",
     "customer_id": "cust-023",
     "rating": 2,
-    "text": "The line moved so slowly.",
+    "text": "A solid 35-minute wait. Won't be back.",
     "created_at": "2026-07-13T09:27:00",
     "sentiment": "negative",
     "topics": [
@@ -733,7 +733,7 @@
     "truck_id": "se\u00f1or-sisig-food-trucks-san-francisco-3",
     "customer_id": "cust-010",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Tbh, the serving was massive. Loved it.",
     "created_at": "2026-07-27T09:31:00",
     "sentiment": "positive",
     "topics": [
@@ -746,7 +746,7 @@
     "truck_id": "minnie-bells-san-francisco-2",
     "customer_id": "cust-011",
     "rating": 4,
-    "text": "Huge serving, totally filling.",
+    "text": "Way more than enough food. Loved it.",
     "created_at": "2026-07-17T00:11:00",
     "sentiment": "positive",
     "topics": [
@@ -759,7 +759,7 @@
     "truck_id": "cookies-n-cream-sj-san-jose",
     "customer_id": "cust-034",
     "rating": 3,
-    "text": "Too expensive for what you get.",
+    "text": "Overall, too expensive. Bummer.",
     "created_at": "2026-08-04T09:01:00",
     "sentiment": "negative",
     "topics": [
@@ -772,7 +772,7 @@
     "truck_id": "dinosaurs-san-francisco-5",
     "customer_id": "cust-023",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Honestly, very reasonable for what you get.",
     "created_at": "2026-07-20T15:40:00",
     "sentiment": "positive",
     "topics": [
@@ -785,7 +785,7 @@
     "truck_id": "box-kitchen-san-francisco",
     "customer_id": "cust-031",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Tbh, tasted amazing. Loved it.",
     "created_at": "2026-07-30T05:18:00",
     "sentiment": "positive",
     "topics": [
@@ -798,7 +798,7 @@
     "truck_id": "annies-hot-dogs-and-pretzels-san-francisco-6",
     "customer_id": "cust-012",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Honestly, friendly, welcoming staff. Loved it.",
     "created_at": "2026-08-09T12:23:00",
     "sentiment": "positive",
     "topics": [
@@ -811,7 +811,7 @@
     "truck_id": "el-gallo-giro-taco-truck-san-francisco-4",
     "customer_id": "cust-003",
     "rating": 5,
-    "text": "Absolutely delicious, best mexican in the city.",
+    "text": "Really tasty.",
     "created_at": "2026-07-21T22:26:00",
     "sentiment": "positive",
     "topics": [
@@ -824,7 +824,7 @@
     "truck_id": "wh42-san-francisco-4",
     "customer_id": "cust-008",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "Bursting with flavor. Highly recommend.",
     "created_at": "2026-07-30T00:12:00",
     "sentiment": "positive",
     "topics": [
@@ -837,7 +837,7 @@
     "truck_id": "off-the-grid-sfo-san-francisco",
     "customer_id": "cust-019",
     "rating": 5,
-    "text": "Absolutely delicious, best food court in the city.",
+    "text": "Overall, packed with flavor.",
     "created_at": "2026-07-30T02:28:00",
     "sentiment": "positive",
     "topics": [
@@ -850,7 +850,7 @@
     "truck_id": "california-kahve-san-francisco-2",
     "customer_id": "cust-019",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "For me, well worth it.",
     "created_at": "2026-07-12T02:11:00",
     "sentiment": "positive",
     "topics": [
@@ -863,7 +863,7 @@
     "truck_id": "tokachi-musubi-san-francisco",
     "customer_id": "cust-039",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Tbh, welcoming and helpful staff.",
     "created_at": "2026-07-27T11:17:00",
     "sentiment": "positive",
     "topics": [
@@ -876,7 +876,7 @@
     "truck_id": "street-taco-san-francisco",
     "customer_id": "cust-004",
     "rating": 2,
-    "text": "Impossible to find parking nearby.",
+    "text": "For me, parking was a nightmare.",
     "created_at": "2026-08-08T09:56:00",
     "sentiment": "negative",
     "topics": [
@@ -889,7 +889,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-039",
     "rating": 4,
-    "text": "Cheap and amazing.",
+    "text": "Really good value. Loved it.",
     "created_at": "2026-08-07T03:33:00",
     "sentiment": "positive",
     "topics": [
@@ -902,7 +902,7 @@
     "truck_id": "meat-me-san-francisco-2",
     "customer_id": "cust-031",
     "rating": 2,
-    "text": "Overpriced honestly.",
+    "text": "Tbh, too expensive. Expected better.",
     "created_at": "2026-07-10T10:55:00",
     "sentiment": "negative",
     "topics": [
@@ -915,7 +915,7 @@
     "truck_id": "pita-gyros-san-francisco-2",
     "customer_id": "cust-002",
     "rating": 1,
-    "text": "Overpriced honestly.",
+    "text": "Overall, prices felt high.",
     "created_at": "2026-07-12T15:28:00",
     "sentiment": "negative",
     "topics": [
@@ -928,7 +928,7 @@
     "truck_id": "pocky-truck-san-francisco",
     "customer_id": "cust-031",
     "rating": 4,
-    "text": "Absolutely delicious, best street food in the city.",
+    "text": "Honestly, so flavorful. So good.",
     "created_at": "2026-08-08T09:41:00",
     "sentiment": "positive",
     "topics": [
@@ -941,7 +941,7 @@
     "truck_id": "aria-korean-street-food-san-francisco",
     "customer_id": "cust-015",
     "rating": 4,
-    "text": "Cheap and amazing.",
+    "text": "For me, the value is fantastic. So good.",
     "created_at": "2026-08-04T23:43:00",
     "sentiment": "positive",
     "topics": [
@@ -954,7 +954,7 @@
     "truck_id": "el-gallo-giro-taco-truck-san-francisco-4",
     "customer_id": "cust-005",
     "rating": 1,
-    "text": "No parking anywhere close.",
+    "text": "Overall, parking is a real hassle here. Won't be back.",
     "created_at": "2026-08-01T14:43:00",
     "sentiment": "negative",
     "topics": [
@@ -967,7 +967,7 @@
     "truck_id": "mozzeria-alameda",
     "customer_id": "cust-039",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "Honestly, so flavorful.",
     "created_at": "2026-07-29T19:59:00",
     "sentiment": "positive",
     "topics": [
@@ -980,7 +980,7 @@
     "truck_id": "golden-prime-et-d\u00f6ner-san-francisco",
     "customer_id": "cust-003",
     "rating": 4,
-    "text": "Quick and welcoming service.",
+    "text": "Overall, friendly, welcoming staff. Loved it.",
     "created_at": "2026-08-01T05:08:00",
     "sentiment": "positive",
     "topics": [
@@ -993,7 +993,7 @@
     "truck_id": "cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
     "customer_id": "cust-011",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Very reasonable for what you get. Loved it.",
     "created_at": "2026-07-26T04:42:00",
     "sentiment": "positive",
     "topics": [
@@ -1006,7 +1006,7 @@
     "truck_id": "tito-tacos-san-francisco",
     "customer_id": "cust-025",
     "rating": 2,
-    "text": "No parking anywhere close.",
+    "text": "For me, impossible to find parking nearby.",
     "created_at": "2026-07-17T11:18:00",
     "sentiment": "negative",
     "topics": [
@@ -1032,7 +1032,7 @@
     "truck_id": "corazon-mexicano-san-francisco-3",
     "customer_id": "cust-031",
     "rating": 4,
-    "text": "The flavors were incredible.",
+    "text": "Packed with flavor. Highly recommend.",
     "created_at": "2026-07-22T14:21:00",
     "sentiment": "positive",
     "topics": [
@@ -1045,7 +1045,7 @@
     "truck_id": "tacolicious-san-francisco",
     "customer_id": "cust-040",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "For me, very reasonable for what you get. Highly recommend.",
     "created_at": "2026-07-12T07:51:00",
     "sentiment": "positive",
     "topics": [
@@ -1058,7 +1058,7 @@
     "truck_id": "gyros-on-wheels-san-francisco-2",
     "customer_id": "cust-004",
     "rating": 2,
-    "text": "Impossible to find parking nearby.",
+    "text": "Overall, parking was brutal.",
     "created_at": "2026-07-29T03:41:00",
     "sentiment": "negative",
     "topics": [
@@ -1071,7 +1071,7 @@
     "truck_id": "dinosaurs-san-francisco-5",
     "customer_id": "cust-025",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Overall, way more than enough food. So good.",
     "created_at": "2026-07-15T01:51:00",
     "sentiment": "positive",
     "topics": [
@@ -1084,7 +1084,7 @@
     "truck_id": "wicked-star-san-francisco",
     "customer_id": "cust-014",
     "rating": 1,
-    "text": "Left hungry, not enough food.",
+    "text": "A small portion for sure. Won't be back.",
     "created_at": "2026-08-04T17:10:00",
     "sentiment": "negative",
     "topics": [
@@ -1097,7 +1097,7 @@
     "truck_id": "vostok-san-francisco",
     "customer_id": "cust-027",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Really tasty. Will be back.",
     "created_at": "2026-07-20T15:00:00",
     "sentiment": "positive",
     "topics": [
@@ -1110,7 +1110,7 @@
     "truck_id": "tito-tacos-san-francisco",
     "customer_id": "cust-003",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Gotta say, really kind service. Highly recommend.",
     "created_at": "2026-07-16T03:04:00",
     "sentiment": "positive",
     "topics": [
@@ -1123,7 +1123,7 @@
     "truck_id": "momo-noodle-san-francisco-9",
     "customer_id": "cust-032",
     "rating": 2,
-    "text": "Portion was tiny for the price.",
+    "text": "Tbh, not enough on the plate. Won't be back.",
     "created_at": "2026-08-04T06:21:00",
     "sentiment": "negative",
     "topics": [
@@ -1136,7 +1136,7 @@
     "truck_id": "smashin-good-burgers-san-francisco",
     "customer_id": "cust-015",
     "rating": 4,
-    "text": "Cheap and amazing.",
+    "text": "For me, great value for the money. So good.",
     "created_at": "2026-07-15T08:26:00",
     "sentiment": "positive",
     "topics": [
@@ -1149,7 +1149,7 @@
     "truck_id": "pocky-truck-san-francisco",
     "customer_id": "cust-002",
     "rating": 3,
-    "text": "Left hungry, not enough food.",
+    "text": "Gotta say, left hungry, not enough food.",
     "created_at": "2026-07-14T17:06:00",
     "sentiment": "negative",
     "topics": [
@@ -1162,7 +1162,7 @@
     "truck_id": "street-taco-san-francisco",
     "customer_id": "cust-026",
     "rating": 4,
-    "text": "Quick and welcoming service.",
+    "text": "Overall, great service.",
     "created_at": "2026-07-28T04:23:00",
     "sentiment": "positive",
     "topics": [
@@ -1175,7 +1175,7 @@
     "truck_id": "j-and-ds-bbq-san-francisco",
     "customer_id": "cust-023",
     "rating": 2,
-    "text": "Waited 35 minutes, way too long.",
+    "text": "Gotta say, the line barely moved.",
     "created_at": "2026-07-18T11:16:00",
     "sentiment": "negative",
     "topics": [
@@ -1188,7 +1188,7 @@
     "truck_id": "el-fuego-san-francisco-61",
     "customer_id": "cust-007",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Gotta say, way more than enough food. Highly recommend.",
     "created_at": "2026-07-11T22:06:00",
     "sentiment": "positive",
     "topics": [
@@ -1201,7 +1201,7 @@
     "truck_id": "street-taco-san-francisco",
     "customer_id": "cust-012",
     "rating": 2,
-    "text": "Not much flavor at all.",
+    "text": "Kind of a boring flavor.",
     "created_at": "2026-08-09T14:13:00",
     "sentiment": "negative",
     "topics": [
@@ -1214,7 +1214,7 @@
     "truck_id": "poke-delish-san-francisco-5",
     "customer_id": "cust-039",
     "rating": 5,
-    "text": "Absolutely delicious, best poke in the city.",
+    "text": "Full of flavor.",
     "created_at": "2026-07-12T00:53:00",
     "sentiment": "positive",
     "topics": [
@@ -1227,7 +1227,7 @@
     "truck_id": "el-fuego-san-francisco-61",
     "customer_id": "cust-033",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Gotta say, great portion size.",
     "created_at": "2026-07-17T10:56:00",
     "sentiment": "positive",
     "topics": [
@@ -1240,7 +1240,7 @@
     "truck_id": "tijuanita-san-francisco",
     "customer_id": "cust-018",
     "rating": 2,
-    "text": "Overpriced honestly.",
+    "text": "Bit of a splurge for what you get. Won't be back.",
     "created_at": "2026-07-31T04:34:00",
     "sentiment": "negative",
     "topics": [
@@ -1253,7 +1253,7 @@
     "truck_id": "choco-kebab-san-francisco-san-francisco-2",
     "customer_id": "cust-008",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "The value is fantastic.",
     "created_at": "2026-08-02T07:41:00",
     "sentiment": "positive",
     "topics": [
@@ -1266,7 +1266,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-026",
     "rating": 2,
-    "text": "Impossible to find parking nearby.",
+    "text": "Gotta say, could not find a spot.",
     "created_at": "2026-07-21T21:55:00",
     "sentiment": "negative",
     "topics": [
@@ -1279,7 +1279,7 @@
     "truck_id": "off-the-grid-levis-plaza-san-francisco-2",
     "customer_id": "cust-040",
     "rating": 1,
-    "text": "Impossible to find parking nearby.",
+    "text": "Honestly, nowhere to park. Won't be back.",
     "created_at": "2026-07-11T15:03:00",
     "sentiment": "negative",
     "topics": [
@@ -1292,7 +1292,7 @@
     "truck_id": "mexi-cali-san-francisco",
     "customer_id": "cust-011",
     "rating": 1,
-    "text": "Impossible to find parking nearby.",
+    "text": "For me, could not find a spot. Bummer.",
     "created_at": "2026-08-06T19:16:00",
     "sentiment": "negative",
     "topics": [
@@ -1305,7 +1305,7 @@
     "truck_id": "underdogs-tres-san-francisco",
     "customer_id": "cust-016",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "For me, full of flavor. So good.",
     "created_at": "2026-07-15T18:11:00",
     "sentiment": "positive",
     "topics": [
@@ -1318,7 +1318,7 @@
     "truck_id": "vostok-san-francisco",
     "customer_id": "cust-013",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Really good value.",
     "created_at": "2026-08-05T23:13:00",
     "sentiment": "positive",
     "topics": [
@@ -1331,7 +1331,7 @@
     "truck_id": "the-chairman-san-francisco-4",
     "customer_id": "cust-025",
     "rating": 2,
-    "text": "Impossible to find parking nearby.",
+    "text": "Nowhere to park.",
     "created_at": "2026-07-31T01:15:00",
     "sentiment": "negative",
     "topics": [
@@ -1344,7 +1344,7 @@
     "truck_id": "j-and-ds-bbq-san-francisco",
     "customer_id": "cust-007",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Honestly, great value for the money. So good.",
     "created_at": "2026-07-23T07:07:00",
     "sentiment": "positive",
     "topics": [
@@ -1357,7 +1357,7 @@
     "truck_id": "al-pastor-papi-mexican-grill-san-francisco",
     "customer_id": "cust-034",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Overall, great value for the money.",
     "created_at": "2026-07-12T22:07:00",
     "sentiment": "positive",
     "topics": [
@@ -1370,7 +1370,7 @@
     "truck_id": "southern-comfort-kitchen-food-truck-san-francisco",
     "customer_id": "cust-016",
     "rating": 5,
-    "text": "Super friendly staff.",
+    "text": "Tbh, welcoming and helpful staff. Loved it.",
     "created_at": "2026-08-05T08:03:00",
     "sentiment": "positive",
     "topics": [
@@ -1383,7 +1383,7 @@
     "truck_id": "cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
     "customer_id": "cust-001",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Overall, solid bang for your buck.",
     "created_at": "2026-08-07T19:50:00",
     "sentiment": "positive",
     "topics": [
@@ -1396,7 +1396,7 @@
     "truck_id": "box-kitchen-san-francisco",
     "customer_id": "cust-034",
     "rating": 4,
-    "text": "So tasty, I came back twice.",
+    "text": "Genuinely delicious.",
     "created_at": "2026-07-25T21:00:00",
     "sentiment": "positive",
     "topics": [
@@ -1409,7 +1409,7 @@
     "truck_id": "tanguito-argentinean-grill-san-francisco",
     "customer_id": "cust-017",
     "rating": 3,
-    "text": "The line moved so slowly.",
+    "text": "Tbh, the line moved so slowly. Bummer.",
     "created_at": "2026-07-18T07:49:00",
     "sentiment": "negative",
     "topics": [
@@ -1422,7 +1422,7 @@
     "truck_id": "cousins-maine-lobster-san-francisco-bay-area-san-francisco-3",
     "customer_id": "cust-030",
     "rating": 5,
-    "text": "Absolutely delicious, best seafood in the city.",
+    "text": "So flavorful. Will be back.",
     "created_at": "2026-07-27T20:13:00",
     "sentiment": "positive",
     "topics": [
@@ -1435,7 +1435,7 @@
     "truck_id": "se\u00f1or-sisig-food-trucks-san-francisco-3",
     "customer_id": "cust-013",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Overall, very reasonable for what you get. Loved it.",
     "created_at": "2026-07-11T22:48:00",
     "sentiment": "positive",
     "topics": [
@@ -1448,7 +1448,7 @@
     "truck_id": "shake-shack-cow-hollow-san-francisco",
     "customer_id": "cust-034",
     "rating": 5,
-    "text": "Super friendly staff.",
+    "text": "Friendly, welcoming staff. Loved it.",
     "created_at": "2026-07-28T01:48:00",
     "sentiment": "positive",
     "topics": [
@@ -1461,7 +1461,7 @@
     "truck_id": "qu\u00e9-chulada-mexican-restaurant-san-francisco",
     "customer_id": "cust-004",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Overall, really kind service. So good.",
     "created_at": "2026-07-12T01:05:00",
     "sentiment": "positive",
     "topics": [
@@ -1474,7 +1474,7 @@
     "truck_id": "waffle-mania-truck-san-francisco",
     "customer_id": "cust-007",
     "rating": 5,
-    "text": "Absolutely delicious, best desserts in the city.",
+    "text": "Honestly, one of the tastiest bites I've had lately. Loved it.",
     "created_at": "2026-07-29T15:18:00",
     "sentiment": "positive",
     "topics": [
@@ -1487,7 +1487,7 @@
     "truck_id": "annies-hot-dogs-and-pretzels-san-francisco-6",
     "customer_id": "cust-036",
     "rating": 2,
-    "text": "Not much flavor at all.",
+    "text": "For me, pretty flavorless.",
     "created_at": "2026-07-25T09:07:00",
     "sentiment": "negative",
     "topics": [
@@ -1500,7 +1500,7 @@
     "truck_id": "shake-shack-cow-hollow-san-francisco",
     "customer_id": "cust-034",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "For me, the value is fantastic.",
     "created_at": "2026-08-01T06:47:00",
     "sentiment": "positive",
     "topics": [
@@ -1513,7 +1513,7 @@
     "truck_id": "koja-kitchen-truck-emeryville",
     "customer_id": "cust-007",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Honestly, excellent value. Will be back.",
     "created_at": "2026-07-19T19:33:00",
     "sentiment": "positive",
     "topics": [
@@ -1526,7 +1526,7 @@
     "truck_id": "pocky-truck-san-francisco",
     "customer_id": "cust-025",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Gotta say, genuinely delicious.",
     "created_at": "2026-07-20T08:12:00",
     "sentiment": "positive",
     "topics": [
@@ -1539,7 +1539,7 @@
     "truck_id": "lahore-di-khushboo-san-francisco",
     "customer_id": "cust-030",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "More food than I expected. Loved it.",
     "created_at": "2026-07-13T06:31:00",
     "sentiment": "positive",
     "topics": [
@@ -1552,7 +1552,7 @@
     "truck_id": "corazon-mexicano-san-francisco-3",
     "customer_id": "cust-023",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Well worth it. Loved it.",
     "created_at": "2026-07-14T19:49:00",
     "sentiment": "positive",
     "topics": [
@@ -1565,7 +1565,7 @@
     "truck_id": "spro-san-francisco-9",
     "customer_id": "cust-037",
     "rating": 2,
-    "text": "Too expensive for what you get.",
+    "text": "Honestly, too expensive.",
     "created_at": "2026-08-07T14:00:00",
     "sentiment": "negative",
     "topics": [
@@ -1578,7 +1578,7 @@
     "truck_id": "rasa-rasa-san-francisco-3",
     "customer_id": "cust-012",
     "rating": 5,
-    "text": "So tasty, I came back twice.",
+    "text": "Honestly, genuinely delicious.",
     "created_at": "2026-07-15T11:28:00",
     "sentiment": "positive",
     "topics": [
@@ -1591,7 +1591,7 @@
     "truck_id": "dos-raicez-san-francisco",
     "customer_id": "cust-020",
     "rating": 2,
-    "text": "Took forever to get my order.",
+    "text": "Gotta say, the wait was rough.",
     "created_at": "2026-08-02T22:25:00",
     "sentiment": "negative",
     "topics": [
@@ -1604,7 +1604,7 @@
     "truck_id": "cookies-n-cream-sj-san-jose",
     "customer_id": "cust-037",
     "rating": 4,
-    "text": "The flavors were incredible.",
+    "text": "Honestly, full of flavor. So good.",
     "created_at": "2026-07-24T23:27:00",
     "sentiment": "positive",
     "topics": [
@@ -1617,7 +1617,7 @@
     "truck_id": "the-chairman-san-francisco-4",
     "customer_id": "cust-002",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Overall, one of the tastiest bites I've had lately. So good.",
     "created_at": "2026-08-08T02:48:00",
     "sentiment": "positive",
     "topics": [
@@ -1630,7 +1630,7 @@
     "truck_id": "gyros-on-wheels-san-francisco-2",
     "customer_id": "cust-006",
     "rating": 3,
-    "text": "Portion was tiny for the price.",
+    "text": "Tbh, the portion was tiny. Bummer.",
     "created_at": "2026-08-05T16:02:00",
     "sentiment": "negative",
     "topics": [
@@ -1643,7 +1643,7 @@
     "truck_id": "brothers-sf-san-francisco-2",
     "customer_id": "cust-035",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Honestly, a huge, filling serving.",
     "created_at": "2026-08-01T10:40:00",
     "sentiment": "positive",
     "topics": [
@@ -1656,7 +1656,7 @@
     "truck_id": "upper-cut-san-francisco-6",
     "customer_id": "cust-010",
     "rating": 4,
-    "text": "Cheap and amazing.",
+    "text": "Honestly, solid bang for your buck. Highly recommend.",
     "created_at": "2026-07-13T10:17:00",
     "sentiment": "positive",
     "topics": [
@@ -1669,7 +1669,7 @@
     "truck_id": "made-in-italy-san-francisco",
     "customer_id": "cust-028",
     "rating": 4,
-    "text": "Huge serving, totally filling.",
+    "text": "For me, more food than I expected.",
     "created_at": "2026-07-14T20:36:00",
     "sentiment": "positive",
     "topics": [
@@ -1682,7 +1682,7 @@
     "truck_id": "roli-roti-gourmet-rotisserie-san-francisco",
     "customer_id": "cust-004",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "For me, filled me right up.",
     "created_at": "2026-07-17T15:39:00",
     "sentiment": "positive",
     "topics": [
@@ -1695,7 +1695,7 @@
     "truck_id": "twirl-and-dip-san-francisco",
     "customer_id": "cust-018",
     "rating": 3,
-    "text": "Impossible to find parking nearby.",
+    "text": "Gotta say, nowhere to park. Expected better.",
     "created_at": "2026-07-26T17:55:00",
     "sentiment": "negative",
     "topics": [
@@ -1708,7 +1708,7 @@
     "truck_id": "wicked-star-san-francisco",
     "customer_id": "cust-012",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Plenty on the plate. Highly recommend.",
     "created_at": "2026-07-14T12:16:00",
     "sentiment": "positive",
     "topics": [
@@ -1721,7 +1721,7 @@
     "truck_id": "halal-cart-san-francisco-7",
     "customer_id": "cust-008",
     "rating": 2,
-    "text": "Left hungry, not enough food.",
+    "text": "Tbh, the portion was tiny. Disappointing.",
     "created_at": "2026-07-31T13:23:00",
     "sentiment": "negative",
     "topics": [
@@ -1734,7 +1734,7 @@
     "truck_id": "dominic-s-food-truck-south-san-francisco",
     "customer_id": "cust-019",
     "rating": 4,
-    "text": "Huge serving, totally filling.",
+    "text": "Honestly, way more than enough food. So good.",
     "created_at": "2026-08-02T06:43:00",
     "sentiment": "positive",
     "topics": [
@@ -1747,7 +1747,7 @@
     "truck_id": "halal-cart-sf-san-francisco-2",
     "customer_id": "cust-004",
     "rating": 5,
-    "text": "The flavors were incredible.",
+    "text": "Gotta say, tasted amazing. So good.",
     "created_at": "2026-07-27T09:01:00",
     "sentiment": "positive",
     "topics": [
@@ -1760,7 +1760,7 @@
     "truck_id": "vostok-san-francisco",
     "customer_id": "cust-029",
     "rating": 1,
-    "text": "Portion was tiny for the price.",
+    "text": "Gotta say, felt short-changed on the amount. Bummer.",
     "created_at": "2026-08-02T00:12:00",
     "sentiment": "negative",
     "topics": [
@@ -1773,7 +1773,7 @@
     "truck_id": "el-farolito-san-francisco-2",
     "customer_id": "cust-027",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Solid bang for your buck. Loved it.",
     "created_at": "2026-07-21T13:36:00",
     "sentiment": "positive",
     "topics": [
@@ -1786,7 +1786,7 @@
     "truck_id": "california-kahve-san-francisco-2",
     "customer_id": "cust-036",
     "rating": 5,
-    "text": "Huge serving, totally filling.",
+    "text": "Overall, filled me right up. Loved it.",
     "created_at": "2026-07-21T16:19:00",
     "sentiment": "positive",
     "topics": [
@@ -1799,7 +1799,7 @@
     "truck_id": "momo-noodle-san-francisco-9",
     "customer_id": "cust-026",
     "rating": 5,
-    "text": "Cheap and amazing.",
+    "text": "Solid bang for your buck. Will be back.",
     "created_at": "2026-08-05T17:46:00",
     "sentiment": "positive",
     "topics": [
@@ -1812,7 +1812,7 @@
     "truck_id": "wh42-san-francisco-4",
     "customer_id": "cust-027",
     "rating": 2,
-    "text": "Overpriced honestly.",
+    "text": "Honestly, overpriced honestly. Disappointing.",
     "created_at": "2026-07-18T05:22:00",
     "sentiment": "negative",
     "topics": [
@@ -1825,7 +1825,7 @@
     "truck_id": "lady-m-cake-boutique-san-francisco",
     "customer_id": "cust-024",
     "rating": 2,
-    "text": "Overpriced honestly.",
+    "text": "Overpriced honestly. Disappointing.",
     "created_at": "2026-07-15T00:34:00",
     "sentiment": "negative",
     "topics": [
@@ -1838,7 +1838,7 @@
     "truck_id": "soul-trucks-lv-san-francisco",
     "customer_id": "cust-039",
     "rating": 5,
-    "text": "Great value for the money.",
+    "text": "Very reasonable for what you get. So good.",
     "created_at": "2026-07-17T11:21:00",
     "sentiment": "positive",
     "topics": [
@@ -1851,7 +1851,7 @@
     "truck_id": "tito-tacos-san-francisco",
     "customer_id": "cust-038",
     "rating": 2,
-    "text": "Left hungry, not enough food.",
+    "text": "Tbh, the serving was small. Expected better.",
     "created_at": "2026-07-13T13:01:00",
     "sentiment": "negative",
     "topics": [
@@ -1864,7 +1864,7 @@
     "truck_id": "wicked-star-san-francisco",
     "customer_id": "cust-019",
     "rating": 2,
-    "text": "Too expensive for what you get.",
+    "text": "For me, prices felt high. Expected better.",
     "created_at": "2026-07-30T07:32:00",
     "sentiment": "negative",
     "topics": [
@@ -1877,7 +1877,7 @@
     "truck_id": "dinosaurs-san-francisco-5",
     "customer_id": "cust-036",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Tbh, the crew was lovely.",
     "created_at": "2026-07-27T01:04:00",
     "sentiment": "positive",
     "topics": [
@@ -1890,7 +1890,7 @@
     "truck_id": "chefs-truck-san-francisco",
     "customer_id": "cust-003",
     "rating": 2,
-    "text": "Impossible to find parking nearby.",
+    "text": "Gotta say, parking was a nightmare.",
     "created_at": "2026-07-19T18:04:00",
     "sentiment": "negative",
     "topics": [
@@ -1903,7 +1903,7 @@
     "truck_id": "shamal-burgers-and-more-san-francisco",
     "customer_id": "cust-022",
     "rating": 5,
-    "text": "Quick and welcoming service.",
+    "text": "Tbh, the staff went above and beyond. Will be back.",
     "created_at": "2026-07-27T02:43:00",
     "sentiment": "positive",
     "topics": [
@@ -1916,7 +1916,7 @@
     "truck_id": "se\u00f1or-sisig-san-francisco-13",
     "customer_id": "cust-036",
     "rating": 3,
-    "text": "The line moved so slowly.",
+    "text": "Painfully slow to get my order. Disappointing.",
     "created_at": "2026-07-22T08:41:00",
     "sentiment": "negative",
     "topics": [
@@ -1929,7 +1929,7 @@
     "truck_id": "off-the-grid-sfo-san-francisco",
     "customer_id": "cust-016",
     "rating": 5,
-    "text": "Generous portions for the price.",
+    "text": "Tbh, a huge, filling serving. Will be back.",
     "created_at": "2026-08-07T20:52:00",
     "sentiment": "positive",
     "topics": [
@@ -1942,7 +1942,7 @@
     "truck_id": "rasa-rasa-san-francisco-3",
     "customer_id": "cust-026",
     "rating": 1,
-    "text": "Overpriced honestly.",
+    "text": "Overpriced honestly. Won't be back.",
     "created_at": "2026-07-12T07:33:00",
     "sentiment": "negative",
     "topics": [
