@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: foodpilot-gateway
+  datasource:
+    # foodpilot.db lives at the repo root, one level up from gateway/.
+    # Override with FOODPILOT_DB (absolute path) if you run from elsewhere.
+    url: jdbc:sqlite:${FOODPILOT_DB:../foodpilot.db}
+    driver-class-name: org.sqlite.JDBC
+    hikari:
+      maximum-pool-size: 4
+      connection-test-query: SELECT 1
+
+foodpilot:
+  # base URL of the Python AI microservice (LangChain / agents)
+  ai-service-url: ${AI_SERVICE_URL:http://localhost:8000}
+  # allowed browser origin (Next.js dev server)
+  cors-origins: ${CORS_ORIGINS:http://localhost:3000}
