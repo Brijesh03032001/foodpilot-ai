@@ -1,0 +1,574 @@
+<title>LangChain Cheat Sheet — FoodPilot</title>
+<style>
+  :root{
+    --ground:#f6f4ef; --ink:#16202b; --muted:#5b6773; --line:#ddd8ce;
+    --card:#fffdf8; --card-2:#f1ede4;
+    --teal:#0f7268;      /* STRUCTURE — the pipes */
+    --teal-soft:#0f726820;
+    --amber:#c85d09;     /* DATA — the signal flowing through */
+    --amber-soft:#c85d0918;
+    --good:#2f8f5b; --warn:#b8850d; --crit:#b23b3b;
+    --mono:ui-monospace,"SF Mono",Menlo,"Cascadia Code",Consolas,monospace;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --maxw:1120px;
+    --shadow:0 1px 2px rgba(20,30,40,.05),0 8px 30px -18px rgba(20,30,40,.25);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --ground:#0c1116; --ink:#e9ebee; --muted:#8a95a2; --line:#212a35;
+      --card:#121922; --card-2:#0f151d;
+      --teal:#37cbba; --teal-soft:#37cbba1f;
+      --amber:#ff9d3c; --amber-soft:#ff9d3c1f;
+      --good:#54c98a; --warn:#e6b73a; --crit:#e77;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 34px -18px rgba(0,0,0,.7);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#0c1116; --ink:#e9ebee; --muted:#8a95a2; --line:#212a35;
+    --card:#121922; --card-2:#0f151d;
+    --teal:#37cbba; --teal-soft:#37cbba1f;
+    --amber:#ff9d3c; --amber-soft:#ff9d3c1f;
+    --good:#54c98a; --warn:#e6b73a; --crit:#e77;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 34px -18px rgba(0,0,0,.7);
+  }
+  :root[data-theme="light"]{
+    --ground:#f6f4ef; --ink:#16202b; --muted:#5b6773; --line:#ddd8ce;
+    --card:#fffdf8; --card-2:#f1ede4;
+    --teal:#0f7268; --teal-soft:#0f726820; --amber:#c85d09; --amber-soft:#c85d0918;
+    --good:#2f8f5b; --warn:#b8850d; --crit:#b23b3b;
+    --shadow:0 1px 2px rgba(20,30,40,.05),0 8px 30px -18px rgba(20,30,40,.25);
+  }
+
+  *{box-sizing:border-box}
+  body{background:var(--ground);color:var(--ink);font-family:var(--sans);
+    line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 clamp(18px,4vw,40px)}
+  a{color:inherit}
+  h1,h2,h3{text-wrap:balance;line-height:1.1;margin:0}
+  .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.22em;
+    text-transform:uppercase;color:var(--teal);font-weight:600}
+  .mono{font-family:var(--mono)}
+
+  /* ---------- top bar ---------- */
+  header.bar{position:sticky;top:0;z-index:40;backdrop-filter:blur(10px);
+    background:color-mix(in srgb,var(--ground) 82%,transparent);
+    border-bottom:1px solid var(--line)}
+  .bar .wrap{display:flex;align-items:center;gap:16px;height:58px}
+  .brand{font-family:var(--mono);font-weight:700;letter-spacing:-.01em;font-size:.95rem;
+    display:flex;align-items:center;gap:9px}
+  .brand .pipe{color:var(--amber);font-size:1.25rem;line-height:0}
+  .bar .spacer{flex:1}
+  .legend{display:flex;gap:14px;align-items:center;font-family:var(--mono);
+    font-size:.68rem;color:var(--muted)}
+  .legend b{font-weight:500;color:var(--ink)}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;
+    vertical-align:middle;margin-right:5px}
+  .dot.s{background:var(--teal)} .dot.d{background:var(--amber)}
+  .themetog{font-family:var(--mono);font-size:.7rem;border:1px solid var(--line);
+    background:var(--card);color:var(--ink);border-radius:8px;padding:6px 10px;
+    cursor:pointer}
+  .themetog:hover{border-color:var(--teal)}
+  @media(max-width:720px){.legend{display:none}}
+
+  /* ---------- hero ---------- */
+  .hero{padding:clamp(46px,8vw,88px) 0 clamp(30px,4vw,44px)}
+  .hero h1{font-size:clamp(2.3rem,6.2vw,4.4rem);font-weight:800;letter-spacing:-.03em}
+  .hero h1 .g{background:linear-gradient(100deg,var(--teal),var(--amber));
+    -webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero .lede{max-width:60ch;color:var(--muted);font-size:clamp(1rem,1.6vw,1.18rem);
+    margin-top:18px}
+  .hero .lede b{color:var(--ink);font-weight:600}
+
+  /* ---------- pipeline animation ---------- */
+  .pipe-stage{margin-top:38px;border:1px solid var(--line);border-radius:16px;
+    background:var(--card);box-shadow:var(--shadow);padding:26px clamp(14px,3vw,30px) 22px;
+    position:relative;overflow:hidden}
+  .pipe-stage .cap{font-family:var(--mono);font-size:.72rem;color:var(--muted);
+    letter-spacing:.04em;margin-bottom:20px;display:flex;gap:8px;align-items:center}
+  .pipe-stage .cap .k{color:var(--amber)}
+  .flow{position:relative;display:grid;
+    grid-template-columns:1fr auto 1fr auto 1fr;align-items:center;
+    gap:clamp(4px,1.2vw,10px)}
+  .node{position:relative;z-index:2}
+  .chip{position:relative;display:flex;flex-direction:column;gap:3px;align-items:center;
+    padding:18px 10px 15px;border:1.5px solid var(--line);border-radius:15px;
+    background:linear-gradient(180deg,var(--card),var(--card-2));
+    width:100%;max-width:230px;margin:0 auto;overflow:hidden;
+    transition:border-color .3s,box-shadow .3s,transform .3s}
+  .chip::before{content:"";position:absolute;left:0;right:0;top:0;height:2px;
+    background:linear-gradient(90deg,transparent,var(--teal),transparent);
+    opacity:.45;transition:opacity .3s}
+  .chip .nm{font-family:var(--mono);font-weight:700;font-size:clamp(.82rem,2vw,1.02rem);
+    letter-spacing:-.01em}
+  .chip .rl{font-size:.7rem;color:var(--muted);font-family:var(--mono)}
+  .chip.lit{border-color:var(--amber);transform:translateY(-4px);
+    box-shadow:0 0 0 4px var(--amber-soft),0 14px 30px -14px var(--amber)}
+  .chip.lit::before{background:linear-gradient(90deg,transparent,var(--amber),transparent);opacity:1}
+
+  /* connector segments live BETWEEN the boxes, never inside them */
+  .seg{position:relative;height:44px;display:flex;align-items:center;justify-content:center;
+    min-width:clamp(30px,6vw,90px);z-index:1}
+  .rail{position:absolute;left:0;right:0;top:50%;height:2px;transform:translateY(-50%);
+    background:var(--line);border-radius:2px;overflow:hidden}
+  .rail::after{content:"";position:absolute;inset:0;
+    background:linear-gradient(90deg,transparent 0%,var(--teal) 45%,var(--teal) 55%,transparent 100%);
+    background-size:220% 100%;animation:railflow 2.6s linear infinite}
+  @keyframes railflow{from{background-position:120% 0}to{background-position:-120% 0}}
+  .glyph{position:relative;z-index:3;font-family:var(--mono);font-weight:700;
+    font-size:clamp(1.2rem,3vw,1.6rem);color:var(--amber);line-height:1;
+    text-shadow:0 0 12px var(--amber-soft);animation:glyphpulse 2.6s ease-in-out infinite}
+  @keyframes glyphpulse{0%,100%{opacity:.5;transform:scale(1)}50%{opacity:1;transform:scale(1.14)}}
+
+  .token{position:absolute;top:0;left:0;width:16px;height:16px;border-radius:50%;
+    background:radial-gradient(circle at 35% 30%,#fff6,var(--amber) 55%);
+    box-shadow:0 0 0 6px var(--amber-soft),0 0 22px 4px var(--amber);
+    z-index:4;transform:translate(-50%,-50%);pointer-events:none;will-change:left,top}
+  .token::after{content:"";position:absolute;top:50%;right:100%;width:34px;height:3px;
+    transform:translateY(-50%);border-radius:3px;
+    background:linear-gradient(90deg,transparent,var(--amber));opacity:.7}
+
+  .payload{margin-top:22px;text-align:center;font-family:var(--mono);font-size:.82rem}
+  .payload .lab{color:var(--muted)}
+  .payload .val{color:var(--amber);font-weight:700;transition:opacity .2s}
+  @media(max-width:640px){
+    .flow{grid-template-columns:1fr;gap:0}
+    .seg{min-width:0;height:36px;width:100%}
+    .rail{left:50%;right:auto;top:0;bottom:0;width:2px;height:100%;transform:translateX(-50%)}
+    .rail::after{background:linear-gradient(180deg,transparent 0%,var(--teal) 45%,var(--teal) 55%,transparent 100%);
+      background-size:100% 220%;animation:railflowv 2.6s linear infinite}
+    .glyph{transform:rotate(90deg)}
+    .token{display:none}
+    .chip{max-width:none}
+  }
+  @keyframes railflowv{from{background-position:0 120%}to{background-position:0 -120%}}
+
+  /* ---------- section scaffolding ---------- */
+  section{padding:clamp(38px,6vw,64px) 0}
+  .sec-head{display:flex;align-items:baseline;gap:14px;margin-bottom:26px;flex-wrap:wrap}
+  .sec-head h2{font-size:clamp(1.5rem,3.4vw,2.1rem);font-weight:800;letter-spacing:-.02em}
+  .sec-head .n{font-family:var(--mono);color:var(--amber);font-weight:700;font-size:1rem}
+  .sec-head p{color:var(--muted);margin:0;font-size:.95rem;flex-basis:100%;max-width:65ch}
+
+  /* reveal */
+  .rv{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+  .rv.in{opacity:1;transform:none}
+
+  /* ---------- concept grid ---------- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+  .card{border:1px solid var(--line);border-radius:15px;background:var(--card);
+    padding:22px 22px 20px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;
+    background:var(--teal);opacity:.0;transition:opacity .25s}
+  .card:hover::before{opacity:.9}
+  .card h3{font-size:1.12rem;font-weight:750;letter-spacing:-.01em;display:flex;
+    align-items:center;gap:9px}
+  .card .tag{font-family:var(--mono);font-size:.64rem;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--muted);border:1px solid var(--line);
+    border-radius:20px;padding:3px 9px}
+  dl{margin:16px 0 0;display:grid;gap:11px}
+  dl div{display:grid;gap:2px}
+  dt{font-family:var(--mono);font-size:.82rem;font-weight:700;color:var(--ink)}
+  dt em{color:var(--amber);font-style:normal}
+  dd{margin:0;font-size:.9rem;color:var(--muted);line-height:1.5}
+  .say{margin-top:16px;border-left:2px solid var(--amber);background:var(--amber-soft);
+    border-radius:0 8px 8px 0;padding:10px 13px;font-size:.86rem}
+  .say b{font-family:var(--mono);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--amber);display:block;margin-bottom:3px}
+  code{font-family:var(--mono);font-size:.85em;background:var(--card-2);
+    border:1px solid var(--line);border-radius:5px;padding:1px 5px;white-space:nowrap}
+
+  /* ---------- phase timeline ---------- */
+  .timeline{display:grid;gap:2px;border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;background:var(--line)}
+  .tl{background:var(--card);padding:15px 18px;display:grid;
+    grid-template-columns:44px 1fr;gap:14px;align-items:start;transition:background .2s}
+  .tl:hover{background:var(--card-2)}
+  .tl .idx{font-family:var(--mono);font-weight:800;font-size:1.05rem;color:var(--amber);
+    line-height:1.4}
+  .tl .body b{font-weight:700}
+  .tl .body{font-size:.92rem}
+  .tl .body .idea{display:block;color:var(--muted);font-size:.86rem;margin-top:2px}
+  .tl.wall{position:relative}
+  .tl.wall .idx::after{content:"⛔";font-size:.8rem;display:block}
+
+  /* ---------- lessons ---------- */
+  .lessons{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+  .lesson{border:1px solid var(--line);border-radius:14px;background:var(--card);
+    padding:20px;box-shadow:var(--shadow)}
+  .lesson .num{font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;color:var(--teal);
+    font-weight:700}
+  .lesson h3{font-size:1.02rem;margin:8px 0 6px;font-weight:750}
+  .lesson p{margin:0;font-size:.88rem;color:var(--muted)}
+
+  /* ---------- vs table ---------- */
+  .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
+  table{border-collapse:collapse;width:100%;min-width:520px;background:var(--card)}
+  th,td{text-align:left;padding:13px 18px;border-bottom:1px solid var(--line);font-size:.92rem}
+  thead th{font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);background:var(--card-2)}
+  tbody tr:last-child td{border-bottom:none}
+  td.miss{color:var(--crit);font-family:var(--mono);font-size:.86rem}
+  td.fix{color:var(--good);font-weight:600}
+  .vs-note{margin-top:16px;font-size:.95rem;text-align:center;color:var(--muted)}
+  .vs-note b{color:var(--ink)}
+
+  /* ---------- flip cards ---------- */
+  .drill{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+  .flip{perspective:1200px;background:none;border:none;padding:0;cursor:pointer;
+    font:inherit;text-align:left;min-height:150px}
+  .flip .inner{position:relative;width:100%;height:100%;min-height:150px;
+    transition:transform .55s cubic-bezier(.4,.1,.2,1);transform-style:preserve-3d}
+  .flip.flipped .inner{transform:rotateY(180deg)}
+  .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+    border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;flex-direction:column;
+    box-shadow:var(--shadow)}
+  .face.q{background:var(--card);justify-content:space-between}
+  .face.a{background:var(--card-2);transform:rotateY(180deg);border-color:var(--teal)}
+  .face .qmark{font-family:var(--mono);color:var(--amber);font-weight:800;font-size:.9rem}
+  .face.q .qtext{font-size:1rem;font-weight:650;margin-top:10px}
+  .face .hint{font-family:var(--mono);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);margin-top:auto;padding-top:12px}
+  .face.a .qmark{color:var(--teal)}
+  .face.a .atext{font-size:.9rem;margin-top:8px;color:var(--ink);overflow:auto}
+  .flip:focus-visible{outline:2px solid var(--amber);outline-offset:3px;border-radius:14px}
+
+  footer{border-top:1px solid var(--line);padding:30px 0 46px;color:var(--muted);
+    font-size:.84rem}
+  footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:center}
+  footer .mono{font-size:.76rem}
+
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important;transition:none!important}
+    .rv{opacity:1;transform:none}
+  }
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <span class="brand">prompt<span class="pipe">|</span>model<span class="pipe">|</span>parser</span>
+    <span class="spacer"></span>
+    <span class="legend">
+      <span><span class="dot s"></span><b>teal</b> = structure (pipes)</span>
+      <span><span class="dot d"></span><b>amber</b> = data (the signal)</span>
+    </span>
+    <button class="themetog" id="tt" aria-label="Toggle light or dark theme">◐ theme</button>
+  </div>
+</header>
+
+<div class="hero wrap">
+  <span class="eyebrow">LangChain · FoodPilot phases 1–9 · interview reference</span>
+  <h1>The whole of LangChain is <span class="g">one pipe</span>.</h1>
+  <p class="lede">A <b>Runnable</b> is anything with <code>.invoke()</code>. The pipe <code>|</code> feeds one Runnable's output into the next. A <b>chain</b> is Runnables piped together. Every concept below is built from exactly that grammar — watch a single request flow through it.</p>
+
+  <div class="pipe-stage" id="stage">
+    <div class="cap"><span class="k">LCEL</span> live trace — <span id="capval">a request moving through prompt | model | parser</span></div>
+    <div class="flow">
+      <div class="node">
+        <div class="chip" data-i="0"><span class="nm">Prompt</span><span class="rl">fills the blanks</span></div>
+      </div>
+      <div class="seg"><span class="rail"></span><span class="glyph">|</span></div>
+      <div class="node">
+        <div class="chip" data-i="1"><span class="nm">Model</span><span class="rl">text → text</span></div>
+      </div>
+      <div class="seg"><span class="rail"></span><span class="glyph">|</span></div>
+      <div class="node">
+        <div class="chip" data-i="2"><span class="nm">Parser</span><span class="rl">→ validated object</span></div>
+      </div>
+      <div class="token" id="token"></div>
+    </div>
+    <div class="payload">
+      <span class="lab">carrying:&nbsp;</span><span class="val" id="payload">"a cheap vegan lunch"</span>
+    </div>
+  </div>
+</div>
+
+<main>
+<section class="wrap">
+  <div class="sec-head rv">
+    <span class="n">01</span><h2>The building blocks</h2>
+    <p>The eight concept groups this project actually used. Each term is <em>what it is</em> in plain words, plus the one line to say out loud in an interview.</p>
+  </div>
+  <div class="grid" id="grid">
+
+    <article class="card rv">
+      <h3>Chat models &amp; messages <span class="tag">phase 1</span></h3>
+      <dl>
+        <div><dt>Chat model</dt><dd>The LLM you message. Project: <code>ChatOllama</code> (local) + a custom <code>ChatCreateAI</code>.</dd></div>
+        <div><dt>Message types</dt><dd><em>System</em> sets behaviour · <em>Human</em> is input · <em>AI</em> is the reply · <em>Tool</em> is a tool result fed back. A chat is a list of these.</dd></div>
+        <div><dt>temperature</dt><dd>Randomness knob. <code>0</code> = consistent (used for classification); higher = creative.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>Chat models take a list of typed messages and return an AIMessage.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Prompt templates <span class="tag">phase 1 · 3</span></h3>
+      <dl>
+        <div><dt>ChatPromptTemplate</dt><dd>A fill-in-the-blanks message form with <code>{placeholders}</code>.</dd></div>
+        <div><dt>.partial()</dt><dd>Pre-fill one slot ahead of time (e.g. bake in <code>format_instructions</code> once).</dd></div>
+        <div><dt>MessagesPlaceholder</dt><dd>A slot where a whole list of past messages gets replayed — the seat memory sits in.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>Templates split fixed instructions from runtime variables, so prompts are reusable and testable.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Structured output <span class="tag">phase 1 · 6 · 8</span></h3>
+      <dl>
+        <div><dt>Schema (BaseModel)</dt><dd>The exact output shape — <code>FoodQuery</code>, <code>ReviewClassification</code>.</dd></div>
+        <div><dt>Field / <em>Literal</em></dt><dd><code>Field(description=…)</code> steers each slot; <code>Literal[…]</code> locks it to a fixed menu so the model can't drift.</dd></div>
+        <div><dt>PydanticOutputParser</dt><dd>Turns raw text into your validated object; errors if it doesn't fit.</dd></div>
+        <div><dt>format_instructions</dt><dd>The schema written into the prompt as text, for text-only models.</dd></div>
+        <div><dt>with_structured_output</dt><dd>The native alternative — needs a tool-calling model.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>Both paths guarantee the <em>shape</em> of the output — never that the <em>content</em> is correct.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Runnables &amp; composition <span class="tag">core</span></h3>
+      <dl>
+        <div><dt>Runnable</dt><dd>Anything with <code>.invoke()</code> — models, prompts, parsers, tools, functions.</dd></div>
+        <div><dt>| (pipe) / chain</dt><dd>Feed one output into the next; a chain is Runnables piped together.</dd></div>
+        <div><dt>RunnableLambda</dt><dd>Wrap a plain Python function so it drops into a chain.</dd></div>
+        <div><dt>.invoke() vs <em>.batch()</em></dt><dd>Run once, vs run many inputs <em>concurrently</em> (thread pool, <code>max_concurrency</code>). Phase 8: 150 docs in ~57s.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>The Runnable is the uniform interface; LCEL just pipes Runnables together with <code>|</code>.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Retrieval / RAG <span class="tag">phase 2 · 7 · 8</span></h3>
+      <dl>
+        <div><dt>Embedding / vector</dt><dd>Text as numbers that capture meaning (<code>bge-m3</code>). Similar meaning → nearby vectors.</dd></div>
+        <div><dt>Vector store</dt><dd>DB that finds nearest-meaning items (<code>Chroma</code>).</dd></div>
+        <div><dt>Document</dt><dd><code>page_content</code> (searched by meaning) + <code>metadata</code> (exact facts).</dd></div>
+        <div><dt>Semantic vs metadata</dt><dd><em>Feels</em>-relevant (meaning) vs <em>is</em>-true (filters like <code>price&lt;10</code>). Use both.</dd></div>
+        <div><dt>Grounding</dt><dd>Answer only from what you retrieved; never invent.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>Semantic search finds meaning; metadata filters enforce truth. And RAG isn't only Q&amp;A — retrieve + classify + aggregate is a reporting engine.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Memory <span class="tag">phase 3</span></h3>
+      <dl>
+        <div><dt>Stateless</dt><dd>The model remembers nothing between calls. The key insight.</dd></div>
+        <div><dt>"Memory"</dt><dd>= re-sending the transcript every turn. No magic.</dd></div>
+        <div><dt>session_id</dt><dd>Which conversation's history to load.</dd></div>
+        <div><dt>RunnableWithMessageHistory</dt><dd>Auto-loads/saves history per session. (Now deprecated → LangGraph persistence.)</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>LLMs are stateless; memory is just replaying prior messages through a MessagesPlaceholder.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Tools &amp; agents <span class="tag">phase 4 · 5 · 7</span></h3>
+      <dl>
+        <div><dt>@tool</dt><dd>A Python function the model may call. <em>Its docstring is the instruction.</em></dd></div>
+        <div><dt>bind_tools</dt><dd>Makes the model <em>aware</em> of tools — it can request, not run them.</dd></div>
+        <div><dt>tool_calls → ToolMessage</dt><dd>Model emits a call slip (name+args); you run it, return a <code>ToolMessage</code> tagged by <code>tool_call_id</code>.</dd></div>
+        <div><dt>ReAct loop</dt><dd>Thought → Action → Observation → repeat. <code>create_react_agent</code> prebuilds it.</dd></div>
+        <div><dt>Heterogeneous tools</dt><dd>SQL (structured) + vectors (unstructured) in one agent.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>The model <em>requests</em> a tool via tool_calls; my loop <em>runs</em> it. That's ReAct. Power comes from tool diversity, not model size.</p>
+    </article>
+
+    <article class="card rv">
+      <h3>Security: LLM + a database <span class="tag">phase 7</span></h3>
+      <dl>
+        <div><dt>Never raw SQL</dt><dd>Don't let the model author queries — <code>DROP TABLE</code> / injection risk.</dd></div>
+        <div><dt>Whitelist</dt><dd>Model picks from a fixed menu of pre-written <code>SELECT</code>s.</dd></div>
+        <div><dt>Parameterized SQL</dt><dd><code>?</code> placeholders → values are <em>data, never code</em>. Injection impossible.</dd></div>
+      </dl>
+      <p class="say"><b>say this</b>The model chooses <em>what</em> to ask; you own the query. Proven: a <code>'; DROP TABLE orders; --</code> input matched zero rows and changed nothing.</p>
+    </article>
+
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="sec-head rv">
+    <span class="n">02</span><h2>The nine-phase arc</h2>
+    <p>This one <em>is</em> a real sequence — each phase adds one idea, and two of them hit walls that motivate LangGraph.</p>
+  </div>
+  <div class="timeline rv" id="timeline"></div>
+</section>
+
+<section class="wrap">
+  <div class="sec-head rv">
+    <span class="n">03</span><h2>Five lessons that keep coming back</h2>
+    <p>The "what did you actually learn" answers. Each one earned by hitting it in the project.</p>
+  </div>
+  <div class="lessons">
+    <div class="lesson rv"><span class="num">LESSON 01</span><h3>Shape ≠ content</h3><p>Schemas guarantee the output's <em>shape</em>, never that the content is right or the phrasing is what you hoped. Fix that in the model or the tool.</p></div>
+    <div class="lesson rv"><span class="num">LESSON 02</span><h3>LLM = language, tools = truth</h3><p>The model turns messy words into structure and plans; deterministic tools verify facts, do math, touch data.</p></div>
+    <div class="lesson rv"><span class="num">LESSON 03</span><h3>Tool diversity &gt; model size</h3><p>The same model gains power from <em>different kinds</em> of tools (SQL + vectors), not a bigger brain.</p></div>
+    <div class="lesson rv"><span class="num">LESSON 04</span><h3>Aggregates drift silently</h3><p>Map-reduce reports look authoritative but wobble at fuzzy category edges — and nothing errors. Only evals tell you to trust them.</p></div>
+    <div class="lesson rv"><span class="num">LESSON 05</span><h3>Compose ≠ control</h3><p>LangChain pipes steps brilliantly but can't branch, loop, pause, or persist. That gap is the whole reason for LangGraph.</p></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <div class="sec-head rv">
+    <span class="n">04</span><h2>LangChain vs LangGraph</h2>
+    <p>The question interviewers love. LangChain composes and hit two walls (Phases 5 &amp; 9); the four missing powers map 1:1 onto what LangGraph adds.</p>
+  </div>
+  <div class="tablewrap rv">
+    <table>
+      <thead><tr><th>Missing in LangChain</th><th>LangGraph fix</th></tr></thead>
+      <tbody>
+        <tr><td class="miss">branch</td><td class="fix">conditional edges</td></tr>
+        <tr><td class="miss">loop</td><td class="fix">cycles</td></tr>
+        <tr><td class="miss">pause for approval</td><td class="fix">interrupt() — human-in-the-loop</td></tr>
+        <tr><td class="miss">persist / resume</td><td class="fix">checkpointers (MemorySaver / SqliteSaver)</td></tr>
+        <tr><td class="miss">implicit RAM state</td><td class="fix">typed graph state (TypedDict)</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="vs-note rv"><b>LangChain composes; LangGraph controls.</b> That's the handoff.</p>
+</section>
+
+<section class="wrap">
+  <div class="sec-head rv">
+    <span class="n">05</span><h2>Rapid-fire drill</h2>
+    <p>Tap a card to flip it. Answer out loud <em>before</em> you flip — that's the whole point.</p>
+  </div>
+  <div class="drill" id="drill"></div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Built from FoodPilot Phases 1–9 · your own code &amp; chapters.</span>
+    <span class="mono">runnable · | · chain · .invoke()</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  /* ---- theme toggle ---- */
+  var root = document.documentElement, tt = document.getElementById("tt");
+  tt.addEventListener("click", function(){
+    var cur = root.getAttribute("data-theme");
+    if(!cur){ cur = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark":"light"; }
+    root.setAttribute("data-theme", cur === "dark" ? "light":"dark");
+  });
+
+  /* ---- hero pipeline animation ---- */
+  var flow = document.querySelector(".flow");
+  var token = document.getElementById("token");
+  var chips = Array.prototype.slice.call(document.querySelectorAll(".chip[data-i]"));
+  var payloadEl = document.getElementById("payload");
+  var capEl = document.getElementById("capval");
+  var stages = [
+    {payload:'"a cheap vegan lunch"',            cap:'a request enters the prompt'},
+    {payload:'System + Human messages',          cap:'prompt filled → sent to the model'},
+    {payload:'raw model text (JSON-ish)',        cap:'model answered → hand to the parser'},
+    {payload:'FoodQuery(diet="vegan", price="cheap")', cap:'parsed into a validated object'}
+  ];
+  // pixel-accurate chip centres, relative to .flow — recomputed on resize
+  function centres(){
+    var fr = flow.getBoundingClientRect();
+    return chips.map(function(c){
+      var r = c.getBoundingClientRect();
+      return {x:r.left - fr.left + r.width/2, y:r.top - fr.top + r.height/2};
+    });
+  }
+  var C = centres();
+  window.addEventListener("resize", function(){ C = centres(); place(lastPos); });
+  function lerp(a,b,t){return a+(b-a)*t;}
+  var lastPos = 0;
+  function place(pos){            // pos in 0..1 across the 3 chips
+    if(!C.length) return;
+    var seg = pos*2;             // 0..2 over two legs
+    var i = Math.min(1, Math.floor(seg)), f = seg - i;
+    var a = C[i], b = C[i+1] || C[i];
+    token.style.left = lerp(a.x, b.x, f) + "px";
+    token.style.top  = lerp(a.y, b.y, f) + "px";
+  }
+
+  if(reduce){
+    C = centres(); place(1);
+    payloadEl.textContent = stages[3].payload;
+    capEl.textContent = stages[3].cap;
+    chips[2].classList.add("lit");
+  } else {
+    var t0=null, DUR=5400, hold=0.16;
+    function frame(ts){
+      if(!t0){ t0=ts; C=centres(); }
+      var e=((ts-t0)%DUR)/DUR;
+      var pos = e < (1-hold) ? (e/(1-hold)) : 1;   // travel, then pause at parser
+      lastPos = pos; place(pos);
+      // light nearest chip
+      var near = pos < 0.25 ? 0 : (pos < 0.75 ? 1 : 2);
+      var d = Math.abs([0,0.5,1][near] - pos);
+      chips.forEach(function(c,i){ c.classList.toggle("lit", i===near && d<0.2); });
+      // stage text
+      var si = pos>=0.92 ? (e>(1-hold)?3:2) : (pos>=0.42 ? 1 : 0);
+      if(capEl.textContent!==stages[si].cap){
+        payloadEl.textContent=stages[si].payload;
+        capEl.textContent=stages[si].cap;
+      }
+      requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+  }
+
+  /* ---- phase timeline data ---- */
+  var phases=[
+    ["1","Chat models + LCEL + structured output","prompt | model | parser — schema guarantees shape, not content"],
+    ["2","Retrievers (RAG)","embeddings = meaning as numbers; semantic search + metadata filter together"],
+    ["3","Message history / memory","the model is stateless; memory = re-send the transcript every turn"],
+    ["4","Tool binding + manual loop","the model requests tools; your loop runs them — this is ReAct"],
+    ["5","FEED ME agent + its ceiling","prebuilt agent removes boilerplate, not limits → wall #1", true],
+    ["6","Structured output under pressure","LLM = language, tools = truth (conditions captured as data)"],
+    ["7","Owner Copilot (SQL + RAG)","tool diversity > model size; parameterized SQL keeps control"],
+    ["8","Review intelligence","RAG as a reporting engine — map-reduce + .batch()"],
+    ["9","Reasoning that breaks LangChain","linear chains can't branch/loop/pause/persist → wall #2", true]
+  ];
+  var tl=document.getElementById("timeline");
+  phases.forEach(function(p){
+    var d=document.createElement("div");
+    d.className="tl"+(p[3]?" wall":"");
+    d.innerHTML='<div class="idx">'+p[0]+'</div><div class="body"><b>'+p[1]+
+      '</b><span class="idea">'+p[2]+'</span></div>';
+    tl.appendChild(d);
+  });
+
+  /* ---- flip-card drill data ---- */
+  var qa=[
+    ["What is a Runnable?","Anything with an .invoke() method — the uniform interface LangChain composes (models, prompts, parsers, tools, functions)."],
+    ["What is LCEL?","LangChain Expression Language — the |-pipe grammar for chaining Runnables into a chain."],
+    ["PydanticOutputParser vs with_structured_output?","Parser spells the schema into the prompt (any text model); native uses tool-calling. Both guarantee shape, not correctness."],
+    ["How does an LLM 'use a tool'?","It doesn't run it. It emits a tool_calls request; your loop runs the function and returns a ToolMessage. That cycle is ReAct."],
+    ["What does bind_tools do?","Makes the model aware of tools so it can request them — it does not execute anything."],
+    ["How do LLMs have memory?","They don't — you re-send the transcript each turn via a MessagesPlaceholder."],
+    ["Semantic search vs metadata filter?","Meaning-match (feels relevant) vs exact-fact match (is true, e.g. price<10). Use both together."],
+    ["How do you make batch classification fast & safe?",".batch() with max_concurrency for parallelism + return_exceptions=True so one bad output doesn't sink the run."],
+    ["Keep labels consistent across 1000s of calls?","A Literal controlled vocabulary (fixed label menu) + temperature=0 + an 'other' catch-all."],
+    ["Safely expose a DB to an LLM?","Whitelist pre-written queries + parameterized SQL (? placeholders). Model chooses what to ask, never the raw query."],
+    ["When LangChain over LangGraph?","LangChain for simple linear compose (prompt→model→parser, RAG Q&A). LangGraph when you need branch/loop/pause/persist/state."],
+    ["Why did aggregation force a real database?","revenue/top-item/avg are SUM/GROUP BY — one line in SQL but a hand-written loop over JSON every time, and slow at scale."]
+  ];
+  var drill=document.getElementById("drill");
+  qa.forEach(function(x,i){
+    var b=document.createElement("button");
+    b.className="flip"; b.setAttribute("aria-label","Flip question "+(i+1));
+    b.innerHTML=
+      '<div class="inner">'+
+        '<div class="face q"><div><span class="qmark">Q'+(i+1)+'</span>'+
+          '<div class="qtext">'+x[0]+'</div></div><span class="hint">tap to reveal ↻</span></div>'+
+        '<div class="face a"><span class="qmark">A</span><div class="atext">'+x[1]+'</div></div>'+
+      '</div>';
+    b.addEventListener("click",function(){ b.classList.toggle("flipped"); });
+    drill.appendChild(b);
+  });
+
+  /* ---- scroll reveal ---- */
+  if(reduce){
+    document.querySelectorAll(".rv").forEach(function(e){e.classList.add("in");});
+  } else {
+    var io=new IntersectionObserver(function(es){
+      es.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add("in"); io.unobserve(en.target);} });
+    },{threshold:0.12});
+    document.querySelectorAll(".rv").forEach(function(e){io.observe(e);});
+  }
+})();
+</script>
