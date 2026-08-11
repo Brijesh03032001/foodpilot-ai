@@ -1,0 +1,309 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ------------------------------------------------------------------ */
+/*  FoodPilot — Sky Market design tokens                               */
+/*  Light, airy outdoor-food-market language. Petrol does the         */
+/*  structural work, Tangerine is reserved for appetite/action.       */
+/* ------------------------------------------------------------------ */
+
+@theme inline {
+  /* shadcn semantic bridge */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Brand palette — usable as bg / text / border utilities */
+  --color-sky-mist: #eef7f8;
+  --color-cloud: #ffffff;
+  --color-petrol: #123c4a;
+  --color-petrol-deep: #092e38;
+  --color-tangerine: #ff7043;
+  --color-tangerine-hover: #f45b2d;
+  --color-butter: #ffd76a;
+  --color-leaf: #4f8f68;
+  --color-turquoise: #2a9d9a;
+
+  --color-mint-soft: #e8f4ec;
+  --color-blue-soft: #e1f2f5;
+  --color-orange-soft: #fff0e9;
+  --color-yellow-soft: #fff6d8;
+
+  --color-ink: #123c4a;
+  --color-ink-strong: #092e38;
+  --color-ink-secondary: #526970;
+  --color-ink-muted: #82979d;
+
+  --color-success: #3d8b5c;
+  --color-warning: #d99a20;
+  --color-danger: #d94c3d;
+  --color-info: #2a8e9b;
+
+  /* Chart palette (Owner dashboards) */
+  --color-chart-1: #2a9d9a; /* turquoise — main trend      */
+  --color-chart-2: #b9d7db; /* muted blue-gray — previous  */
+  --color-chart-3: #4f8f68; /* leaf — positive             */
+  --color-chart-4: #d95836; /* terracotta — negative       */
+  --color-chart-5: #ff7043; /* tangerine — highlight       */
+
+  /* Fonts (wired to next/font vars in layout.tsx) */
+  --font-sans: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-dm-serif), ui-serif, Georgia, serif;
+  --font-heading: var(--font-manrope), ui-sans-serif, sans-serif;
+
+  /* Radius scale (friendly rounding is part of the identity) */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 22px;
+  --radius-2xl: 28px;
+  --radius-3xl: 32px;
+
+  /* Standardized shadows */
+  --shadow-xs: 0 1px 3px rgba(18, 60, 74, 0.05);
+  --shadow-sm: 0 4px 12px rgba(18, 60, 74, 0.06);
+  --shadow-md: 0 10px 30px rgba(18, 60, 74, 0.08);
+  --shadow-lg: 0 22px 55px rgba(18, 60, 74, 0.1);
+}
+
+/* ------------------------------- Light ---------------------------- */
+:root {
+  --radius: 1rem;
+
+  --background: #f4fafb;
+  --foreground: #123c4a;
+
+  --card: #ffffff;
+  --card-foreground: #123c4a;
+
+  --popover: #ffffff;
+  --popover-foreground: #123c4a;
+
+  --primary: #ff7043; /* Tangerine — commerce / action */
+  --primary-foreground: #ffffff;
+
+  --secondary: #ffffff;
+  --secondary-foreground: #123c4a;
+
+  --muted: #f0f7f8;
+  --muted-foreground: #6b8188;
+
+  --accent: #e1f2f5; /* Soft blue — AI / info surfaces */
+  --accent-foreground: #123c4a;
+
+  --destructive: #d94c3d;
+
+  --border: #e4edef;
+  --input: #dce8ea;
+  --ring: #2a9d9a; /* Turquoise focus ring */
+
+  --sidebar: #123c4a; /* Petrol — owner operating system */
+  --sidebar-foreground: rgba(255, 255, 255, 0.72);
+  --sidebar-primary: #ff7043;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e1f2f5;
+  --sidebar-accent-foreground: #123c4a;
+  --sidebar-border: rgba(255, 255, 255, 0.08);
+  --sidebar-ring: #2a9d9a;
+}
+
+/* -------------------------------- Dark ---------------------------- */
+/* Light-first system; dark uses deep-petrol surfaces, never black.  */
+.dark {
+  --background: #0a2730;
+  --foreground: #eaf5f6;
+
+  --card: #103642;
+  --card-foreground: #eaf5f6;
+
+  --popover: #103642;
+  --popover-foreground: #eaf5f6;
+
+  --primary: #ff7043;
+  --primary-foreground: #ffffff;
+
+  --secondary: #17414e;
+  --secondary-foreground: #eaf5f6;
+
+  --muted: #16404c;
+  --muted-foreground: #9db6bc;
+
+  --accent: #17414e;
+  --accent-foreground: #d7edf1;
+
+  --destructive: #e5654f;
+
+  --border: rgba(255, 255, 255, 0.1);
+  --input: rgba(255, 255, 255, 0.14);
+  --ring: #2a9d9a;
+
+  --sidebar: #071f27;
+  --sidebar-foreground: rgba(255, 255, 255, 0.72);
+  --sidebar-primary: #ff7043;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #17414e;
+  --sidebar-accent-foreground: #eaf5f6;
+  --sidebar-border: rgba(255, 255, 255, 0.08);
+  --sidebar-ring: #2a9d9a;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply text-foreground;
+    font-family: var(--font-sans);
+    /* Extremely subtle mist gradient — almost white, with atmosphere */
+    background:
+      radial-gradient(
+        1200px 600px at 85% -5%,
+        rgba(42, 157, 154, 0.06),
+        transparent 60%
+      ),
+      linear-gradient(180deg, #f6fbfb 0%, #eef7f8 48%, #f8fcfc 100%);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  .dark body {
+    background:
+      radial-gradient(
+        1200px 600px at 85% -5%,
+        rgba(42, 157, 154, 0.12),
+        transparent 60%
+      ),
+      linear-gradient(180deg, #0b2c35 0%, #0a2730 50%, #0c303a 100%);
+    background-attachment: fixed;
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+  }
+}
+
+/* ------------------------- Brand helpers -------------------------- */
+@layer components {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  /* Airy application container */
+  .app-container {
+    width: 100%;
+    max-width: 1440px;
+    margin-inline: auto;
+    padding-inline: clamp(16px, 4vw, 32px);
+  }
+
+  /* Standard Sky Market card surface */
+  .sky-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    box-shadow:
+      0 2px 4px rgba(18, 60, 74, 0.02),
+      0 10px 30px rgba(18, 60, 74, 0.055);
+  }
+
+  /* Tangerine glow for the primary commerce action */
+  .shadow-tangerine {
+    box-shadow: 0 6px 16px rgba(255, 112, 67, 0.2);
+  }
+  .shadow-tangerine-lg {
+    box-shadow: 0 9px 22px rgba(255, 112, 67, 0.28);
+  }
+
+  /* Hand-drawn tangerine underline beneath phrases */
+  .brush-underline {
+    position: relative;
+    display: inline-block;
+  }
+  .brush-underline::after {
+    content: "";
+    position: absolute;
+    left: -2%;
+    right: -2%;
+    bottom: -0.12em;
+    height: 0.34em;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 20' preserveAspectRatio='none'%3E%3Cpath d='M4 13 C60 6 120 5 180 8 C230 10 270 11 296 7' stroke='%23FF7043' stroke-width='6' fill='none' stroke-linecap='round'/%3E%3C/svg%3E")
+      no-repeat center / 100% 100%;
+    pointer-events: none;
+  }
+
+  /* Food photography should feel richer than the quiet UI */
+  .food-image {
+    object-fit: cover;
+    transition: transform 320ms ease;
+  }
+  .group:hover .food-image {
+    transform: scale(1.04);
+  }
+
+  .glass-nav {
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: saturate(140%) blur(12px);
+  }
+  .dark .glass-nav {
+    background: rgba(10, 39, 48, 0.72);
+  }
+}
+
+@layer utilities {
+  .shadow-sky-sm {
+    box-shadow: 0 4px 12px rgba(18, 60, 74, 0.06);
+  }
+  .shadow-sky-md {
+    box-shadow: 0 10px 30px rgba(18, 60, 74, 0.08);
+  }
+  .shadow-sky-lg {
+    box-shadow: 0 22px 55px rgba(18, 60, 74, 0.1);
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Thin, on-brand scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c7dde0 transparent;
+}
