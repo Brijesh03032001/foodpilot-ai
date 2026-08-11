@@ -26,14 +26,18 @@
 
 ## TL;DR
 
-FoodPilot is **not** "a food chatbot using LangChain." It is a full-stack, four-tier product where every AI abstraction was adopted **only when a real feature forced it** — and the moments where a framework *stopped being enough* are documented, not hidden. The result is a system that reads like a product **and** a curriculum:
+**FoodPilot is not "a food chatbot using LangChain."** It's a full-stack, four-tier product where every AI abstraction was adopted **only when a real feature forced it** — and every point a framework *stopped being enough* is documented, not hidden. It reads like a product **and** a curriculum.
 
-- 🧠 **AI Concierge** — turns `"cheap spicy vegan lunch under $10"` into a validated query, then grounds an answer in a real 635-item menu via RAG.
-- 🛒 **Order Builder** — parses a messy multi-part order (`"3 Kalua Pork, add extra sauce to 1 only if it's under $1"`) into structured lines and resolves every modifier against real prices.
-- 📊 **Owner Copilot** — a tool-calling agent that answers `"why did Tokachi's sales drop?"` by querying SQL sales **and** semantically searching reviews, then synthesizing both.
-- 🔎 **Review Intelligence** — a map-reduce RAG pipeline that turns 150 unstructured reviews into a ranked, quantified complaint report an owner can act on.
+> ⚙️ **4 tiers** — Next.js → Spring Boot → FastAPI → LangChain/LangGraph  ·  📦 **107 trucks · 635 dishes · 2,622 modifiers**  ·  📚 **9 build phases, 2 documented "walls"**  ·  🛟 **degrades to local mocks when the AI is offline**
 
-Everything degrades gracefully: if the AI services are down, the frontend falls back to local mocks and keeps working.
+**What it does**
+
+|  | Feature | In one line |
+|---|---|---|
+| 🧠 | **AI Concierge** | `"cheap spicy vegan lunch under $10"` → validated query → grounded answer via RAG over 635 real dishes |
+| 🛒 | **Order Builder** | a messy multi-part order → structured lines; every modifier resolved against real prices and flagged ✓ / ✗ with a reason |
+| 📊 | **Owner Copilot** | `"why did sales drop?"` → an agent queries **SQL sales + vector reviews**, then synthesizes both |
+| 🔎 | **Review Intelligence** | 150 raw reviews → a ranked, quantified complaint report via map-reduce RAG |
 
 ---
 
