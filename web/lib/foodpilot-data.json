@@ -1,0 +1,3973 @@
+{
+ "generatedFrom": "real project data (data/*.json)",
+ "trucks": [
+  {
+   "id": "poke-delish-san-francisco-5",
+   "name": "Poke Delish",
+   "slug": "poke-delish-san-francisco-5",
+   "cuisines": [
+    "poke",
+    "hawaiian"
+   ],
+   "emoji": "🍥",
+   "rating": 4.5,
+   "review_count": 638,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 17,
+   "queue_min": 7,
+   "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+   "neighborhood": "San Francisco",
+   "lat": 37.77078160245556,
+   "lng": -122.39167220238846,
+   "phone": "(415) 988-2631",
+   "amenities": [
+    "dog_friendly",
+    "kid_friendly"
+   ],
+   "payment_methods": [
+    "card",
+    "cash",
+    "mobile"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": "11:00–17:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/fzo6FPFTd6npI8IJyoWZ5Q/l.jpg",
+   "photo": "/images/food-truck2.png",
+   "menu": [
+    {
+     "id": "mi-0012",
+     "name": "Kalua Pork Plate",
+     "category": "plate",
+     "emoji": "🍥",
+     "description": null,
+     "price": 13.4,
+     "dietary": [
+      "gluten-free",
+      "bestseller"
+     ],
+     "spice": null,
+     "calories": 628,
+     "protein_g": 34,
+     "prep_min": 10,
+     "popularity": 0.89,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "cheese sauce",
+      "lettuce",
+      "onion",
+      "rice"
+     ],
+     "removable": [
+      "cheese sauce",
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0007",
+     "name": "Spicy Salmon Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 13.81,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "hot",
+     "calories": 643,
+     "protein_g": 28,
+     "prep_min": 6,
+     "popularity": 0.57,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "lettuce",
+      "rice"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra meat",
+       "price": 2.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0008",
+     "name": "Ahi Tuna Poke Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 14.52,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 697,
+     "protein_g": 30,
+     "prep_min": 6,
+     "popularity": 0.54,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "bread",
+      "cabbage",
+      "chipotle mayo",
+      "lettuce"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0010",
+     "name": "Spam Musubi",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 4.35,
+     "dietary": [],
+     "spice": null,
+     "calories": 367,
+     "protein_g": 10,
+     "prep_min": 4,
+     "popularity": 0.52,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "cilantro",
+      "hot sauce",
+      "noodles",
+      "pork",
+      "tomato"
+     ],
+     "removable": [
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0011",
+     "name": "Tofu Veggie Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 11.5,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 432,
+     "protein_g": 16,
+     "prep_min": 6,
+     "popularity": 0.39,
+     "available": true,
+     "base_ingredients": [
+      "cheese sauce",
+      "lettuce",
+      "rice",
+      "tomato",
+      "turkey"
+     ],
+     "removable": [
+      "cheese sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0009",
+     "name": "Huli Huli Chicken",
+     "category": "plate",
+     "emoji": "🍥",
+     "description": null,
+     "price": 12.39,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 605,
+     "protein_g": 32,
+     "prep_min": 10,
+     "popularity": 0.32,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "tortilla",
+      "turkey"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0094",
+     "author": "Jose Nguyen",
+     "rating": 5,
+     "text": "Full of flavor.",
+     "sentiment": "positive",
+     "topics": [
+      "taste"
+     ],
+     "date": "2026-07-12"
+    }
+   ],
+   "sales": {
+    "revenue": 123.38,
+    "orders": 2,
+    "aov": 61.69,
+    "sales_by_day": [
+     {
+      "date": "2026-07-10",
+      "revenue": 55.22,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-15",
+      "revenue": 68.16,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Tofu Veggie Bowl",
+      "qty": 4,
+      "revenue": 49.0
+     },
+     {
+      "name": "Huli Huli Chicken",
+      "qty": 4,
+      "revenue": 49.56
+     },
+     {
+      "name": "Kalua Pork Plate",
+      "qty": 1,
+      "revenue": 14.9
+     }
+    ]
+   },
+   "avg_rating_reviews": 5.0,
+   "review_intel": {
+    "counts": {
+     "positive": 1,
+     "neutral": 0,
+     "negative": 0
+    },
+    "total": 1,
+    "complaints": [],
+    "examples": {},
+    "highlights": [
+     {
+      "author": "Jose Nguyen",
+      "rating": 5,
+      "text": "Full of flavor.",
+      "date": "2026-07-12"
+     }
+    ]
+   }
+  },
+  {
+   "id": "dinosaurs-san-francisco-5",
+   "name": "Dinosaurs",
+   "slug": "dinosaurs-san-francisco-5",
+   "cuisines": [
+    "vietnamese",
+    "sandwiches"
+   ],
+   "emoji": "🍜",
+   "rating": 4.2,
+   "review_count": null,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 14,
+   "queue_min": 5,
+   "address": "2275 Market St, San Francisco, CA, 94114",
+   "neighborhood": "San Francisco",
+   "lat": 37.764452,
+   "lng": -122.431978,
+   "phone": "(415) 503-1421",
+   "amenities": [
+    "catering_available",
+    "dog_friendly",
+    "wheelchair_accessible",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash",
+    "mobile"
+   ],
+   "order_type": [
+    "pickup",
+    "delivery"
+   ],
+   "hours_today": "10:00–19:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ufLY5MJV1wBmC98qXJOedQ/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0525",
+     "name": "Banh Mi",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 8.78,
+     "dietary": [
+      "bestseller"
+     ],
+     "spice": "mild",
+     "calories": 574,
+     "protein_g": 20,
+     "prep_min": 6,
+     "popularity": 0.85,
+     "available": true,
+     "base_ingredients": [
+      "bun",
+      "cabbage",
+      "pork",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0526",
+     "name": "Turkey Club",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 10.87,
+     "dietary": [],
+     "spice": null,
+     "calories": 641,
+     "protein_g": 28,
+     "prep_min": 7,
+     "popularity": 0.81,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "egg",
+      "hot sauce",
+      "tortilla"
+     ],
+     "removable": [
+      "hot sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      },
+      {
+       "name": "avocado",
+       "price": 1.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0528",
+     "name": "Beef Pho",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 12.3,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 638,
+     "protein_g": 26,
+     "prep_min": 10,
+     "popularity": 0.59,
+     "available": true,
+     "base_ingredients": [
+      "bread",
+      "onion",
+      "pork"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0527",
+     "name": "Italian Sub",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 11.36,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 642,
+     "protein_g": 26,
+     "prep_min": 7,
+     "popularity": 0.57,
+     "available": true,
+     "base_ingredients": [
+      "bun",
+      "cilantro",
+      "lettuce",
+      "turkey"
+     ],
+     "removable": [
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0523",
+     "name": "Spring Rolls (2)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 5.98,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 383,
+     "protein_g": 6,
+     "prep_min": 5,
+     "popularity": 0.24,
+     "available": false,
+     "base_ingredients": [
+      "corn",
+      "pork",
+      "rice",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0524",
+     "name": "Chips",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 2.45,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 333,
+     "protein_g": 2,
+     "prep_min": 1,
+     "popularity": 0.19,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "corn",
+      "lettuce",
+      "pork",
+      "potato"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0529",
+     "name": "Veggie Melt",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 9.4,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": null,
+     "calories": 550,
+     "protein_g": 14,
+     "prep_min": 7,
+     "popularity": 0.1,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "bun",
+      "corn",
+      "onion",
+      "turkey"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0145",
+     "author": "Mei Garcia",
+     "rating": 5,
+     "text": "Tbh, the crew was lovely.",
+     "sentiment": "positive",
+     "topics": [
+      "service"
+     ],
+     "date": "2026-07-27"
+    },
+    {
+     "id": "rev-0050",
+     "author": "Aisha Cohen",
+     "rating": 5,
+     "text": "Gotta say, the taste was on point. Loved it.",
+     "sentiment": "positive",
+     "topics": [
+      "taste"
+     ],
+     "date": "2026-07-22"
+    },
+    {
+     "id": "rev-0060",
+     "author": "Wei Reyes",
+     "rating": 5,
+     "text": "Honestly, very reasonable for what you get.",
+     "sentiment": "positive",
+     "topics": [
+      "value"
+     ],
+     "date": "2026-07-20"
+    },
+    {
+     "id": "rev-0083",
+     "author": "Maria Lopez",
+     "rating": 5,
+     "text": "Overall, way more than enough food. So good.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-15"
+    }
+   ],
+   "sales": {
+    "revenue": 147.62,
+    "orders": 5,
+    "aov": 29.52,
+    "sales_by_day": [
+     {
+      "date": "2026-07-12",
+      "revenue": 20.18,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-18",
+      "revenue": 41.61,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-20",
+      "revenue": 42.73,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-26",
+      "revenue": 39.89,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-05",
+      "revenue": 3.21,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Spring Rolls (2)",
+      "qty": 3,
+      "revenue": 20.44
+     },
+     {
+      "name": "Chips",
+      "qty": 3,
+      "revenue": 7.85
+     },
+     {
+      "name": "Beef Pho",
+      "qty": 3,
+      "revenue": 36.9
+     },
+     {
+      "name": "Turkey Club",
+      "qty": 2,
+      "revenue": 22.74
+     },
+     {
+      "name": "Banh Mi",
+      "qty": 2,
+      "revenue": 18.56
+     },
+     {
+      "name": "Italian Sub",
+      "qty": 2,
+      "revenue": 22.72
+     }
+    ]
+   },
+   "avg_rating_reviews": 5.0,
+   "review_intel": {
+    "counts": {
+     "positive": 4,
+     "neutral": 0,
+     "negative": 0
+    },
+    "total": 4,
+    "complaints": [],
+    "examples": {},
+    "highlights": [
+     {
+      "author": "Aisha Cohen",
+      "rating": 5,
+      "text": "Gotta say, the taste was on point. Loved it.",
+      "date": "2026-07-22"
+     },
+     {
+      "author": "Wei Reyes",
+      "rating": 5,
+      "text": "Honestly, very reasonable for what you get.",
+      "date": "2026-07-20"
+     },
+     {
+      "author": "Maria Lopez",
+      "rating": 5,
+      "text": "Overall, way more than enough food. So good.",
+      "date": "2026-07-15"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tokachi-musubi-san-francisco",
+   "name": "Tokachi Musubi",
+   "slug": "tokachi-musubi-san-francisco",
+   "cuisines": [
+    "japanese"
+   ],
+   "emoji": "🍡",
+   "rating": 4.1,
+   "review_count": 32,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 15,
+   "queue_min": 12,
+   "address": "1525 Cortland Ave, San Francisco, CA, 94110",
+   "neighborhood": "San Francisco",
+   "lat": 37.7401182,
+   "lng": -122.4091021,
+   "phone": "(415) 505-7997",
+   "amenities": [
+    "kid_friendly",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": "12:00–21:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9iee7QgrjIbfJwHkHhZBsw/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0285",
+     "name": "Gyoza (6pc)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.86,
+     "dietary": [
+      "bestseller"
+     ],
+     "spice": "mild",
+     "calories": 400,
+     "protein_g": 12,
+     "prep_min": 6,
+     "popularity": 0.94,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "egg",
+      "potato"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0288",
+     "name": "Salmon Poke Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 14.13,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 673,
+     "protein_g": 28,
+     "prep_min": 7,
+     "popularity": 0.77,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "bell pepper",
+      "rice"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0287",
+     "name": "Veggie Ramen",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 11.59,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": "mild",
+     "calories": 528,
+     "protein_g": 14,
+     "prep_min": 9,
+     "popularity": 0.72,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "bun",
+      "cabbage",
+      "onion",
+      "paneer"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0286",
+     "name": "Chicken Teriyaki Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 11.82,
+     "dietary": [],
+     "spice": null,
+     "calories": 572,
+     "protein_g": 30,
+     "prep_min": 8,
+     "popularity": 0.31,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "fish",
+      "onion",
+      "tortilla"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0017",
+     "author": "Jose Nguyen",
+     "rating": 5,
+     "text": "Gotta say, generous portions. So good.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-08-02"
+    },
+    {
+     "id": "rev-0049",
+     "author": "Carlos Silva",
+     "rating": 5,
+     "text": "Gotta say, one of the tastiest bites I've had lately.",
+     "sentiment": "positive",
+     "topics": [
+      "taste"
+     ],
+     "date": "2026-07-31"
+    },
+    {
+     "id": "rev-0001",
+     "author": "Raj Wong",
+     "rating": 2,
+     "text": "For me, the line moved so slowly.",
+     "sentiment": "negative",
+     "topics": [
+      "wait_time"
+     ],
+     "date": "2026-07-27"
+    },
+    {
+     "id": "rev-0067",
+     "author": "Jose Nguyen",
+     "rating": 5,
+     "text": "Tbh, welcoming and helpful staff.",
+     "sentiment": "positive",
+     "topics": [
+      "service"
+     ],
+     "date": "2026-07-27"
+    },
+    {
+     "id": "rev-0011",
+     "author": "Ben Torres",
+     "rating": 5,
+     "text": "For me, friendly, welcoming staff.",
+     "sentiment": "positive",
+     "topics": [
+      "service"
+     ],
+     "date": "2026-07-23"
+    }
+   ],
+   "sales": {
+    "revenue": 197.35,
+    "orders": 6,
+    "aov": 32.89,
+    "sales_by_day": [
+     {
+      "date": "2026-07-20",
+      "revenue": 38.08,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-26",
+      "revenue": 28.3,
+      "orders": 2
+     },
+     {
+      "date": "2026-07-31",
+      "revenue": 25.71,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-01",
+      "revenue": 64.89,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-07",
+      "revenue": 40.37,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Gyoza (6pc)",
+      "qty": 6,
+      "revenue": 48.16
+     },
+     {
+      "name": "Veggie Ramen",
+      "qty": 5,
+      "revenue": 59.45
+     },
+     {
+      "name": "Salmon Poke Bowl",
+      "qty": 2,
+      "revenue": 28.26
+     },
+     {
+      "name": "Chicken Teriyaki Bowl",
+      "qty": 2,
+      "revenue": 23.64
+     }
+    ]
+   },
+   "avg_rating_reviews": 4.4,
+   "review_intel": {
+    "counts": {
+     "positive": 4,
+     "neutral": 0,
+     "negative": 1
+    },
+    "total": 5,
+    "complaints": [
+     {
+      "topic": "wait_time",
+      "count": 1,
+      "pct": 100.0
+     }
+    ],
+    "examples": {
+     "wait_time": [
+      {
+       "author": "Raj Wong",
+       "rating": 2,
+       "text": "For me, the line moved so slowly.",
+       "date": "2026-07-27"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Ben Torres",
+      "rating": 5,
+      "text": "For me, friendly, welcoming staff.",
+      "date": "2026-07-23"
+     },
+     {
+      "author": "Jose Nguyen",
+      "rating": 5,
+      "text": "Gotta say, generous portions. So good.",
+      "date": "2026-08-02"
+     },
+     {
+      "author": "Carlos Silva",
+      "rating": 5,
+      "text": "Gotta say, one of the tastiest bites I've had lately.",
+      "date": "2026-07-31"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mexi-cali-san-francisco",
+   "name": "Mexi-Cali",
+   "slug": "mexi-cali-san-francisco",
+   "cuisines": [
+    "mexican"
+   ],
+   "emoji": "🌮",
+   "rating": 4.6,
+   "review_count": 14,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 15,
+   "queue_min": 5,
+   "address": "1288 19th Ave, San Francisco, CA, 94122",
+   "neighborhood": "San Francisco",
+   "lat": 37.76387520000001,
+   "lng": -122.4766751,
+   "phone": "(415) 660-0469",
+   "amenities": [
+    "dog_friendly",
+    "seating_available",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup",
+    "delivery"
+   ],
+   "hours_today": null,
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/GbZauOoXNXM8IGCyBhHdpA/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0123",
+     "name": "Chips & Guacamole",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.57,
+     "dietary": [
+      "vegan",
+      "gluten-free",
+      "bestseller"
+     ],
+     "spice": "mild",
+     "calories": 220,
+     "protein_g": 4,
+     "prep_min": 4,
+     "popularity": 0.85,
+     "available": true,
+     "base_ingredients": [
+      "cheese sauce",
+      "cilantro",
+      "corn",
+      "pork",
+      "tomato",
+      "tortilla"
+     ],
+     "removable": [
+      "cheese sauce",
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0120",
+     "name": "Carne Asada Taco",
+     "category": "taco",
+     "emoji": "🌮",
+     "description": null,
+     "price": 4.44,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "medium",
+     "calories": 483,
+     "protein_g": 18,
+     "prep_min": 6,
+     "popularity": 0.77,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "bun",
+      "cabbage",
+      "chicken"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0121",
+     "name": "Carnitas Quesadilla",
+     "category": "quesadilla",
+     "emoji": "🌮",
+     "description": null,
+     "price": 9.72,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 595,
+     "protein_g": 22,
+     "prep_min": 8,
+     "popularity": 0.62,
+     "available": true,
+     "base_ingredients": [
+      "bread",
+      "onion",
+      "turkey"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0124",
+     "name": "Chicken Burrito",
+     "category": "burrito",
+     "emoji": "🌮",
+     "description": null,
+     "price": 10.76,
+     "dietary": [],
+     "spice": "medium",
+     "calories": 578,
+     "protein_g": 34,
+     "prep_min": 9,
+     "popularity": 0.49,
+     "available": true,
+     "base_ingredients": [
+      "cheese sauce",
+      "lettuce",
+      "tortilla",
+      "turkey"
+     ],
+     "removable": [
+      "cheese sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0122",
+     "name": "Veggie Taco",
+     "category": "taco",
+     "emoji": "🌮",
+     "description": null,
+     "price": 3.87,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 277,
+     "protein_g": 7,
+     "prep_min": 5,
+     "popularity": 0.46,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "lettuce",
+      "noodles",
+      "onion",
+      "tofu"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0125",
+     "name": "Horchata",
+     "category": "drink",
+     "emoji": "🥤",
+     "description": null,
+     "price": 3.39,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 217,
+     "protein_g": 2,
+     "prep_min": 2,
+     "popularity": 0.41,
+     "available": false,
+     "base_ingredients": [
+      "flavor syrup",
+      "ice"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "flavor syrup",
+       "price": 0.5
+      }
+     ]
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0069",
+     "author": "Jose Nguyen",
+     "rating": 4,
+     "text": "Really good value. Loved it.",
+     "sentiment": "positive",
+     "topics": [
+      "value"
+     ],
+     "date": "2026-08-07"
+    },
+    {
+     "id": "rev-0100",
+     "author": "Luca Yamamoto",
+     "rating": 1,
+     "text": "For me, could not find a spot. Bummer.",
+     "sentiment": "negative",
+     "topics": [
+      "parking"
+     ],
+     "date": "2026-08-06"
+    },
+    {
+     "id": "rev-0009",
+     "author": "Ben Garcia",
+     "rating": 5,
+     "text": "Gotta say, the value is fantastic.",
+     "sentiment": "positive",
+     "topics": [
+      "value"
+     ],
+     "date": "2026-07-25"
+    },
+    {
+     "id": "rev-0053",
+     "author": "Jose Silva",
+     "rating": 5,
+     "text": "Overall, a huge, filling serving. So good.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-22"
+    },
+    {
+     "id": "rev-0098",
+     "author": "Ben Reyes",
+     "rating": 2,
+     "text": "Gotta say, could not find a spot.",
+     "sentiment": "negative",
+     "topics": [
+      "parking"
+     ],
+     "date": "2026-07-21"
+    },
+    {
+     "id": "rev-0036",
+     "author": "Luca Park",
+     "rating": 5,
+     "text": "The serving was massive.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-10"
+    }
+   ],
+   "sales": {
+    "revenue": 158.17,
+    "orders": 6,
+    "aov": 26.36,
+    "sales_by_day": [
+     {
+      "date": "2026-07-10",
+      "revenue": 9.28,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-19",
+      "revenue": 25.53,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-20",
+      "revenue": 25.76,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-22",
+      "revenue": 60.26,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-04",
+      "revenue": 13.87,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-05",
+      "revenue": 23.47,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Carne Asada Taco",
+      "qty": 8,
+      "revenue": 37.52
+     },
+     {
+      "name": "Veggie Taco",
+      "qty": 5,
+      "revenue": 19.35
+     },
+     {
+      "name": "Carnitas Quesadilla",
+      "qty": 3,
+      "revenue": 32.16
+     },
+     {
+      "name": "Chicken Burrito",
+      "qty": 3,
+      "revenue": 32.28
+     },
+     {
+      "name": "Horchata",
+      "qty": 3,
+      "revenue": 11.92
+     }
+    ]
+   },
+   "avg_rating_reviews": 3.67,
+   "review_intel": {
+    "counts": {
+     "positive": 4,
+     "neutral": 0,
+     "negative": 2
+    },
+    "total": 6,
+    "complaints": [
+     {
+      "topic": "parking",
+      "count": 2,
+      "pct": 100.0
+     }
+    ],
+    "examples": {
+     "parking": [
+      {
+       "author": "Ben Reyes",
+       "rating": 2,
+       "text": "Gotta say, could not find a spot.",
+       "date": "2026-07-21"
+      },
+      {
+       "author": "Luca Yamamoto",
+       "rating": 1,
+       "text": "For me, could not find a spot. Bummer.",
+       "date": "2026-08-06"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Ben Garcia",
+      "rating": 5,
+      "text": "Gotta say, the value is fantastic.",
+      "date": "2026-07-25"
+     },
+     {
+      "author": "Luca Park",
+      "rating": 5,
+      "text": "The serving was massive.",
+      "date": "2026-07-10"
+     },
+     {
+      "author": "Jose Silva",
+      "rating": 5,
+      "text": "Overall, a huge, filling serving. So good.",
+      "date": "2026-07-22"
+     }
+    ]
+   }
+  },
+  {
+   "id": "el-farolito-san-francisco-2",
+   "name": "El Farolito",
+   "slug": "el-farolito-san-francisco-2",
+   "cuisines": [
+    "mexican",
+    "seafood",
+    "steakhouses"
+   ],
+   "emoji": "🌮",
+   "rating": 4.2,
+   "review_count": null,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 8,
+   "queue_min": 5,
+   "address": "2779 Mission St, San Francisco, CA, 94110",
+   "neighborhood": "San Francisco",
+   "lat": 37.752654,
+   "lng": -122.4182227,
+   "phone": "(415) 824-7877",
+   "amenities": [
+    "catering_available",
+    "seating_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": "10:00–02:45",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/G0F5q5UCPzePqK0Tv1q86g/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0171",
+     "name": "Fish & Chips",
+     "category": "plate",
+     "emoji": "🌮",
+     "description": null,
+     "price": 13.42,
+     "dietary": [
+      "bestseller"
+     ],
+     "spice": null,
+     "calories": 691,
+     "protein_g": 26,
+     "prep_min": 10,
+     "popularity": 0.9,
+     "available": true,
+     "base_ingredients": [
+      "chicken",
+      "corn",
+      "onion",
+      "tortilla"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "avocado",
+       "price": 1.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0173",
+     "name": "Chicken Burrito",
+     "category": "burrito",
+     "emoji": "🌮",
+     "description": null,
+     "price": 11.01,
+     "dietary": [],
+     "spice": "medium",
+     "calories": 578,
+     "protein_g": 34,
+     "prep_min": 9,
+     "popularity": 0.82,
+     "available": true,
+     "base_ingredients": [
+      "cheese sauce",
+      "corn",
+      "paneer",
+      "rice"
+     ],
+     "removable": [
+      "cheese sauce"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0168",
+     "name": "Cheese Fries",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.73,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": null,
+     "calories": 359,
+     "protein_g": 9,
+     "prep_min": 7,
+     "popularity": 0.38,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "shrimp",
+      "tortilla"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0169",
+     "name": "Elote (Street Corn)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 5.03,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 258,
+     "protein_g": 5,
+     "prep_min": 5,
+     "popularity": 0.33,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "potato",
+      "tofu"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0172",
+     "name": "Carne Asada Taco",
+     "category": "taco",
+     "emoji": "🌮",
+     "description": null,
+     "price": 4.4,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "medium",
+     "calories": 460,
+     "protein_g": 18,
+     "prep_min": 6,
+     "popularity": 0.27,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "cheese sauce",
+      "noodles",
+      "pork",
+      "tomato"
+     ],
+     "removable": [
+      "cheese sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0174",
+     "name": "Chips & Guacamole",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.8,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 224,
+     "protein_g": 4,
+     "prep_min": 4,
+     "popularity": 0.26,
+     "available": true,
+     "base_ingredients": [
+      "bun",
+      "chicken",
+      "onion",
+      "teriyaki sauce"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0170",
+     "name": "Carnitas Quesadilla",
+     "category": "quesadilla",
+     "emoji": "🌮",
+     "description": null,
+     "price": 9.72,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 483,
+     "protein_g": 22,
+     "prep_min": 8,
+     "popularity": 0.14,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "cabbage",
+      "potato",
+      "tomato",
+      "turkey"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0025",
+     "author": "Ben Garcia",
+     "rating": 1,
+     "text": "For me, too expensive. Won't be back.",
+     "sentiment": "negative",
+     "topics": [
+      "pricing"
+     ],
+     "date": "2026-08-03"
+    },
+    {
+     "id": "rev-0137",
+     "author": "Nadia Patel",
+     "rating": 5,
+     "text": "Solid bang for your buck. Loved it.",
+     "sentiment": "positive",
+     "topics": [
+      "value"
+     ],
+     "date": "2026-07-21"
+    }
+   ],
+   "sales": {
+    "revenue": 121.35,
+    "orders": 5,
+    "aov": 24.27,
+    "sales_by_day": [
+     {
+      "date": "2026-07-17",
+      "revenue": 7.32,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-20",
+      "revenue": 47.85,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-25",
+      "revenue": 40.15,
+      "orders": 2
+     },
+     {
+      "date": "2026-08-01",
+      "revenue": 26.03,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Carnitas Quesadilla",
+      "qty": 4,
+      "revenue": 49.38
+     },
+     {
+      "name": "Chips & Guacamole",
+      "qty": 3,
+      "revenue": 24.4
+     },
+     {
+      "name": "Elote (Street Corn)",
+      "qty": 2,
+      "revenue": 10.06
+     },
+     {
+      "name": "Chicken Burrito",
+      "qty": 1,
+      "revenue": 11.01
+     },
+     {
+      "name": "Cheese Fries",
+      "qty": 1,
+      "revenue": 6.73
+     }
+    ]
+   },
+   "avg_rating_reviews": 3.0,
+   "review_intel": {
+    "counts": {
+     "positive": 1,
+     "neutral": 0,
+     "negative": 1
+    },
+    "total": 2,
+    "complaints": [
+     {
+      "topic": "pricing",
+      "count": 1,
+      "pct": 100.0
+     }
+    ],
+    "examples": {
+     "pricing": [
+      {
+       "author": "Ben Garcia",
+       "rating": 1,
+       "text": "For me, too expensive. Won't be back.",
+       "date": "2026-08-03"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Nadia Patel",
+      "rating": 5,
+      "text": "Solid bang for your buck. Loved it.",
+      "date": "2026-07-21"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tito-tacos-san-francisco",
+   "name": "Tito Tacos",
+   "slug": "tito-tacos-san-francisco",
+   "cuisines": [
+    "mexican"
+   ],
+   "emoji": "🌮",
+   "rating": 5.0,
+   "review_count": 3,
+   "price_tier": "$$",
+   "status": "offline",
+   "prep_min": 10,
+   "queue_min": null,
+   "address": "2890 3rd St, San Francisco, CA, 94107",
+   "neighborhood": "San Francisco",
+   "lat": 37.75287769626372,
+   "lng": -122.38813818567783,
+   "phone": "(415) 532-5665",
+   "amenities": [
+    "catering_available",
+    "dog_friendly",
+    "kid_friendly",
+    "wheelchair_accessible"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": null,
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/q_Rjja7HNlDLoxF6NomyWA/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0394",
+     "name": "Elote (Street Corn)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 5.15,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 391,
+     "protein_g": 5,
+     "prep_min": 5,
+     "popularity": 0.77,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "bread",
+      "chicken",
+      "lettuce",
+      "salsa",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0395",
+     "name": "Carne Asada Taco",
+     "category": "taco",
+     "emoji": "🌮",
+     "description": null,
+     "price": 4.21,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "medium",
+     "calories": 498,
+     "protein_g": 18,
+     "prep_min": 6,
+     "popularity": 0.55,
+     "available": true,
+     "base_ingredients": [
+      "cilantro",
+      "corn",
+      "rice",
+      "shrimp"
+     ],
+     "removable": [
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0396",
+     "name": "Horchata",
+     "category": "drink",
+     "emoji": "🥤",
+     "description": null,
+     "price": 3.63,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 373,
+     "protein_g": 2,
+     "prep_min": 2,
+     "popularity": 0.25,
+     "available": true,
+     "base_ingredients": [
+      "ice",
+      "water"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0397",
+     "name": "Chicken Burrito",
+     "category": "burrito",
+     "emoji": "🌮",
+     "description": null,
+     "price": 11.14,
+     "dietary": [],
+     "spice": "medium",
+     "calories": 643,
+     "protein_g": 34,
+     "prep_min": 9,
+     "popularity": 0.21,
+     "available": true,
+     "base_ingredients": [
+      "rice",
+      "tofu",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      },
+      {
+       "name": "avocado",
+       "price": 1.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0393",
+     "name": "Carnitas Quesadilla",
+     "category": "quesadilla",
+     "emoji": "🌮",
+     "description": null,
+     "price": 9.75,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 428,
+     "protein_g": 22,
+     "prep_min": 8,
+     "popularity": 0.2,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "cabbage",
+      "chipotle mayo",
+      "tofu",
+      "tortilla"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0398",
+     "name": "Chips & Guacamole",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.36,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 345,
+     "protein_g": 4,
+     "prep_min": 4,
+     "popularity": 0.16,
+     "available": true,
+     "base_ingredients": [
+      "chipotle mayo",
+      "paneer",
+      "tomato",
+      "tortilla"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0028",
+     "author": "Mei Singh",
+     "rating": 5,
+     "text": "For me, super friendly team. So good.",
+     "sentiment": "positive",
+     "topics": [
+      "service"
+     ],
+     "date": "2026-07-29"
+    },
+    {
+     "id": "rev-0078",
+     "author": "Maria Lopez",
+     "rating": 2,
+     "text": "For me, impossible to find parking nearby.",
+     "sentiment": "negative",
+     "topics": [
+      "parking"
+     ],
+     "date": "2026-07-17"
+    },
+    {
+     "id": "rev-0086",
+     "author": "Ben Torres",
+     "rating": 5,
+     "text": "Gotta say, really kind service. Highly recommend.",
+     "sentiment": "positive",
+     "topics": [
+      "service"
+     ],
+     "date": "2026-07-16"
+    },
+    {
+     "id": "rev-0143",
+     "author": "Grace Nguyen",
+     "rating": 2,
+     "text": "Tbh, the serving was small. Expected better.",
+     "sentiment": "negative",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-13"
+    }
+   ],
+   "sales": {
+    "revenue": 112.79,
+    "orders": 5,
+    "aov": 22.56,
+    "sales_by_day": [
+     {
+      "date": "2026-07-09",
+      "revenue": 21.93,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-11",
+      "revenue": 30.51,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-15",
+      "revenue": 24.67,
+      "orders": 2
+     },
+     {
+      "date": "2026-07-28",
+      "revenue": 35.68,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Carnitas Quesadilla",
+      "qty": 5,
+      "revenue": 51.25
+     },
+     {
+      "name": "Carne Asada Taco",
+      "qty": 4,
+      "revenue": 18.84
+     },
+     {
+      "name": "Elote (Street Corn)",
+      "qty": 2,
+      "revenue": 11.3
+     },
+     {
+      "name": "Chips & Guacamole",
+      "qty": 2,
+      "revenue": 12.72
+     }
+    ]
+   },
+   "avg_rating_reviews": 3.5,
+   "review_intel": {
+    "counts": {
+     "positive": 2,
+     "neutral": 0,
+     "negative": 2
+    },
+    "total": 4,
+    "complaints": [
+     {
+      "topic": "parking",
+      "count": 1,
+      "pct": 50.0
+     },
+     {
+      "topic": "portion",
+      "count": 1,
+      "pct": 50.0
+     }
+    ],
+    "examples": {
+     "parking": [
+      {
+       "author": "Maria Lopez",
+       "rating": 2,
+       "text": "For me, impossible to find parking nearby.",
+       "date": "2026-07-17"
+      }
+     ],
+     "portion": [
+      {
+       "author": "Grace Nguyen",
+       "rating": 2,
+       "text": "Tbh, the serving was small. Expected better.",
+       "date": "2026-07-13"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Mei Singh",
+      "rating": 5,
+      "text": "For me, super friendly team. So good.",
+      "date": "2026-07-29"
+     },
+     {
+      "author": "Ben Torres",
+      "rating": 5,
+      "text": "Gotta say, really kind service. Highly recommend.",
+      "date": "2026-07-16"
+     }
+    ]
+   }
+  },
+  {
+   "id": "koja-kitchen-sf-spark-san-francisco",
+   "name": "KoJa Kitchen SF Spark",
+   "slug": "koja-kitchen-sf-spark-san-francisco",
+   "cuisines": [
+    "korean",
+    "asian_fusion",
+    "japanese"
+   ],
+   "emoji": "🍜",
+   "rating": 4.5,
+   "review_count": 638,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 10,
+   "queue_min": 12,
+   "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+   "neighborhood": "San Francisco",
+   "lat": 37.77076,
+   "lng": -122.391709,
+   "phone": "(415) 830-3944",
+   "amenities": [
+    "kid_friendly",
+    "wheelchair_accessible",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup",
+    "delivery"
+   ],
+   "hours_today": "11:00–17:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/v7ZuQ7FfiA1CJxztIxsWVA/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0020",
+     "name": "Korean Fried Chicken",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 10.88,
+     "dietary": [],
+     "spice": "medium",
+     "calories": 473,
+     "protein_g": 26,
+     "prep_min": 10,
+     "popularity": 0.74,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "bell pepper",
+      "bread",
+      "cilantro",
+      "onion",
+      "pork"
+     ],
+     "removable": [
+      "cilantro",
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0021",
+     "name": "Gyoza (6pc)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 7.03,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 516,
+     "protein_g": 12,
+     "prep_min": 6,
+     "popularity": 0.73,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "bell pepper",
+      "bread",
+      "cilantro",
+      "egg",
+      "lettuce"
+     ],
+     "removable": [
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0017",
+     "name": "Veggie Ramen",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 11.27,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": "mild",
+     "calories": 365,
+     "protein_g": 14,
+     "prep_min": 9,
+     "popularity": 0.58,
+     "available": true,
+     "base_ingredients": [
+      "chicken",
+      "corn",
+      "onion",
+      "potato"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0013",
+     "name": "Chicken Teriyaki Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 12.09,
+     "dietary": [],
+     "spice": null,
+     "calories": 533,
+     "protein_g": 30,
+     "prep_min": 8,
+     "popularity": 0.54,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "bell pepper",
+      "bun",
+      "egg",
+      "lettuce"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0015",
+     "name": "Kimchi Fried Rice",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 10.52,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": "medium",
+     "calories": 378,
+     "protein_g": 12,
+     "prep_min": 8,
+     "popularity": 0.48,
+     "available": true,
+     "base_ingredients": [
+      "corn",
+      "fish",
+      "tortilla"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0016",
+     "name": "Japchae",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 9.97,
+     "dietary": [
+      "vegan"
+     ],
+     "spice": "mild",
+     "calories": 430,
+     "protein_g": 8,
+     "prep_min": 8,
+     "popularity": 0.38,
+     "available": true,
+     "base_ingredients": [
+      "cilantro",
+      "egg",
+      "noodles",
+      "onion"
+     ],
+     "removable": [
+      "cilantro",
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      },
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0018",
+     "name": "Spicy Pork Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 12.64,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "hot",
+     "calories": 704,
+     "protein_g": 30,
+     "prep_min": 9,
+     "popularity": 0.35,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "egg",
+      "hot sauce",
+      "noodles",
+      "tomato"
+     ],
+     "removable": [
+      "hot sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      },
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0014",
+     "name": "Salmon Poke Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 13.94,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 580,
+     "protein_g": 28,
+     "prep_min": 7,
+     "popularity": 0.32,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "avocado",
+      "bun",
+      "cabbage",
+      "shrimp"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0019",
+     "name": "Bulgogi Beef Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 12.87,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "medium",
+     "calories": 592,
+     "protein_g": 32,
+     "prep_min": 9,
+     "popularity": 0.19,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "onion",
+      "pork",
+      "salsa",
+      "tomato",
+      "tortilla"
+     ],
+     "removable": [
+      "onion"
+     ],
+     "add_ons": []
+    }
+   ],
+   "reviews": [],
+   "sales": {
+    "revenue": 0,
+    "orders": 0,
+    "aov": 0,
+    "sales_by_day": [],
+    "top_items": []
+   },
+   "avg_rating_reviews": null,
+   "review_intel": {
+    "counts": {
+     "positive": 0,
+     "neutral": 0,
+     "negative": 0
+    },
+    "total": 0,
+    "complaints": [],
+    "examples": {},
+    "highlights": []
+   }
+  },
+  {
+   "id": "aunty-vickys-san-francisco",
+   "name": "Aunty Vickys",
+   "slug": "aunty-vickys-san-francisco",
+   "cuisines": [
+    "filipino",
+    "vietnamese"
+   ],
+   "emoji": "🍗",
+   "rating": 4.8,
+   "review_count": 17,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 13,
+   "queue_min": 10,
+   "address": "991 Tennessee St, San Francisco, CA, 94107",
+   "neighborhood": "San Francisco",
+   "lat": 37.7597910889649,
+   "lng": -122.389293044509,
+   "phone": "(415) 350-8875",
+   "amenities": [
+    "dog_friendly",
+    "kid_friendly"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": null,
+   "blurb": "17 reviews and 14 photos of AUNTY VICKYS \"I came to Aunty vickys on opening day. I was invited by my girlfriend and her parents who's family friends invited us. There was a lot of people and a long wait and it was WELL w",
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pKd2ImSNc0F6_e53k8NLsA/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0031",
+     "name": "Veggie Wrap",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 9.08,
+     "dietary": [
+      "vegetarian"
+     ],
+     "spice": null,
+     "calories": 402,
+     "protein_g": 12,
+     "prep_min": 6,
+     "popularity": 0.7,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "avocado",
+      "paneer",
+      "rice"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      },
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0028",
+     "name": "Soft Drink",
+     "category": "drink",
+     "emoji": "🥤",
+     "description": null,
+     "price": 2.34,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 224,
+     "protein_g": 0,
+     "prep_min": 1,
+     "popularity": 0.6,
+     "available": true,
+     "base_ingredients": [
+      "flavor syrup"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "flavor syrup",
+       "price": 0.5
+      },
+      {
+       "name": "extra shot",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0033",
+     "name": "Grilled Chicken Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 11.3,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 679,
+     "protein_g": 32,
+     "prep_min": 9,
+     "popularity": 0.38,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "hot sauce",
+      "lettuce",
+      "noodles",
+      "pork"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      },
+      {
+       "name": "extra meat",
+       "price": 2.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0029",
+     "name": "House Burger",
+     "category": "burger",
+     "emoji": "🍔",
+     "description": null,
+     "price": 11.06,
+     "dietary": [],
+     "spice": null,
+     "calories": 654,
+     "protein_g": 27,
+     "prep_min": 9,
+     "popularity": 0.36,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "corn",
+      "noodles",
+      "pork",
+      "tomato"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0032",
+     "name": "Bottled Water",
+     "category": "drink",
+     "emoji": "🥤",
+     "description": null,
+     "price": 1.83,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 156,
+     "protein_g": 0,
+     "prep_min": 1,
+     "popularity": 0.23,
+     "available": false,
+     "base_ingredients": [
+      "flavor syrup",
+      "water"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "flavor syrup",
+       "price": 0.5
+      },
+      {
+       "name": "extra shot",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0030",
+     "name": "French Fries",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 4.72,
+     "dietary": [
+      "vegan"
+     ],
+     "spice": null,
+     "calories": 277,
+     "protein_g": 5,
+     "prep_min": 6,
+     "popularity": 0.16,
+     "available": true,
+     "base_ingredients": [
+      "avocado",
+      "noodles",
+      "paneer",
+      "tomato"
+     ],
+     "removable": [
+      "avocado"
+     ],
+     "add_ons": []
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0007",
+     "author": "Maria Martinez",
+     "rating": 5,
+     "text": "Full of flavor. Loved it.",
+     "sentiment": "positive",
+     "topics": [
+      "taste"
+     ],
+     "date": "2026-08-09"
+    },
+    {
+     "id": "rev-0026",
+     "author": "Maria Lopez",
+     "rating": 5,
+     "text": "Honestly, worth every penny.",
+     "sentiment": "positive",
+     "topics": [
+      "value"
+     ],
+     "date": "2026-08-07"
+    }
+   ],
+   "sales": {
+    "revenue": 32.63,
+    "orders": 2,
+    "aov": 16.32,
+    "sales_by_day": [
+     {
+      "date": "2026-08-05",
+      "revenue": 8.31,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-07",
+      "revenue": 24.32,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Bottled Water",
+      "qty": 2,
+      "revenue": 3.66
+     },
+     {
+      "name": "House Burger",
+      "qty": 1,
+      "revenue": 11.06
+     },
+     {
+      "name": "Grilled Chicken Bowl",
+      "qty": 1,
+      "revenue": 11.3
+     },
+     {
+      "name": "Soft Drink",
+      "qty": 1,
+      "revenue": 3.34
+     }
+    ]
+   },
+   "avg_rating_reviews": 5.0,
+   "review_intel": {
+    "counts": {
+     "positive": 2,
+     "neutral": 0,
+     "negative": 0
+    },
+    "total": 2,
+    "complaints": [],
+    "examples": {},
+    "highlights": [
+     {
+      "author": "Maria Martinez",
+      "rating": 5,
+      "text": "Full of flavor. Loved it.",
+      "date": "2026-08-09"
+     },
+     {
+      "author": "Maria Lopez",
+      "rating": 5,
+      "text": "Honestly, worth every penny.",
+      "date": "2026-08-07"
+     }
+    ]
+   }
+  },
+  {
+   "id": "wicked-star-san-francisco",
+   "name": "Wicked Star",
+   "slug": "wicked-star-san-francisco",
+   "cuisines": [
+    "thai",
+    "vietnamese"
+   ],
+   "emoji": "🍛",
+   "rating": 3.4,
+   "review_count": 131,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 10,
+   "queue_min": 5,
+   "address": "601 Mission Bay Blvd N, San Francisco, CA, 94158",
+   "neighborhood": "San Francisco",
+   "lat": 37.770882,
+   "lng": -122.393249,
+   "phone": "(415) 800-4620",
+   "amenities": [
+    "catering_available",
+    "wheelchair_accessible",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card"
+   ],
+   "order_type": [
+    "pickup",
+    "delivery"
+   ],
+   "hours_today": "11:00–17:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EG6Antlmcqh5hTxieKLePA/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0475",
+     "name": "Spring Rolls (2)",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.22,
+     "dietary": [
+      "vegan",
+      "gluten-free",
+      "bestseller"
+     ],
+     "spice": null,
+     "calories": 289,
+     "protein_g": 6,
+     "prep_min": 5,
+     "popularity": 0.89,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "potato",
+      "salsa",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0480",
+     "name": "Green Curry",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 12.49,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "hot",
+     "calories": 636,
+     "protein_g": 22,
+     "prep_min": 9,
+     "popularity": 0.73,
+     "available": true,
+     "base_ingredients": [
+      "corn",
+      "fish",
+      "hot sauce",
+      "onion",
+      "rice",
+      "tomato"
+     ],
+     "removable": [
+      "hot sauce",
+      "onion"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0477",
+     "name": "Beef Pho",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 12.57,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 563,
+     "protein_g": 26,
+     "prep_min": 10,
+     "popularity": 0.71,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "cabbage",
+      "noodles",
+      "tofu",
+      "tomato"
+     ],
+     "removable": [],
+     "add_ons": []
+    },
+    {
+     "id": "mi-0476",
+     "name": "Mango Sticky Rice",
+     "category": "dessert",
+     "emoji": "🍨",
+     "description": null,
+     "price": 6.49,
+     "dietary": [
+      "vegan",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 268,
+     "protein_g": 4,
+     "prep_min": 4,
+     "popularity": 0.65,
+     "available": true,
+     "base_ingredients": [
+      "chocolate",
+      "flour",
+      "sugar"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "scoop of ice cream",
+       "price": 2.0
+      },
+      {
+       "name": "extra topping",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0479",
+     "name": "Banh Mi",
+     "category": "sandwich",
+     "emoji": "🥪",
+     "description": null,
+     "price": 8.92,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 469,
+     "protein_g": 20,
+     "prep_min": 6,
+     "popularity": 0.4,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "bread",
+      "corn",
+      "egg"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0478",
+     "name": "Pad Thai",
+     "category": "noodles",
+     "emoji": "🍜",
+     "description": null,
+     "price": 11.9,
+     "dietary": [],
+     "spice": "mild",
+     "calories": 625,
+     "protein_g": 20,
+     "prep_min": 8,
+     "popularity": 0.31,
+     "available": true,
+     "base_ingredients": [
+      "beef",
+      "bell pepper",
+      "bun",
+      "hot sauce"
+     ],
+     "removable": [
+      "hot sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "avocado",
+       "price": 1.5
+      }
+     ]
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0084",
+     "author": "Raj Chen",
+     "rating": 1,
+     "text": "A small portion for sure. Won't be back.",
+     "sentiment": "negative",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-08-04"
+    },
+    {
+     "id": "rev-0008",
+     "author": "Tomas Ali",
+     "rating": 5,
+     "text": "For me, big serving, loads of food.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-08-03"
+    },
+    {
+     "id": "rev-0144",
+     "author": "Aisha Park",
+     "rating": 2,
+     "text": "For me, prices felt high. Expected better.",
+     "sentiment": "negative",
+     "topics": [
+      "pricing"
+     ],
+     "date": "2026-07-30"
+    },
+    {
+     "id": "rev-0132",
+     "author": "Maria Silva",
+     "rating": 5,
+     "text": "Plenty on the plate. Highly recommend.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-14"
+    },
+    {
+     "id": "rev-0010",
+     "author": "Diego Ahmed",
+     "rating": 5,
+     "text": "Tbh, more food than I expected. Highly recommend.",
+     "sentiment": "positive",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-07-12"
+    }
+   ],
+   "sales": {
+    "revenue": 180.95,
+    "orders": 5,
+    "aov": 36.19,
+    "sales_by_day": [
+     {
+      "date": "2026-07-09",
+      "revenue": 14.12,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-11",
+      "revenue": 11.04,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-27",
+      "revenue": 45.52,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-31",
+      "revenue": 78.4,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-02",
+      "revenue": 31.87,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Mango Sticky Rice",
+      "qty": 4,
+      "revenue": 25.96
+     },
+     {
+      "name": "Beef Pho",
+      "qty": 3,
+      "revenue": 39.21
+     },
+     {
+      "name": "Banh Mi",
+      "qty": 3,
+      "revenue": 30.76
+     },
+     {
+      "name": "Green Curry",
+      "qty": 2,
+      "revenue": 24.98
+     },
+     {
+      "name": "Pad Thai",
+      "qty": 2,
+      "revenue": 23.8
+     }
+    ]
+   },
+   "avg_rating_reviews": 3.6,
+   "review_intel": {
+    "counts": {
+     "positive": 3,
+     "neutral": 0,
+     "negative": 2
+    },
+    "total": 5,
+    "complaints": [
+     {
+      "topic": "portion",
+      "count": 1,
+      "pct": 50.0
+     },
+     {
+      "topic": "pricing",
+      "count": 1,
+      "pct": 50.0
+     }
+    ],
+    "examples": {
+     "portion": [
+      {
+       "author": "Raj Chen",
+       "rating": 1,
+       "text": "A small portion for sure. Won't be back.",
+       "date": "2026-08-04"
+      }
+     ],
+     "pricing": [
+      {
+       "author": "Aisha Park",
+       "rating": 2,
+       "text": "For me, prices felt high. Expected better.",
+       "date": "2026-07-30"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Tomas Ali",
+      "rating": 5,
+      "text": "For me, big serving, loads of food.",
+      "date": "2026-08-03"
+     },
+     {
+      "author": "Diego Ahmed",
+      "rating": 5,
+      "text": "Tbh, more food than I expected. Highly recommend.",
+      "date": "2026-07-12"
+     },
+     {
+      "author": "Maria Silva",
+      "rating": 5,
+      "text": "Plenty on the plate. Highly recommend.",
+      "date": "2026-07-14"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gyros-on-wheels-san-francisco-2",
+   "name": "Gyros on Wheels",
+   "slug": "gyros-on-wheels-san-francisco-2",
+   "cuisines": [
+    "greek"
+   ],
+   "emoji": "🧆",
+   "rating": 4.1,
+   "review_count": 33,
+   "price_tier": "$$",
+   "status": "open",
+   "prep_min": 8,
+   "queue_min": 5,
+   "address": "San Francisco, CA, 94158",
+   "neighborhood": "San Francisco",
+   "lat": 37.706368356809776,
+   "lng": -122.51781463623047,
+   "phone": "(628) 222-0933",
+   "amenities": [
+    "dog_friendly",
+    "kid_friendly",
+    "seating_available",
+    "wifi_available"
+   ],
+   "payment_methods": [
+    "card",
+    "cash"
+   ],
+   "order_type": [
+    "pickup"
+   ],
+   "hours_today": "11:00–17:00",
+   "blurb": null,
+   "image": "https://s3-media0.fl.yelpcdn.com/bphoto/D67cR7v1twWt-LVDafN2Xg/l.jpg",
+   "photo": null,
+   "menu": [
+    {
+     "id": "mi-0329",
+     "name": "Falafel Bowl",
+     "category": "bowl",
+     "emoji": "🥣",
+     "description": null,
+     "price": 10.62,
+     "dietary": [
+      "vegan"
+     ],
+     "spice": "mild",
+     "calories": 552,
+     "protein_g": 14,
+     "prep_min": 8,
+     "popularity": 0.83,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "cheese sauce",
+      "paneer",
+      "potato"
+     ],
+     "removable": [
+      "cheese sauce"
+     ],
+     "add_ons": [
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0330",
+     "name": "Chicken Shawarma Plate",
+     "category": "plate",
+     "emoji": "🧆",
+     "description": null,
+     "price": 12.66,
+     "dietary": [
+      "gluten-free"
+     ],
+     "spice": "mild",
+     "calories": 699,
+     "protein_g": 32,
+     "prep_min": 9,
+     "popularity": 0.69,
+     "available": true,
+     "base_ingredients": [
+      "cabbage",
+      "corn",
+      "egg",
+      "potato",
+      "teriyaki sauce"
+     ],
+     "removable": [],
+     "add_ons": [
+      {
+       "name": "extra sauce",
+       "price": 0.5
+      }
+     ]
+    },
+    {
+     "id": "mi-0331",
+     "name": "Greek Salad",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 8.54,
+     "dietary": [
+      "vegetarian",
+      "gluten-free"
+     ],
+     "spice": null,
+     "calories": 493,
+     "protein_g": 8,
+     "prep_min": 5,
+     "popularity": 0.68,
+     "available": true,
+     "base_ingredients": [
+      "aioli",
+      "bell pepper",
+      "cabbage",
+      "cilantro",
+      "pork",
+      "rice"
+     ],
+     "removable": [
+      "cilantro"
+     ],
+     "add_ons": [
+      {
+       "name": "extra meat",
+       "price": 2.5
+      },
+      {
+       "name": "extra cheese",
+       "price": 1.0
+      }
+     ]
+    },
+    {
+     "id": "mi-0332",
+     "name": "Hummus & Pita",
+     "category": "side",
+     "emoji": "🍟",
+     "description": null,
+     "price": 6.78,
+     "dietary": [
+      "vegan"
+     ],
+     "spice": null,
+     "calories": 300,
+     "protein_g": 7,
+     "prep_min": 4,
+     "popularity": 0.49,
+     "available": true,
+     "base_ingredients": [
+      "bell pepper",
+      "bread",
+      "cabbage",
+      "egg"
+     ],
+     "removable": [],
+     "add_ons": []
+    }
+   ],
+   "reviews": [
+    {
+     "id": "rev-0126",
+     "author": "Mei Singh",
+     "rating": 3,
+     "text": "Tbh, the portion was tiny. Bummer.",
+     "sentiment": "negative",
+     "topics": [
+      "portion"
+     ],
+     "date": "2026-08-05"
+    },
+    {
+     "id": "rev-0082",
+     "author": "Raj Wong",
+     "rating": 2,
+     "text": "Overall, parking was brutal.",
+     "sentiment": "negative",
+     "topics": [
+      "parking"
+     ],
+     "date": "2026-07-29"
+    },
+    {
+     "id": "rev-0033",
+     "author": "Mei Cohen",
+     "rating": 4,
+     "text": "For me, full of flavor.",
+     "sentiment": "positive",
+     "topics": [
+      "taste"
+     ],
+     "date": "2026-07-21"
+    }
+   ],
+   "sales": {
+    "revenue": 109.82,
+    "orders": 4,
+    "aov": 27.45,
+    "sales_by_day": [
+     {
+      "date": "2026-07-16",
+      "revenue": 58.5,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-18",
+      "revenue": 10.14,
+      "orders": 1
+     },
+     {
+      "date": "2026-07-27",
+      "revenue": 22.61,
+      "orders": 1
+     },
+     {
+      "date": "2026-08-04",
+      "revenue": 18.57,
+      "orders": 1
+     }
+    ],
+    "top_items": [
+     {
+      "name": "Falafel Bowl",
+      "qty": 4,
+      "revenue": 42.48
+     },
+     {
+      "name": "Hummus & Pita",
+      "qty": 3,
+      "revenue": 24.34
+     },
+     {
+      "name": "Greek Salad",
+      "qty": 3,
+      "revenue": 25.62
+     }
+    ]
+   },
+   "avg_rating_reviews": 3.0,
+   "review_intel": {
+    "counts": {
+     "positive": 1,
+     "neutral": 0,
+     "negative": 2
+    },
+    "total": 3,
+    "complaints": [
+     {
+      "topic": "parking",
+      "count": 1,
+      "pct": 50.0
+     },
+     {
+      "topic": "portion",
+      "count": 1,
+      "pct": 50.0
+     }
+    ],
+    "examples": {
+     "parking": [
+      {
+       "author": "Raj Wong",
+       "rating": 2,
+       "text": "Overall, parking was brutal.",
+       "date": "2026-07-29"
+      }
+     ],
+     "portion": [
+      {
+       "author": "Mei Singh",
+       "rating": 3,
+       "text": "Tbh, the portion was tiny. Bummer.",
+       "date": "2026-08-05"
+      }
+     ]
+    },
+    "highlights": [
+     {
+      "author": "Mei Cohen",
+      "rating": 4,
+      "text": "For me, full of flavor.",
+      "date": "2026-07-21"
+     }
+    ]
+   }
+  }
+ ],
+ "overall": {
+  "sales": {
+   "revenue": 5425.2,
+   "orders": 200,
+   "aov": 27.13,
+   "sales_by_day": [
+    {
+     "date": "2026-07-09",
+     "revenue": 172.68,
+     "orders": 7
+    },
+    {
+     "date": "2026-07-10",
+     "revenue": 238.81,
+     "orders": 9
+    },
+    {
+     "date": "2026-07-11",
+     "revenue": 192.77,
+     "orders": 6
+    },
+    {
+     "date": "2026-07-12",
+     "revenue": 92.19,
+     "orders": 4
+    },
+    {
+     "date": "2026-07-13",
+     "revenue": 207.23,
+     "orders": 9
+    },
+    {
+     "date": "2026-07-14",
+     "revenue": 102.63,
+     "orders": 4
+    },
+    {
+     "date": "2026-07-15",
+     "revenue": 297.94,
+     "orders": 10
+    },
+    {
+     "date": "2026-07-16",
+     "revenue": 138.35,
+     "orders": 4
+    },
+    {
+     "date": "2026-07-17",
+     "revenue": 318.31,
+     "orders": 12
+    },
+    {
+     "date": "2026-07-18",
+     "revenue": 79.75,
+     "orders": 4
+    },
+    {
+     "date": "2026-07-19",
+     "revenue": 229.6,
+     "orders": 7
+    },
+    {
+     "date": "2026-07-20",
+     "revenue": 307.48,
+     "orders": 12
+    },
+    {
+     "date": "2026-07-21",
+     "revenue": 131.06,
+     "orders": 5
+    },
+    {
+     "date": "2026-07-22",
+     "revenue": 122.38,
+     "orders": 3
+    },
+    {
+     "date": "2026-07-23",
+     "revenue": 144.12,
+     "orders": 6
+    },
+    {
+     "date": "2026-07-24",
+     "revenue": 59.49,
+     "orders": 3
+    },
+    {
+     "date": "2026-07-25",
+     "revenue": 104.65,
+     "orders": 7
+    },
+    {
+     "date": "2026-07-26",
+     "revenue": 254.7,
+     "orders": 8
+    },
+    {
+     "date": "2026-07-27",
+     "revenue": 150.94,
+     "orders": 6
+    },
+    {
+     "date": "2026-07-28",
+     "revenue": 181.93,
+     "orders": 6
+    },
+    {
+     "date": "2026-07-29",
+     "revenue": 111.61,
+     "orders": 4
+    },
+    {
+     "date": "2026-07-30",
+     "revenue": 216.88,
+     "orders": 9
+    },
+    {
+     "date": "2026-07-31",
+     "revenue": 296.21,
+     "orders": 7
+    },
+    {
+     "date": "2026-08-01",
+     "revenue": 263.23,
+     "orders": 7
+    },
+    {
+     "date": "2026-08-02",
+     "revenue": 185.96,
+     "orders": 7
+    },
+    {
+     "date": "2026-08-03",
+     "revenue": 168.82,
+     "orders": 6
+    },
+    {
+     "date": "2026-08-04",
+     "revenue": 197.59,
+     "orders": 7
+    },
+    {
+     "date": "2026-08-05",
+     "revenue": 107.79,
+     "orders": 8
+    },
+    {
+     "date": "2026-08-06",
+     "revenue": 140.77,
+     "orders": 5
+    },
+    {
+     "date": "2026-08-07",
+     "revenue": 209.33,
+     "orders": 8
+    }
+   ],
+   "top_items": [
+    {
+     "name": "Carne Asada Taco",
+     "qty": 26,
+     "revenue": 123.35
+    },
+    {
+     "name": "French Fries",
+     "qty": 25,
+     "revenue": 126.58
+    },
+    {
+     "name": "Elote (Street Corn)",
+     "qty": 24,
+     "revenue": 130.49
+    },
+    {
+     "name": "Veggie Taco",
+     "qty": 22,
+     "revenue": 88.44
+    },
+    {
+     "name": "Horchata",
+     "qty": 22,
+     "revenue": 83.98
+    },
+    {
+     "name": "Veggie Wrap",
+     "qty": 18,
+     "revenue": 164.99
+    }
+   ]
+  },
+  "review_intel": {
+   "counts": {
+    "positive": 104,
+    "neutral": 0,
+    "negative": 46
+   },
+   "total": 150,
+   "complaints": [
+    {
+     "topic": "portion",
+     "count": 11,
+     "pct": 23.9
+    },
+    {
+     "topic": "parking",
+     "count": 11,
+     "pct": 23.9
+    },
+    {
+     "topic": "pricing",
+     "count": 11,
+     "pct": 23.9
+    },
+    {
+     "topic": "wait_time",
+     "count": 8,
+     "pct": 17.4
+    },
+    {
+     "topic": "taste",
+     "count": 5,
+     "pct": 10.9
+    }
+   ],
+   "examples": {
+    "portion": [
+     {
+      "author": "Ben Reyes",
+      "rating": 3,
+      "text": "Honestly, not enough on the plate. Disappointing.",
+      "date": "2026-07-17"
+     },
+     {
+      "author": "Luca Khan",
+      "rating": 1,
+      "text": "For me, not enough on the plate. Disappointing.",
+      "date": "2026-08-05"
+     },
+     {
+      "author": "Raj Wong",
+      "rating": 2,
+      "text": "Overall, barely a few bites. Bummer.",
+      "date": "2026-08-05"
+     }
+    ],
+    "parking": [
+     {
+      "author": "Jose Nguyen",
+      "rating": 2,
+      "text": "Honestly, parking is a real hassle here. Expected better.",
+      "date": "2026-07-22"
+     },
+     {
+      "author": "Raj Wong",
+      "rating": 2,
+      "text": "For me, parking was a nightmare.",
+      "date": "2026-08-08"
+     },
+     {
+      "author": "Omar Park",
+      "rating": 1,
+      "text": "Overall, parking is a real hassle here. Won't be back.",
+      "date": "2026-08-01"
+     }
+    ],
+    "pricing": [
+     {
+      "author": "Ben Garcia",
+      "rating": 1,
+      "text": "For me, too expensive. Won't be back.",
+      "date": "2026-08-03"
+     },
+     {
+      "author": "Aisha Singh",
+      "rating": 2,
+      "text": "For me, overpriced honestly. Bummer.",
+      "date": "2026-08-01"
+     },
+     {
+      "author": "Carlos Silva",
+      "rating": 3,
+      "text": "Overall, too expensive. Bummer.",
+      "date": "2026-08-04"
+     }
+    ],
+    "wait_time": [
+     {
+      "author": "Raj Wong",
+      "rating": 2,
+      "text": "For me, the line moved so slowly.",
+      "date": "2026-07-27"
+     },
+     {
+      "author": "Grace Nguyen",
+      "rating": 3,
+      "text": "The line moved so slowly.",
+      "date": "2026-07-16"
+     },
+     {
+      "author": "Grace Silva",
+      "rating": 3,
+      "text": "For me, took forever to get served.",
+      "date": "2026-07-16"
+     }
+    ],
+    "taste": [
+     {
+      "author": "Kenji Torres",
+      "rating": 3,
+      "text": "Gotta say, seasoning was all wrong.",
+      "date": "2026-08-03"
+     },
+     {
+      "author": "Ben Garcia",
+      "rating": 1,
+      "text": "Tbh, not much flavor at all.",
+      "date": "2026-08-02"
+     },
+     {
+      "author": "Maria Lopez",
+      "rating": 2,
+      "text": "Gotta say, not much flavor at all. Disappointing.",
+      "date": "2026-08-06"
+     }
+    ]
+   },
+   "highlights": [
+    {
+     "author": "Diego Ahmed",
+     "rating": 5,
+     "text": "Excellent value.",
+     "date": "2026-07-19"
+    },
+    {
+     "author": "Tomas Ali",
+     "rating": 5,
+     "text": "Overall, full of flavor.",
+     "date": "2026-08-04"
+    },
+    {
+     "author": "Raj Chen",
+     "rating": 5,
+     "text": "Plenty on the plate.",
+     "date": "2026-07-31"
+    }
+   ]
+  },
+  "avg_rating_reviews": 3.92,
+  "truck_count": 107,
+  "menu_count": 635,
+  "review_count": 150,
+  "order_count": 200
+ },
+ "featured_dishes": [
+  {
+   "truck": "Poke Delish",
+   "truckId": "poke-delish-san-francisco-5",
+   "emoji": "🍥",
+   "name": "Kalua Pork Plate",
+   "price": 13.4,
+   "dietary": [
+    "gluten-free",
+    "bestseller"
+   ],
+   "rating": 4.5
+  },
+  {
+   "truck": "Dinosaurs",
+   "truckId": "dinosaurs-san-francisco-5",
+   "emoji": "🥪",
+   "name": "Banh Mi",
+   "price": 8.78,
+   "dietary": [
+    "bestseller"
+   ],
+   "rating": 4.2
+  },
+  {
+   "truck": "Dinosaurs",
+   "truckId": "dinosaurs-san-francisco-5",
+   "emoji": "🥪",
+   "name": "Turkey Club",
+   "price": 10.87,
+   "dietary": [],
+   "rating": 4.2
+  },
+  {
+   "truck": "Tokachi Musubi",
+   "truckId": "tokachi-musubi-san-francisco",
+   "emoji": "🍟",
+   "name": "Gyoza (6pc)",
+   "price": 6.86,
+   "dietary": [
+    "bestseller"
+   ],
+   "rating": 4.1
+  },
+  {
+   "truck": "Mexi-Cali",
+   "truckId": "mexi-cali-san-francisco",
+   "emoji": "🍟",
+   "name": "Chips & Guacamole",
+   "price": 6.57,
+   "dietary": [
+    "vegan",
+    "gluten-free",
+    "bestseller"
+   ],
+   "rating": 4.6
+  },
+  {
+   "truck": "El Farolito",
+   "truckId": "el-farolito-san-francisco-2",
+   "emoji": "🌮",
+   "name": "Fish & Chips",
+   "price": 13.42,
+   "dietary": [
+    "bestseller"
+   ],
+   "rating": 4.2
+  },
+  {
+   "truck": "El Farolito",
+   "truckId": "el-farolito-san-francisco-2",
+   "emoji": "🌮",
+   "name": "Chicken Burrito",
+   "price": 11.01,
+   "dietary": [],
+   "rating": 4.2
+  },
+  {
+   "truck": "Wicked Star",
+   "truckId": "wicked-star-san-francisco",
+   "emoji": "🍟",
+   "name": "Spring Rolls (2)",
+   "price": 6.22,
+   "dietary": [
+    "vegan",
+    "gluten-free",
+    "bestseller"
+   ],
+   "rating": 3.4
+  },
+  {
+   "truck": "Gyros on Wheels",
+   "truckId": "gyros-on-wheels-san-francisco-2",
+   "emoji": "🥣",
+   "name": "Falafel Bowl",
+   "price": 10.62,
+   "dietary": [
+    "vegan"
+   ],
+   "rating": 4.1
+  }
+ ],
+ "cuisine_emoji": {
+  "poke": "🍥",
+  "hawaiian": "🍍",
+  "korean": "🍜",
+  "japanese": "🍡",
+  "asian_fusion": "🍛",
+  "mexican": "🌮",
+  "tacos": "🌮",
+  "american": "🍔",
+  "burger": "🍔",
+  "turkish": "🥢",
+  "kebab": "🥢",
+  "greek": "🧆",
+  "filipino": "🍗",
+  "vietnamese": "🍜",
+  "indonesian": "🍛",
+  "thai": "🍛",
+  "indian": "🍛",
+  "chinese": "🥡"
+ }
+}
